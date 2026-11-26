@@ -1,0 +1,646 @@
+start,end,speaker,ami_speaker_best_match,text,screen_status,content_type,slide_id,image_file,description,same_as,ocr_text,n_screens
+7.04,9.90,speaker_0,B,"Oh, yes. I forgot about that. Okay.",outside transcript,,,,,,,0
+14.62,15.40,speaker_0,B,Is that all right now?,no capture,,,,,,,1
+17.46,17.72,speaker_0,B,Okay.,no capture,,,,,,,1
+17.78,19.76,speaker_1,C,That's cool. Someone turn these on for-,no capture,,,,,,,1
+19.78,20.02,speaker_0,B,Sorry?,no capture,,,,,,,1
+20.34,21.46,speaker_1,C,Did someone turn these on for us?,no capture,,,,,,,1
+21.46,21.46,speaker_0,B,Yes.,no capture,,,,,,,1
+21.64,21.90,speaker_1,C,Great.,no capture,,,,,,,1
+23.32,27.14,speaker_0,B,"Okay, everybody all set to start the meeting? Okay, we've got half an hour for this one-",no capture,,,,,,,1
+27.44,27.74,speaker_1,C,Could you plug me in?,no capture,,,,,,,1
+27.74,32.18,speaker_0,B,"-um, to, uh, discuss the, um, functional design.",no capture,,,,,,,1
+32.20,33.60,speaker_1,C,Okay. Thanks.,no capture,,,,,,,1
+34.66,36.04,speaker_0,B,All ready to go? Okay.,no capture,,,,,,,1
+36.48,36.70,speaker_1,C,Okay.,no capture,,,,,,,1
+37.10,64.16,speaker_0,B,"Um, so hopefully you've all been working away, and I've put the minutes of the last meeting in the project folder. Um, so I guess just to, to recap on, uh, what we did last time, um, uh, uh, got to know each other a little bit and, uh, got familiar with all the equipment and started to discuss, um, a bit about the project, you know, cost-wise, how much, how much money we had to sp...",no capture,,,,,,,1
+101.10,116.54,speaker_0,B,"Um, just want to tell you that we have three new requirements, um, which is the, the first one is that, um, uh, the company's decided that teletext is outdated, uh, because of how popular the internet is. Nobody uses teletext very much anymore.",no capture,,,,,,,1
+116.78,116.94,speaker_1,C,Okay.,no capture,,,,,,,1
+117.12,140.88,speaker_0,B,"So we don't really need to consider that in the functionality of the, of the remote control. Um, they've also suggested that we, um, we only use the remote control to control the television, not the VCR, DVD, or anything else. I think the worry is that if the project becomes too complex, then it'll affect, um, how long it takes us to get it into, into production, the time to market.",no capture,,,,,,,1
+141.32,141.52,speaker_1,C,Okay.,no capture,,,,,,,1
+141.82,157.68,speaker_0,B,"So, um, we're just gonna keep it simple, and it'll just control the TV. And the other thing was that the company want the corporate color and slogan to be implemented in the new design. Um, I'm not entirely sure what the corporate color is. It might be yellow because there seems to be a lot of yellow everywhere.",no capture,,,,,,,1
+158.00,162.96,speaker_1,C,"And the slogan, like the actual written slogan or just to embody the idea of the slogan?",no capture,,,,,,,1
+163.26,172.38,speaker_0,B,"Well, that's the thing. I'm, I'm not sure. Um, uh, th- because on the, the company website, uh, what does it say? Um-",no capture,,,,,,,1
+172.40,174.00,speaker_1,C,Put- putting the fashion in electronics.,no capture,,,,,,,1
+174.14,202.92,speaker_0,B,"Yeah, I mean, do they... Is that something they want actually written on it? 'Cause it's quite long. Um, or yeah, just the idea of it. I'm not sure. So that's something we can discuss as well. So those are the three things. Just not to worry about teletext, uh, only control the TV and, um, and, uh, incorporate the, uh, color and slogan of the company. Um, so is everybody okay with any of that or do you want me to recap at all? Nope.",no capture,,,,,,,1
+203.44,203.94,speaker_1,C,"No, we're all set.",no capture,,,,,,,1
+204.62,207.98,speaker_0,B,"Right. Um, time for presentations then. Who would like to go first?",no capture,,,,,,,1
+210.20,210.82,speaker_1,C,"Okay, I'll go first.",no capture,,,,,,,1
+211.16,211.78,speaker_0,B,"Okay, cool.",no capture,,,,,,,1
+217.26,219.62,speaker_1,C,"All right, um, can I st- steal this from the back of your laptop?",no capture,,,,,,,1
+219.92,222.16,speaker_0,B,"Oh, yeah, of course. Yeah. G-go right ahead.",no capture,,,,,,,1
+258.56,261.94,speaker_1,C,"All right, so this is the technical function design. Um-",no capture,,,,,,,1
+262.36,262.74,speaker_0,B,Okay.,no capture,,,,,,,1
+265.58,274.14,speaker_1,C,"All right, um, to do the, um, the design I have, I've had a look online. I've had a look at the homepage, which has given us, um, some ins-inspiration from previous products.",no capture,,,,,,,1
+274.50,274.50,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+275.24,287.02,speaker_1,C,"Um, I've had a look at the previous products to see what they offer, and, um, I would like to ask you guys for, um, your ideas about the design at the end of the meeting. Um, unfortunately we're not allowed to talk outside the meeting room. Uh.",captured,slide,ES2002b_s01,277.29__284.31.jpg,,,"Real Reaction | We put fashion in electronics | Technical Functions Design | Presented by: Craig, User | Interface Designer",3
+287.92,288.04,speaker_0,B,Okay.,captured,slide,ES2002b_s02,284.31__307.96.jpg,,,Method | e Research online | e Look at existing products | e Would ask other users for opinions | — Will do so at end of meeting | Real Reaction,1
+289.30,309.20,speaker_1,C,"Um, having a look at the existing products, I found out that, um, it tends to come in sort of two extremes. There's either, um, a very complicated one that's got lots of buttons, lots of colors, very confusing. You don't know what you're doing. Um, in that case, the labeling tends to be very bad. Um, there's an example I'll show you at the end. Um, or show you now. Uh, uh-",captured,slide,ES2002b_s02,284.31__307.96.jpg,,,Method | e Research online | e Look at existing products | e Would ask other users for opinions | — Will do so at end of meeting | Real Reaction,2
+315.52,315.60,speaker_0,B,Mm-hmm.,captured,slide,ES2002b_s03,307.96__335.19.jpg,,,e Many controls too complicated | — Too many buttons can confuse user | — Confusing labelling is bad eg PROG/PRG | e Simplicity good | — but can lead to “clunky” design | — Hard to access advanced funcitons eg slow | motion | Real Reaction,1
+315.66,323.40,speaker_1,C,"You see just here, um, there's a button there and there. This one's prog... Sorry, that one's prog, and that one's prog, and it doesn't really tell you what it does.",captured,slide,ES2002b_s03,307.96__335.19.jpg,,,e Many controls too complicated | — Too many buttons can confuse user | — Confusing labelling is bad eg PROG/PRG | e Simplicity good | — but can lead to “clunky” design | — Hard to access advanced funcitons eg slow | motion | Real Reaction,1
+334.52,345.06,speaker_1,C,"Um, I'm not sure if you had a, a look at the other, um, control on that example. Um, it's a very simple one. It's got only the basic functions, but, um, it's the same size as the, the-",captured,picture,ES2002b_s04,335.19__354.08.jpg,Picture of two TV remote controls,,Edit Insert Format Tools SlideShow Window Help + | 75% drial A | Slides x = | - Microsoft Internet Explorer | c | File Edit View Tools Help | © x | Search S (4 | | | Address €) http: | 44 4 | Done Local intranet | Slide 3 of S RealReaction English | art AY - | projectdocumentson... | Microsoft PowerPoint ... EN,2
+345.92,345.92,speaker_0,B,Oop,captured,picture,ES2002b_s04,335.19__354.08.jpg,Picture of two TV remote controls,,Edit Insert Format Tools SlideShow Window Help + | 75% drial A | Slides x = | - Microsoft Internet Explorer | c | File Edit View Tools Help | © x | Search S (4 | | | Address €) http: | 44 4 | Done Local intranet | Slide 3 of S RealReaction English | art AY - | projectdocumentson... | Microsoft PowerPoint ... EN,1
+345.98,359.40,speaker_1,C,"... hard to use one. Uh, it looks a bit clunky. So very big and not very much used for actual buttons. Um, and it's just very hard to access the advanced functions. There's, there's nothing, for instance, for a slow motion button.",captured,picture,ES2002b_s04,335.19__354.08.jpg,Picture of two TV remote controls,,Edit Insert Format Tools SlideShow Window Help + | 75% drial A | Slides x = | - Microsoft Internet Explorer | c | File Edit View Tools Help | © x | Search S (4 | | | Address €) http: | 44 4 | Done Local intranet | Slide 3 of S RealReaction English | art AY - | projectdocumentson... | Microsoft PowerPoint ... EN,2
+362.40,378.96,speaker_1,C,"Um, my own preferences, I prefer the, the clunky one. Um, it's very easy to use. Um, but unfortunately it does lack the advanced functions which I, I quite like having on the controls. Um, which I believe that the advanced functions should maybe be hidden in a drawer or something like that, could be pulled out from the bottom of it.",captured,slide,ES2002b_s03,354.08__381.01.jpg,,,e Many controls too complicated | — Too many buttons can confuse user | — Confusing labelling is bad eg PROG/PRG | e Simplicity good | — but can lead to “clunky” design | — Hard to access advanced funcitons eg slow | motion | Real Reaction,1
+381.20,386.16,speaker_1,C,"Mm. So now I'd, I'd ask for your preferences. Um, I'm not sure how long we've got.",captured,slide,ES2002b_s05,381.01__401.44.jpg,,,Personal Preferences | e Prefer simplicity and attractive look to lots | of advanced functions | e Advanced functions should be available | but not directly accessible to reduce | confusion | Real Reaction,1
+386.84,391.74,speaker_0,B,"Um, well, we can chat away for, uh, for five minutes or so I think.",captured,slide,ES2002b_s05,381.01__401.44.jpg,,,Personal Preferences | e Prefer simplicity and attractive look to lots | of advanced functions | e Advanced functions should be available | but not directly accessible to reduce | confusion | Real Reaction,1
+391.82,391.94,speaker_1,C,Mm-hmm.,captured,slide,ES2002b_s05,381.01__401.44.jpg,,,Personal Preferences | e Prefer simplicity and attractive look to lots | of advanced functions | e Advanced functions should be available | but not directly accessible to reduce | confusion | Real Reaction,1
+391.94,393.48,speaker_0,B,"At, at most. Just a couple of minutes anyway.",captured,slide,ES2002b_s05,381.01__401.44.jpg,,,Personal Preferences | e Prefer simplicity and attractive look to lots | of advanced functions | e Advanced functions should be available | but not directly accessible to reduce | confusion | Real Reaction,1
+394.38,410.66,speaker_2,D,"Yeah, like a lot of, a lot of what I've, um, read and prepared for this meeting fits in really closely with what, with what Craig's just gone over. So in part I could, I could give you some of my personal preferences, but I could also th- add some to this, which is just about sort of, um, sort of market research.",captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,2
+411.04,411.44,speaker_0,B,Mm-hmm.,captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+411.56,412.68,speaker_2,D,"But anyway, um-",captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+412.76,414.50,speaker_0,B,"So, so we'll, we'll stick to kind of your-",captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+414.60,415.98,speaker_1,C,Which one's the clunky one? The one on the left or the one on the right?,captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+415.98,416.88,speaker_2,D,"Um, the clunky one is the one on the right.",captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+417.18,417.32,speaker_1,C,Okay.,captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+417.56,417.62,speaker_0,B,Mm-hmm.,captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,1
+417.70,420.88,speaker_2,D,"And clunky in what sense? Like, um, heavier, larger?",captured,slide,ES2002b_s06,401.44__419.72.jpg,,,Your preferences | e Look at example remotes | — Favourite features? | — Dislikes? | — Required functions? | Real Reaction,2
+421.16,425.46,speaker_1,C,"Um, I think it's supposed to be the same size, but, um, it's got much fewer buttons. It's-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+426.08,426.70,speaker_2,D,"I see, so it's more-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+426.75,427.30,speaker_1,C,It's very spread out,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+427.46,427.96,speaker_2,D,... basic kind of.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+428.06,428.40,speaker_0,B,"Like kind of, yeah.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+429.06,429.56,speaker_2,D,Right. Okay.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+429.60,431.54,speaker_1,C,"And you get the idea it'll be p- probably this size, you know?",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+431.54,431.64,speaker_2,D,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+431.92,433.08,speaker_1,C,And it's got very few buttons on it and-,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+433.40,433.66,speaker_2,D,Yeah. Sure.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+434.16,451.90,speaker_0,B,"Well, I think it's a valid point. I mean, like the one on the left looks quite, um, quite complicated, and that P-R-G, P-R-O-G thing is incredibly confusing. Um, so I see, I see why you, you know, you might prefer the simpler design, but yeah, you don't want to lose out on, you know, what it does.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+451.98,451.98,speaker_2,D,Mm-hmm.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+451.98,456.76,speaker_0,B,"So maybe, you know, you know you get a lot of remote controls where you kind of flip the thing open? I think that's a good idea.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+457.48,457.58,speaker_2,D,Mm-hmm.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+457.66,458.44,speaker_0,B,I think it is a good idea.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+460.18,465.44,speaker_1,C,"Mm-hmm. Um, do we have any functions, um, we'd want on it? I mean, so far I've got, um, on and off-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+465.62,465.68,speaker_0,B,Mm-hmm,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+465.68,468.28,speaker_1,C,"... um, switch the channel up and down and put the volume up and down.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+468.52,468.70,speaker_0,B,Uh-huh.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+468.76,470.78,speaker_1,C,"Um, they're just the, the very basics you could use for a TV.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+471.04,474.36,speaker_0,B,"Uh-huh, and then actual numbers for channels as well. Yeah.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+475.26,477.28,speaker_1,C,"Um, you say that's a, a required one or a requested one?",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+477.70,478.30,speaker_2,D,Which was that?,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+478.60,481.08,speaker_1,C,"Um, the channels, like the, the numbers or-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+481.12,482.32,speaker_2,D,"Up, the numbers or the up... Yeah.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+483.04,490.14,speaker_0,B,"God, I, I would say that's required. I mean, there's no way anybody's gonna buy a remote control these days where she can't actually individually select channels.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+490.16,490.16,speaker_2,D,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+490.16,503.86,speaker_0,B,"I mean, would anybody disagree with that? Um, what else? Uh, so don't need to worry about teletext, don't need to worry about VCR. Uh, any kind of like-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+503.90,504.06,speaker_1,C,We don't?,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+504.12,507.92,speaker_0,B,"... display controls at all, do you think we need to worry about? You know, like brightness and contrast.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+507.94,513.38,speaker_2,D,"Yeah. Well, I think, I think es- essentially what we're doing right now is we're categorizing. We're saying, well, we want this to be a product that offers all the-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+513.82,513.96,speaker_0,B,Mm-hmm,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+513.96,520.02,speaker_2,D,"... sort of more tricky features, but we want them to be in another area. Is that right? Is that what we're-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+520.08,520.14,speaker_0,B,Mm.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+520.16,525.76,speaker_2,D,.. doing? We're kind of like sorting them. Or are we actually eliminating things we just don't want the product to have?,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+526.40,530.36,speaker_0,B,"I think... Are you, are you maybe kind of thinking what we absolutely have to have and what would be nice?",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+530.54,534.02,speaker_1,C,"Um, to start with, um, sort of a bit both. Um, we need to find out exactly what we have to have.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+534.26,534.34,speaker_0,B,Mm-hmm.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+534.58,537.10,speaker_1,C,"Um, and after that we can add things if they're possible.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+537.56,544.06,speaker_0,B,"Okay. Right. Well, do you wanna maybe just at this point decide on what we absolutely must have as a-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+544.20,544.20,speaker_2,D,Yeah,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+544.22,545.32,speaker_0,B,... as a function of this?,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+545.72,545.78,speaker_2,D,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+545.88,549.26,speaker_0,B,"Um, so, so far, just to recap, you've got volume-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+549.26,549.30,speaker_1,C,"Um, on and off",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+549.32,550.24,speaker_0,B,... and channel control and-,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+550.30,553.02,speaker_1,C,Volume and channel and skip to certain channels with the numbers.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+553.36,555.02,speaker_0,B,Right. Okay. Um-,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+560.06,572.06,speaker_2,D,"Well, one, one way I would look at this, um, would be that we a- approach the different controls in terms of, um, like control type, so that for the user it's very clear what they want to do, where they go.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+572.16,572.66,speaker_0,B,Mm-hmm. Mm.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+572.66,584.82,speaker_2,D,"Uh, and also think maybe a little bit about sort of w- what would just wanna be ac- easily accessible. For example, if we had audio controls, those could be something people set up very rarely. Maybe they're un- they're, they're, they're in a little area-",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+585.10,585.34,speaker_0,B,Mm-hmm,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+585.34,617.02,speaker_2,D,"... but covered up. Um, things like channel and volume, um, are used all the time, so we just have them right out on top. Um, very, just very sort of self-explanatory. Um, so maybe we need to think about having three or more groupings of controls, you know? Like one which are just the, the habitual ones that should be right within your natural grip, and others that are, um, also available, and then others that are concealed, something like that.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+617.02,638.18,speaker_0,B,"Okay. Uh, well, just to, to wrap up quickly on this, this little section. Have I just lost... I don't know. Um, do you think maybe that's the only kind of, uh, essential requirement and then maybe just things that would be nice if it could do would be things like audio set-up and display set-up and things like that? Maybe like a mute button, that sort of thing.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+638.28,638.28,speaker_1,C,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+638.32,640.68,speaker_0,B,"Any, have you anything to add to that at all?",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+641.02,641.22,speaker_1,C,No.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+641.64,641.88,speaker_0,B,No?,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+642.14,642.98,speaker_1,C,"Uh, I don't, no.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+643.66,644.04,speaker_0,B,Okay.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+644.32,644.52,speaker_2,D,Mm-hmm.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+645.18,645.46,speaker_0,B,Right.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+646.10,646.12,speaker_2,D,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+646.12,649.52,speaker_0,B,"Um, okay. If we can move on to next presentation then, please.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+650.52,650.70,speaker_2,D,Sure.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+651.10,652.22,speaker_0,B,"Um, don't know.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+652.24,652.68,speaker_1,C,Do you want me to-,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+652.72,655.72,speaker_2,D,"Can this, can this pl- reach, can this plug come across?",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+655.80,657.16,speaker_0,B,"Probably not, actually.",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+658.16,658.30,speaker_2,D,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+658.34,658.54,speaker_0,B,See.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+658.62,660.52,speaker_2,D,So why don't I just pick up and move the-,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+660.54,660.72,speaker_0,B,Yeah.,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+662.06,662.54,speaker_2,D,"Yeah, I'll just...",captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+665.22,665.86,speaker_2,D,Why don't I just...,captured,picture,ES2002b_s07,419.72__605.80.jpg,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,"ENGINEERING | CENTRED | TASKS | 1, Play your movie | 2. Stop your movie | 3, Eject CD | VSER | CENTRED | AP | function of a remote control is basically to | ages to the television set. Example messages are: | ch on"", ""switch off"", ""switch toe next channel"", “switch | amel 9"". “turn volume up"", ete. Above are two | ples of a remote control interface throuch which thece",1
+679.30,679.82,speaker_2,D,Hmm.,no capture,,,,,,,1
+679.98,680.58,speaker_1,C,Switch the specs there.,no capture,,,,,,,1
+680.94,685.88,speaker_2,D,Can you go behind me kind of? This is so... This-,no capture,,,,,,,1
+685.88,686.66,speaker_0,B,It's a bit complicated.,no capture,,,,,,,1
+686.74,687.02,speaker_2,D,I'm all in your knot now.,no capture,,,,,,,1
+687.04,688.78,speaker_0,B,"Be nice if everything was wireless, wouldn't it?",no capture,,,,,,,1
+689.78,690.08,speaker_2,D,Okay.,no capture,,,,,,,1
+691.74,692.10,speaker_0,B,Right.,no capture,,,,,,,1
+696.24,708.08,speaker_2,D,"Um, so I can, I can say already, I don't know whether this is for good or for bad, but there'll be a lot of, kind of, uh, redundancy in the, in the, the issues and the, the, uh I think-",no capture,,,,,,,1
+708.12,709.72,speaker_0,B,"Oh, like overlap between what you said?",no capture,,,,,,,1
+709.80,709.80,speaker_2,D,Yeah. Yeah.,no capture,,,,,,,1
+709.82,710.54,speaker_0,B,"Oh, probably. No, that's fine.",no capture,,,,,,,1
+710.58,730.00,speaker_2,D,"Which is ma- not necessarily a bad thing, but may- what I've already started doing is I created a slide in, in my presentation here, so, um, so that we kind of think, well, what's the cumulative effect of what we've taken from your ideas and, and mine? Because certainly I, I have a hard time separating- ... separating things completely. Obviously-",no capture,,,,,,,1
+730.04,730.66,speaker_0,B,"Mm, hard to know what, where your role ends, yeah",no capture,,,,,,,1
+730.68,739.76,speaker_2,D,"... obviously what you've just told me, what you've just told me impacts a lot on what, um, like, market research mm, that, that I've been... So, how do I, how do I get this up?",no capture,,,,,,,1
+739.78,740.06,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+740.46,740.50,speaker_3,A,Hold function and F8.,no capture,,,,,,,1
+740.50,740.94,speaker_0,B,"Uh, pr- yeah.",no capture,,,,,,,1
+741.00,741.02,speaker_2,D,Okay.,no capture,,,,,,,1
+741.02,742.34,speaker_0,B,"Put function and F8, yeah.",no capture,,,,,,,1
+743.02,743.30,speaker_2,D,Okay.,no capture,,,,,,,1
+745.72,747.06,speaker_2,D,"All right. So,",no capture,,,,,,,1
+751.84,752.00,speaker_2,D,F8?,no capture,,,,,,,1
+752.60,755.12,speaker_3,A,"Function, the blue button next to the control on the left.",no capture,,,,,,,1
+755.24,755.80,speaker_2,D,"Oh, and F8.",no capture,,,,,,,1
+756.06,756.08,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+756.10,756.12,speaker_2,D,Okay.,no capture,,,,,,,1
+756.12,757.20,speaker_3,A,You have to push it together.,no capture,,,,,,,1
+757.78,757.94,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+764.78,766.36,speaker_2,D,"Okay, I think that, uh, that's doing it now.",no capture,,,,,,,1
+769.88,771.20,speaker_3,A,"Oh, try that again.",no capture,,,,,,,1
+773.04,773.50,speaker_2,D,"Uh, again?",no capture,,,,,,,1
+773.54,775.20,speaker_3,A,"I think maybe the, the wire in the back might be loose.",no capture,,,,,,,1
+775.64,775.90,speaker_2,D,Okay.,no capture,,,,,,,1
+776.34,776.82,speaker_0,B,"Yeah, you wanna?",no capture,,,,,,,1
+778.32,778.48,speaker_2,D,Um.,no capture,,,,,,,1
+778.70,779.44,speaker_0,B,"Oh, oh, here we go.",no capture,,,,,,,1
+779.64,779.64,speaker_3,A,Yeah.,no capture,,,,,,,1
+779.68,780.02,speaker_2,D,"Okay, great.",no capture,,,,,,,1
+780.06,780.40,speaker_0,B,There you go.,no capture,,,,,,,1
+782.52,799.62,speaker_2,D,"Okay. Just, um, before I bring this up, what I'll just say is, um, what I've, what I've done is tried to collect some information so that I can then relay this to, to you guys so that it's, now becomes a collective thing, and then kind of lead us in the direction of deciding, okay, what, what are our options? What should we decide? And do you know what I mean? So...",no capture,,,,,,,1
+801.56,801.82,speaker_0,B,Um.,no capture,,,,,,,1
+801.84,805.88,speaker_3,A,Just there 'cause we can't see that.,no capture,,,,,,,1
+805.88,805.88,speaker_2,D,Okay.,no capture,,,,,,,1
+805.88,805.88,speaker_0,B,Okay.,no capture,,,,,,,1
+805.88,807.90,speaker_3,A,It's much better.,no capture,,,,,,,1
+807.92,808.20,speaker_0,B,Right.,no capture,,,,,,,1
+810.82,811.36,speaker_0,B,"Can you, um...",no capture,,,,,,,1
+814.08,814.84,speaker_0,B,All right. Okay.,no capture,,,,,,,1
+815.00,860.74,speaker_2,D,"Okay. All right. How do we... Okay. So, um, that makes sense. So what I've basically got is I've just looked into some information and sort of tried to think about how, how we could review it and how we could-- and what kind of decisions we could take away from it. And then maybe by the end of just looking at some of these things, we can think about what are our priorities. 'Cause certainly there's lots of different information to go through. So, um, I'm thinking here about, uh, primarily about customer needs, that we start with the customer and, you know, what they want and what are issues with, with, um, existing products. Uh, to think about trends and also about try and connect that, as you see with the company vision, which is about fashion and electronics. Um, and then as I say, we'd like to prioritize our design features from this and, um...",no capture,,,,,,,1
+863.30,864.10,speaker_3,A,Balancing on top.,no capture,,,,,,,1
+864.54,912.08,speaker_2,D,"Okay. Um, so this is what I've found here. Um, a lot of this is new to me, so we'll just read through together. Um, users dislike the look and feel of current remote controls, so they find them ugly. Most people find them ugly. Um, the vast majority would spend more money for it to look fancy. As well, we'll see later, vast majority of people would spend more money for, um, slightly more intuitive controls, such as voice recognition. Okay, I'm gonna-- we'll look at that in a second. Um, most people use only a f- a very slim portion of all the controls. So, I guess what we're looking at here is people want this technology. They tend to use the most simple controls, and overall, they find remote controls to be something they don't-- doesn't really appeal to them.",no capture,,,,,,,1
+912.26,912.30,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+912.64,957.78,speaker_2,D,"So I think what we're doing is we're trying to take, like, for me, this is sort of like three different, different, um, inspirations. You know, one is that we want, uh, something that's high tech, but we want it to seem easy. And in spite of the primitive side of it and the very high tech side, we want it to just be an appealing piece of equipment in people's hands. Um, frustrations, they get lost a lot s- as it came up in our last meeting. Um, takes time to learn how to use them. This is, uh, why I mentioned when Craig was, uh, showing us some ideas that we actually try and group controls, so that it doesn't just look like a big panel. Kinda like when you, you look at, you know, a new computer keyboard or something that it's quite explanatory. If you want audio, if you want visual, then you have those. Um,",no capture,,,,,,,1
+960.22,962.26,speaker_2,D,"and I will admit, I don't know what RSI stands for.",no capture,,,,,,,1
+962.30,963.42,speaker_0,B,Repetitive strain injury.,no capture,,,,,,,1
+964.90,967.44,speaker_3,A,Is installing a new remote control something that people-,no capture,,,,,,,1
+968.08,1006.34,speaker_2,D,"Uh, no, that did not come up at all. Um, so here, here's another, um, sort of a, a review here of the main things. I also found that most people would, uh, adults at least, would pay more for voice recognition. Now, apparently we do have access to all the tech- cutting edge technology in remote controls, so I don't know if that's possible. We might consider getting into it. Um, and, and again here, as we sort of move m- sort of think, start thinking about how we wanna sell and market this, I think a recurring theme here is the company wants it to be-- wants us to make something that's fashionable and sleek-",no capture,,,,,,,1
+1006.36,1006.44,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1006.44,1021.64,speaker_2,D,"... and trendy. Um, people, uh, additionally aren't, aren't liking the, uh, appearance of their products, so we wanna think about, as we take all the sort of the techy features, how we can, um, put that into a unit which is, which people like, you know?",no capture,,,,,,,1
+1021.66,1021.72,speaker_0,B,Okay.,no capture,,,,,,,1
+1021.74,1023.32,speaker_2,D,They like the aesthetics and the ergonomics.,no capture,,,,,,,1
+1023.60,1026.88,speaker_0,B,So want something that looks good and is easy to use.,no capture,,,,,,,1
+1027.14,1027.20,speaker_2,D,Yeah.,no capture,,,,,,,1
+1027.24,1028.22,speaker_0,B,Big priorities. Okay.,no capture,,,,,,,1
+1028.26,1057.48,speaker_2,D,"Yeah, so, you know, just looking at what, what Craig, um, Craig's i- uh, ideas there s- sort of tell me that maybe what we wanna do is try and, um, separate the different things that we want to include in this. So if we do say, well, we want there to be all the technology, will we try and make that almost be, like, optional technology? You know, it's like, like, I find a lot of TVs these days, something really nice about them is if you wanna just turn them on and off, you can. But they have little panels where you click-",no capture,,,,,,,1
+1057.56,1057.60,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1057.60,1059.96,speaker_2,D,"... and there's just, like, tons of features.",no capture,,,,,,,1
+1060.28,1060.36,speaker_0,B,So-,no capture,,,,,,,1
+1060.44,1060.70,speaker_2,D,You go through-,no capture,,,,,,,1
+1060.70,1062.70,speaker_0,B,... if you wanna group all the different kind of-,no capture,,,,,,,1
+1063.10,1063.22,speaker_2,D,Yeah,no capture,,,,,,,1
+1063.24,1066.62,speaker_0,B,"... types of functions together, you know, that's, I think that's a good idea.",no capture,,,,,,,1
+1066.66,1076.12,speaker_2,D,"Yeah. That's, that's sort of, um... But I've-- I'm-- My hope here is that I'm putting out this information so we can then say, ""Okay, well, how do we collectively-",no capture,,,,,,,1
+1076.58,1076.62,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1076.62,1077.68,speaker_2,D,"... move on with it?"" Um-",no capture,,,,,,,1
+1077.74,1077.78,speaker_0,B,Okay,no capture,,,,,,,1
+1077.84,1087.54,speaker_2,D,"... I, I haven't brought out one specific marketing idea, although my sense is that what we should try and think about is what are the current trends in materials, in shapes, in styles-",no capture,,,,,,,1
+1087.64,1088.04,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1088.04,1092.68,speaker_2,D,"... and then use that, but not let that ... confine us technologically.",no capture,,,,,,,1
+1093.32,1093.66,speaker_0,B,Okay.,no capture,,,,,,,1
+1093.94,1094.08,speaker_2,D,So.,no capture,,,,,,,1
+1094.76,1095.06,speaker_0,B,Right.,no capture,,,,,,,1
+1095.52,1098.82,speaker_2,D,"All right. Any, um, comments on all of that?",no capture,,,,,,,1
+1100.22,1108.18,speaker_0,B,"Well, um, one of the things that we have to decide on by the end of the meeting is who we're gonna be, um, who's our, our target audience, our target market.",no capture,,,,,,,1
+1108.26,1108.36,speaker_2,D,Yeah.,no capture,,,,,,,1
+1108.74,1119.42,speaker_0,B,"Um, so if we want something that, that looks good and is easy to use but has, is fairly powerful product or whatever, who do we really want to aim that at?",no capture,,,,,,,1
+1119.52,1119.78,speaker_2,D,Okay.,no capture,,,,,,,1
+1120.36,1120.56,speaker_0,B,I mean-,no capture,,,,,,,1
+1121.22,1122.66,speaker_2,D,Where's the money? Who-,no capture,,,,,,,1
+1122.78,1124.68,speaker_0,B,"Yeah. Who, who would have the money to spend-",no capture,,,,,,,1
+1125.44,1125.50,speaker_2,D,Yeah,no capture,,,,,,,1
+1125.50,1126.38,speaker_0,B,"... well, i-if, if like-",no capture,,,,,,,1
+1126.38,1127.22,speaker_2,D,And who watches TV?,no capture,,,,,,,1
+1127.24,1129.64,speaker_0,B,"... 25 euro is our, is our selling price-",no capture,,,,,,,1
+1129.70,1129.90,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+1129.90,1133.34,speaker_0,B,"... and you can imagine... Well, I don't, I'm not really sure how much that will retail at.",no capture,,,,,,,1
+1133.42,1133.74,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1133.74,1137.54,speaker_0,B,"But you want... It's somebody who's not gonna just use the remote that comes with their telly, I suppose.",no capture,,,,,,,1
+1137.58,1137.58,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1137.58,1139.10,speaker_0,B,They're gonna actually go out and buy one.,no capture,,,,,,,1
+1139.32,1139.36,speaker_2,D,Yeah.,no capture,,,,,,,1
+1139.66,1141.46,speaker_0,B,"So, who do you think we're aiming this at?",no capture,,,,,,,1
+1142.86,1152.02,speaker_3,A,"Um, I think it'll be the mid-range to high-end market in terms of people 'cause 25 euros for a remote, how much is that l- locally in pounds?",no capture,,,,,,,1
+1152.04,1153.84,speaker_0,B,"It's about 16, 17 pounds I think.",no capture,,,,,,,1
+1153.88,1157.58,speaker_3,A,Is that too... Is that a lot of money to buy an extra remote or a replacement remote?,no capture,,,,,,,1
+1157.64,1157.64,speaker_0,B,Yeah.,no capture,,,,,,,1
+1157.66,1157.92,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1158.36,1158.60,speaker_0,B,Okay.,no capture,,,,,,,1
+1158.60,1165.12,speaker_3,A,"Right? Um, so maybe not the high-end range, but maybe middle, middle-uppish-",no capture,,,,,,,1
+1165.70,1165.96,speaker_0,B,Okay,no capture,,,,,,,1
+1165.98,1169.02,speaker_3,A,... kind of. You know how much? I don't know. I guess you'd pay what?,no capture,,,,,,,1
+1169.02,1169.20,speaker_0,B,Okay.,no capture,,,,,,,1
+1169.58,1173.42,speaker_3,A,"10, 10 quid for a remote? Like a simple replacement remote.",no capture,,,,,,,1
+1173.48,1173.64,speaker_0,B,Yeah.,no capture,,,,,,,1
+1173.86,1176.28,speaker_3,A,"I mean, if you lost your remote and the first thing you just wanna go out and get.",no capture,,,,,,,1
+1176.34,1176.50,speaker_0,B,Yeah.,no capture,,,,,,,1
+1176.64,1176.90,speaker_2,D,Yeah.,no capture,,,,,,,1
+1177.12,1177.12,speaker_0,B,Yeah.,no capture,,,,,,,1
+1177.16,1185.96,speaker_2,D,"This, this kind of touches on your comments there, David. These are the age groups which we have information on, and these are... This is a table of h- what people would pay more for a certain feature.",no capture,,,,,,,1
+1186.28,1186.28,speaker_0,B,Okay.,no capture,,,,,,,1
+1186.32,1191.08,speaker_2,D,"Just gives us a rough idea of where the, the will to spend money on TV equipment is.",no capture,,,,,,,1
+1191.72,1191.80,speaker_0,B,Okay.,no capture,,,,,,,1
+1191.90,1194.18,speaker_2,D,Mostly focused around the 25 age group.,no capture,,,,,,,1
+1194.70,1197.54,speaker_0,B,"Yeah. So do you think we're, we're aiming at a fairly young market then?",no capture,,,,,,,1
+1198.44,1198.52,speaker_3,A,Yeah.,no capture,,,,,,,1
+1198.78,1200.30,speaker_2,D,Sort of young professional kind of-,no capture,,,,,,,1
+1200.42,1200.66,speaker_0,B,Yeah,no capture,,,,,,,1
+1200.66,1201.14,speaker_2,D,... market.,no capture,,,,,,,1
+1201.18,1208.24,speaker_0,B,"Okay. Um, do you think then, uh, voice recognition is something we should really, seriously consider?",no capture,,,,,,,1
+1210.64,1211.64,speaker_0,B,"What, what do you think, Craig?",no capture,,,,,,,1
+1212.04,1216.90,speaker_1,C,"Well, did you not say it was the, the adults that were going for the, the voice recognition rather than the younger group?",no capture,,,,,,,1
+1216.90,1219.02,speaker_2,D,"Oh, yeah. That's the... Yeah.",no capture,,,,,,,1
+1219.76,1219.88,speaker_1,C,So.,no capture,,,,,,,1
+1219.95,1222.76,speaker_2,D,"It does, it does fit with the market that we're sort of identifying-",no capture,,,,,,,1
+1222.88,1223.16,speaker_0,B,Yeah,no capture,,,,,,,1
+1223.16,1223.86,speaker_2,D,... in terms of-,no capture,,,,,,,1
+1224.62,1227.92,speaker_0,B,"I think we are gonna have to narrow it down to say, let's target these people-",no capture,,,,,,,1
+1227.96,1227.96,speaker_2,D,Okay,no capture,,,,,,,1
+1227.96,1229.10,speaker_0,B,... and give them what they want and-,no capture,,,,,,,1
+1229.16,1229.22,speaker_2,D,Yeah,no capture,,,,,,,1
+1229.22,1229.96,speaker_0,B,"... 'cause, you know-",no capture,,,,,,,1
+1230.22,1230.36,speaker_2,D,Sure,no capture,,,,,,,1
+1230.36,1231.78,speaker_0,B,... there needs to be some kind of-,no capture,,,,,,,1
+1232.20,1232.38,speaker_2,D,Sure,no capture,,,,,,,1
+1232.38,1233.56,speaker_0,B,... selling point to it.,no capture,,,,,,,1
+1233.72,1233.82,speaker_2,D,Yeah.,no capture,,,,,,,1
+1234.08,1246.98,speaker_0,B,"So, um, anybody anything, uh, to add? Just kind of young professionals. Uh, like if we are going to include speech recognition, it's kind of between 15 and 35 seem to be like a really high response to that.",no capture,,,,,,,1
+1247.10,1247.26,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1247.52,1250.06,speaker_0,B,"So, we could say that was our target.",no capture,,,,,,,1
+1250.06,1253.34,speaker_3,A,"I, I think 25 to 35 is, is, is fair to add that in as well.",no capture,,,,,,,1
+1253.36,1253.38,speaker_0,B,Yeah.,no capture,,,,,,,1
+1253.76,1254.04,speaker_3,A,Because-,no capture,,,,,,,1
+1254.22,1254.30,speaker_2,D,Yeah,no capture,,,,,,,1
+1254.30,1256.72,speaker_3,A,... that's more than half your group of people who are willing to at least-,no capture,,,,,,,1
+1256.86,1256.86,speaker_2,D,Yeah,no capture,,,,,,,1
+1256.86,1258.00,speaker_3,A,... try and use your technology.,no capture,,,,,,,1
+1258.02,1258.02,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1258.04,1258.12,speaker_2,D,Yeah.,no capture,,,,,,,1
+1258.56,1261.46,speaker_0,B,"Okay. So 15 to 35, look fairly young.",no capture,,,,,,,1
+1261.74,1261.80,speaker_2,D,Yeah.,no capture,,,,,,,1
+1261.86,1265.04,speaker_0,B,"You know, they have a bit of expendable income to spend on this sort of thing.",no capture,,,,,,,1
+1265.10,1265.14,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1265.16,1268.92,speaker_3,A,I think perhaps that age group is significant as well because those are people who use a computer-,no capture,,,,,,,1
+1269.28,1269.46,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+1269.46,1273.32,speaker_3,A,"... who are familiar with their, with computers in, in their everyday work.",no capture,,,,,,,1
+1273.40,1273.62,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1273.86,1273.94,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1274.04,1275.96,speaker_3,A,I think people who are maybe about-,no capture,,,,,,,1
+1276.22,1276.42,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+1276.42,1279.98,speaker_3,A,"... I wouldn't say 35, but people are around 40-ish and above now-",no capture,,,,,,,1
+1280.38,1280.56,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+1280.58,1280.96,speaker_3,A,... would-,no capture,,,,,,,1
+1281.94,1281.96,speaker_2,D,P- yeah,no capture,,,,,,,1
+1281.96,1284.20,speaker_3,A,... not be so dependent and reliant on a computer-,no capture,,,,,,,1
+1284.32,1284.32,speaker_0,B,Yeah,no capture,,,,,,,1
+1284.32,1285.12,speaker_3,A,... or a mobile phone-,no capture,,,,,,,1
+1285.14,1285.14,speaker_2,D,"Yeah, sure",no capture,,,,,,,1
+1285.14,1285.80,speaker_3,A,... or something like that.,no capture,,,,,,,1
+1286.18,1286.30,speaker_0,B,So-,no capture,,,,,,,1
+1286.36,1287.76,speaker_3,A,"So these are people who are gadgety, right?",no capture,,,,,,,1
+1287.84,1287.84,speaker_0,B,Yeah.,no capture,,,,,,,1
+1287.86,1292.80,speaker_3,A,"People who are growing up used to, you know, in schools and in universities, when they go on to their working lives-",no capture,,,,,,,1
+1293.04,1293.18,speaker_0,B,Yeah,no capture,,,,,,,1
+1293.18,1293.84,speaker_3,A,... people who would be regular-,no capture,,,,,,,1
+1293.94,1296.34,speaker_0,B,"So they'll not, not shy away from something quite high tech.",no capture,,,,,,,1
+1296.36,1296.38,speaker_3,A,Yeah. Yeah.,no capture,,,,,,,1
+1296.38,1299.22,speaker_0,B,"That's, that's, that's a good point. Um, okay.",no capture,,,,,,,1
+1299.52,1299.54,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1299.70,1306.30,speaker_0,B,"So, um, so shall we make the decision, uh, to include speech recognition?",no capture,,,,,,,1
+1307.22,1307.72,speaker_2,D,If we can.,no capture,,,,,,,1
+1307.82,1308.18,speaker_0,B,If we can.,no capture,,,,,,,1
+1308.20,1313.18,speaker_3,A,"I, I think one thing we should try not to avoid is not to say we have to use speech recognition right now.",no capture,,,,,,,1
+1313.54,1313.94,speaker_0,B,Okay.,no capture,,,,,,,1
+1314.06,1314.20,speaker_2,D,Yeah.,no capture,,,,,,,1
+1314.22,1314.62,speaker_0,B,Why is that?,no capture,,,,,,,1
+1314.74,1324.26,speaker_3,A,"Because, um, based on what you've g- y- everybody's saying, right, you want something simple. You want basic stuff and you want something that is easy to use. Speech recognition might not be the simplest thing-",no capture,,,,,,,1
+1324.36,1324.52,speaker_2,D,Right,no capture,,,,,,,1
+1324.52,1325.90,speaker_3,A,... for somebody to use.,no capture,,,,,,,1
+1325.94,1325.96,speaker_0,B,Okay.,no capture,,,,,,,1
+1325.98,1329.00,speaker_2,D,"Could it be an on-off thing? Like if you want it, on.",no capture,,,,,,,1
+1329.02,1330.38,speaker_0,B,"Well, you can activate it and deactivate it.",no capture,,,,,,,1
+1330.44,1330.50,speaker_2,D,Yeah.,no capture,,,,,,,1
+1330.54,1333.28,speaker_3,A,"But I think we're, we're trying to lock ourselves into a s- particular kind of technology-",no capture,,,,,,,1
+1333.38,1333.44,speaker_0,B,Yeah,no capture,,,,,,,1
+1333.54,1337.78,speaker_3,A,"... rather than focusing on, on exactly what are the features that we're gonna say.",no capture,,,,,,,1
+1337.82,1337.82,speaker_2,D,Yeah.,no capture,,,,,,,1
+1337.84,1338.12,speaker_0,B,Okay.,no capture,,,,,,,1
+1338.68,1338.86,speaker_3,A,"And, you know-",no capture,,,,,,,1
+1339.16,1339.30,speaker_2,D,Sure,no capture,,,,,,,1
+1339.30,1342.76,speaker_3,A,"... say speech recognition is good for this, speech recognition is not good for this.",no capture,,,,,,,1
+1343.04,1343.24,speaker_2,D,Sure.,no capture,,,,,,,1
+1343.48,1343.76,speaker_0,B,Okay.,no capture,,,,,,,1
+1343.76,1343.78,speaker_2,D,Yeah.,no capture,,,,,,,1
+1343.80,1345.94,speaker_3,A,"So maybe we should, I suggest that we think about speech recognition.",no capture,,,,,,,1
+1345.98,1346.16,speaker_2,D,Sure.,no capture,,,,,,,1
+1346.42,1349.32,speaker_3,A,"You know, it's a, it's something that can be used to fulfill a function, but-",no capture,,,,,,,1
+1349.38,1349.56,speaker_0,B,Uh-huh,no capture,,,,,,,1
+1349.56,1351.68,speaker_3,A,"... at the end of the day, we don't look at the technology, but-",no capture,,,,,,,1
+1351.76,1351.82,speaker_2,D,Yeah,no capture,,,,,,,1
+1351.82,1352.96,speaker_3,A,... we look at the function first.,no capture,,,,,,,1
+1353.22,1353.54,speaker_0,B,Okay.,no capture,,,,,,,1
+1353.54,1354.26,speaker_2,D,Sure. Yeah.,no capture,,,,,,,1
+1354.26,1358.14,speaker_0,B,"Uh, okay. Well, do you wanna, um, give us your presentation and then we can-",no capture,,,,,,,1
+1358.50,1358.50,speaker_3,A,Yeah.,no capture,,,,,,,1
+1358.52,1362.94,speaker_0,B,"I don't... Um, might have been a good idea to all deliver our presentations and then discuss, but this is-",no capture,,,,,,,1
+1363.00,1363.04,speaker_2,D,Yeah,no capture,,,,,,,1
+1363.04,1363.56,speaker_0,B,... this is how we're-,no capture,,,,,,,1
+1363.96,1365.66,speaker_2,D,"Well, good to g- get ideas out while they're fresh-",no capture,,,,,,,1
+1365.68,1365.70,speaker_0,B,Yeah,no capture,,,,,,,1
+1365.70,1366.06,speaker_2,D,... in mind.,no capture,,,,,,,1
+1366.20,1367.00,speaker_0,B,"Exactly, yeah.",no capture,,,,,,,1
+1367.30,1367.44,speaker_2,D,Um.,no capture,,,,,,,1
+1367.80,1378.74,speaker_0,B,"Uh, something that's just occurred to me as well is if we make it, um, speech rec- if we incorporate speech recognition, that's appealing to people, um, maybe with a f- physical disability as well.",no capture,,,,,,,1
+1379.36,1379.54,speaker_2,D,Yeah.,no capture,,,,,,,1
+1379.78,1379.98,speaker_0,B,Um.,no capture,,,,,,,1
+1380.16,1385.16,speaker_2,D,"And not losing, and also it helps in terms of people not losing this, you know, they-",no capture,,,,,,,1
+1385.38,1385.62,speaker_0,B,Yeah,no capture,,,,,,,1
+1385.62,1388.14,speaker_2,D,"... they're saying, ""Oh, it's, I lose it in the couch.""",no capture,,,,,,,1
+1388.64,1388.86,speaker_0,B,Yeah.,no capture,,,,,,,1
+1389.34,1395.70,speaker_2,D,"With like we're kind of... What we're b- sort of getting in, into here is mating different, uh, design features together.",no capture,,,,,,,1
+1396.32,1396.32,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1396.34,1396.58,speaker_2,D,That they-,no capture,,,,,,,1
+1396.92,1405.34,speaker_1,C,"I reckon one problem with speech recognition is, um, I've actually seen one of them used, and, uh, the technology that was in that one wasn't particularly amazing, so you end up yelling at the control for hours-",no capture,,,,,,,1
+1405.62,1405.70,speaker_0,B,Really?,no capture,,,,,,,1
+1405.72,1406.40,speaker_1,C,... trying to channel up.,no capture,,,,,,,1
+1406.68,1407.58,speaker_2,D,"Oh, really? You've seen one before?",no capture,,,,,,,1
+1407.62,1413.32,speaker_0,B,"Do you think maybe we need, like, further advances in that kind of area until it's worthwhile incorporating it?",no capture,,,,,,,1
+1413.34,1415.30,speaker_1,C,I think it'd probably be quite expensive to put in.,no capture,,,,,,,1
+1415.30,1415.30,speaker_3,A,"Sorry, can you pass me my pen?",no capture,,,,,,,1
+1415.62,1418.20,speaker_0,B,Of course. There you go.,no capture,,,,,,,1
+1421.26,1421.26,speaker_3,A,Okay.,no capture,,,,,,,1
+1421.30,1421.56,speaker_0,B,Right.,no capture,,,,,,,1
+1422.12,1423.78,speaker_3,A,"Well, this is just the working design.",no capture,,,,,,,1
+1424.10,1424.32,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1424.42,1433.98,speaker_3,A,"Um, well, this is just what, how I would go about it. Um, I guess I'd try to define, like what we're doing now, try to define what we're trying to get done.",no capture,,,,,,,1
+1434.22,1434.28,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1434.34,1454.97,speaker_3,A,"Um, I think in a practical way, we kinda know what it is. We've used it. We're familiar with it. But we, we can't n- we haven't narrowed down, um, exactly what are the things we're trying to fulfill. Like, besides the basics. I think back, in the back of our minds, we know what the basics are. It's change channels. It's change volume. In, like, specifics, right? Which one of the basics are you trying to target?",no capture,,,,,,,1
+1455.35,1455.55,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1455.69,1485.23,speaker_3,A,"Um, are there certain parts of the basics that are more important or less important than the basics? Um, and I just... The idea is just to get everybody to, um... I usually have a, have, have a design that's there as a basic, so, you know, things that, to start everything going. But I guess everybody does have some ideas, so I don't think, um, there's a need for that. Um, okay. This finding things is a little bit confusing, so I'll go into the diagram first. It just explains how the process goes through-",no capture,,,,,,,1
+1485.59,1485.71,speaker_0,B,Mm,no capture,,,,,,,1
+1485.71,1496.77,speaker_3,A,"... from a, from the basic technology point of view, the basic steps that you need, um, and the diagram in this slide probably works better. Um, okay, you need some power source, okay, battery or something-",no capture,,,,,,,1
+1496.83,1496.83,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1496.83,1504.65,speaker_3,A,"... to keep it going. Um, and that power source is important because it ties you down to, um, how long the device will last.",no capture,,,,,,,1
+1504.77,1504.99,speaker_0,B,Uh-huh.,no capture,,,,,,,1
+1505.25,1533.81,speaker_3,A,"Um, it ties you down perhaps a bit later on in terms of the technologies, um, how far you can transmit the signal or the complexity of the functions that you want. Like, for example, voice recognition, right? That might be constrained because that you might need to power a microphone, you might need to power other things, so that's one perhaps constraint there. Um, th- okay, the basic thing is there's a user interface where people punch a button or talk into it or smile to it or blink their eyes-",no capture,,,,,,,1
+1534.23,1534.23,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1534.23,1550.79,speaker_3,A,"... whatever, you know. And that, um, picks up an input from a user. Um, uh, a logic, a series of logic has to decide what the user is telling the device, and the device has to, you know, based on you push button A, so I will do something with button A, so maybe button A-",no capture,,,,,,,1
+1550.79,1550.79,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+1550.79,1551.39,speaker_3,A,... is the power button.,no capture,,,,,,,1
+1551.89,1551.97,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1552.03,1567.37,speaker_3,A,"Okay. Um, and then it needs to be able to send the signal out to the device itself, which is the receiver here. Um, and I think that's about it in terms of my design. Um, it's fairly general. Um, and I guess the purpose of this is also not to restrict you-",no capture,,,,,,,1
+1567.69,1567.91,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1567.91,1578.65,speaker_3,A,"... in, in the way you're thinking. Like, um, voice recognition, right? Um, if it's something which is important, then we just add more power rather than having a thing that we don't have enough power, so it's not-",no capture,,,,,,,1
+1578.67,1578.71,speaker_0,B,Okay,no capture,,,,,,,1
+1578.73,1579.77,speaker_3,A,... really a constraint in that sense.,no capture,,,,,,,1
+1579.81,1579.85,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1579.87,1583.49,speaker_3,A,"But, I mean, these are functionally, you know, the base-",no capture,,,,,,,1
+1583.89,1584.27,speaker_2,D,Mm-hmm. Okay,no capture,,,,,,,1
+1584.27,1585.43,speaker_3,A,... what technology has to do.,no capture,,,,,,,1
+1585.89,1586.23,speaker_0,B,Okay.,no capture,,,,,,,1
+1586.65,1592.25,speaker_3,A,"Um, so I guess the rest of it, I think we should... M- maybe you wanna go back to what the functions are. I think that's-",no capture,,,,,,,1
+1592.97,1593.07,speaker_0,B,Mm.,no capture,,,,,,,1
+1593.07,1594.33,speaker_3,A,... more relevant to the discussion.,no capture,,,,,,,1
+1594.67,1595.89,speaker_0,B,"Well, do you want, do you wanna finish up-",no capture,,,,,,,1
+1595.99,1596.49,speaker_2,D,"Sure, sure",no capture,,,,,,,1
+1596.49,1598.01,speaker_0,B,"... your, your whole presentation?",no capture,,,,,,,1
+1598.05,1598.09,speaker_3,A,"Yeah. Like, I'm done.",no capture,,,,,,,1
+1598.15,1599.11,speaker_0,B,"And are you, are you all done?",no capture,,,,,,,1
+1599.63,1604.37,speaker_3,A,"Yes. Yeah. S- oh, it's just putting the rest of it into words, but it's essentially the same thing.",no capture,,,,,,,1
+1604.47,1604.49,speaker_2,D,Yeah.,no capture,,,,,,,1
+1605.19,1605.39,speaker_0,B,Um.,no capture,,,,,,,1
+1605.39,1608.09,speaker_3,A,"Um, you have a transmitter, an input device-",no capture,,,,,,,1
+1608.13,1608.13,speaker_0,B,Okay,no capture,,,,,,,1
+1608.13,1609.25,speaker_3,A,"... logic chip, you know.",no capture,,,,,,,1
+1609.71,1610.03,speaker_0,B,Okay.,no capture,,,,,,,1
+1610.85,1610.87,speaker_3,A,Right?,no capture,,,,,,,1
+1610.89,1613.25,speaker_2,D,"And like, on the, I mean s-",no capture,,,,,,,1
+1613.49,1613.57,speaker_3,A,"This, this would be-",no capture,,,,,,,1
+1613.57,1615.11,speaker_2,D,... b- since we're on the topic of the technology-,no capture,,,,,,,1
+1615.29,1615.35,speaker_3,A,Yep,no capture,,,,,,,1
+1615.35,1624.03,speaker_2,D,"... uh, are there any, like... What are our options? Uh, what's, what i- in... Is this the only way that we go about it, or are there other-",no capture,,,,,,,1
+1624.83,1627.17,speaker_3,A,"Um, these, these aren't technology options in that sense.",no capture,,,,,,,1
+1627.21,1627.29,speaker_2,D,Right.,no capture,,,,,,,1
+1627.31,1628.45,speaker_3,A,"This is just, um-",no capture,,,,,,,1
+1628.51,1629.57,speaker_2,D,The basic principle of-,no capture,,,,,,,1
+1629.57,1630.23,speaker_3,A,... a basic principles-,no capture,,,,,,,1
+1630.35,1630.35,speaker_0,B,Okay,no capture,,,,,,,1
+1630.35,1632.25,speaker_3,A,... and basic components that are needed.,no capture,,,,,,,1
+1632.33,1632.43,speaker_2,D,Right.,no capture,,,,,,,1
+1632.49,1632.61,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1632.71,1642.19,speaker_3,A,"For example, if you needed, um, if you needed to add, uh, a voice recognition, right? Then your user interface will be split, broken down into more components-",no capture,,,,,,,1
+1642.19,1642.19,speaker_2,D,Okay.,no capture,,,,,,,1
+1642.21,1642.27,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1642.27,1644.17,speaker_3,A,... right? Which you have a microphone-,no capture,,,,,,,1
+1644.23,1644.37,speaker_0,B,Yeah,no capture,,,,,,,1
+1644.37,1644.73,speaker_3,A,... a VR-,no capture,,,,,,,1
+1644.73,1644.87,speaker_2,D,Okay,no capture,,,,,,,1
+1644.87,1645.41,speaker_3,A,... and stuff like that.,no capture,,,,,,,1
+1645.63,1648.15,speaker_0,B,So this just shows how we're kind of modularizing the whole thing.,no capture,,,,,,,1
+1648.27,1648.27,speaker_3,A,Yeah.,no capture,,,,,,,1
+1648.33,1648.67,speaker_0,B,Okay.,no capture,,,,,,,1
+1648.85,1651.13,speaker_3,A,Yeah. So each component represents one function.,no capture,,,,,,,1
+1651.21,1651.29,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1651.33,1655.73,speaker_3,A,"But I think the basic functions of the logic, the transmitter, um, and the receiver-",no capture,,,,,,,1
+1655.99,1656.17,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+1656.19,1659.51,speaker_3,A,"... okay, and the power are things that you won't have to care about.",no capture,,,,,,,1
+1659.59,1659.77,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1659.99,1660.11,speaker_0,B,Yeah.,no capture,,,,,,,1
+1660.15,1663.55,speaker_3,A,"Um, and those are things that, based on what your user interface requires-",no capture,,,,,,,1
+1663.57,1663.59,speaker_0,B,Mm,no capture,,,,,,,1
+1663.59,1665.01,speaker_3,A,... they will add more functionality to it.,no capture,,,,,,,1
+1665.41,1665.51,speaker_0,B,Okay.,no capture,,,,,,,1
+1665.61,1673.45,speaker_3,A,"Um, there might be one other consideration, which would be the, the, the transmission between the remote control and the TV, for example.",no capture,,,,,,,1
+1673.91,1674.21,speaker_0,B,Okay.,no capture,,,,,,,1
+1674.33,1674.53,speaker_3,A,Okay?,no capture,,,,,,,1
+1674.53,1674.53,speaker_2,D,Okay.,no capture,,,,,,,1
+1674.81,1679.49,speaker_3,A,"Um, are we gonna restrict ourselves to using the traditional technologies of an infrared-",no capture,,,,,,,1
+1679.95,1680.17,speaker_0,B,Okay,no capture,,,,,,,1
+1680.19,1683.21,speaker_3,A,... thing? Because that's something you need to actually be physically pointing to.,no capture,,,,,,,1
+1683.57,1683.91,speaker_0,B,Okay.,no capture,,,,,,,1
+1684.19,1684.57,speaker_3,A,Right? S-,no capture,,,,,,,1
+1685.05,1703.57,speaker_0,B,"Well, well, a worry that was, was expressed in the new requirements was that if we made this too complex, it would e- it would affect, um, how long, how long it took us to get this to market. So I suspect it might be a good idea just to restrict our, kind of, our creative influence on this on the user interface and not worry so much about, uh, how we transmit it.",no capture,,,,,,,1
+1704.05,1704.05,speaker_3,A,Yeah.,no capture,,,,,,,1
+1704.13,1707.83,speaker_0,B,"Um, because I mean, it, it's tried and tested infrared, so we could stay with that.",no capture,,,,,,,1
+1707.83,1715.75,speaker_3,A,"There might be one other problem with the transmission. Um, in particular right now, since we're talking about voice recognition, um, if somebody's gonna h- talk to the device-",no capture,,,,,,,1
+1715.79,1715.79,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+1715.79,1717.55,speaker_3,A,... you ideally want them to hold it to them.,no capture,,,,,,,1
+1718.25,1718.37,speaker_0,B,"Oh, right.",no capture,,,,,,,1
+1718.41,1719.59,speaker_3,A,"You, you may not require that-",no capture,,,,,,,1
+1719.83,1719.83,speaker_2,D,Right,no capture,,,,,,,1
+1719.83,1722.89,speaker_3,A,"... but, you know, um, it's, it's, it's something very natural, I guess-",no capture,,,,,,,1
+1723.07,1723.31,speaker_0,B,Yeah. Mm-hmm,no capture,,,,,,,1
+1723.31,1728.09,speaker_3,A,"... you know, to hold it, to signal to the user, and push a button maybe to start talking about it.",no capture,,,,,,,1
+1728.41,1728.41,speaker_0,B,Okay.,no capture,,,,,,,1
+1728.43,1729.75,speaker_3,A,Then you need to send the signal out.,no capture,,,,,,,1
+1729.79,1729.81,speaker_0,B,Mm.,no capture,,,,,,,1
+1729.81,1731.99,speaker_3,A,"So, so if you're using infrared, the line of sight-",no capture,,,,,,,1
+1732.43,1732.59,speaker_0,B,Mm,no capture,,,,,,,1
+1732.59,1736.91,speaker_3,A,"... um, say the TV's at that chair and I'm standing in front of here and the transmitter is here-",no capture,,,,,,,1
+1737.03,1737.21,speaker_0,B,Yeah,no capture,,,,,,,1
+1737.21,1738.07,speaker_3,A,... it blocks it.,no capture,,,,,,,1
+1738.43,1738.61,speaker_0,B,Okay.,no capture,,,,,,,1
+1738.67,1742.09,speaker_3,A,"So in that sense, there's not really a restriction, but it's something which-",no capture,,,,,,,1
+1742.33,1742.33,speaker_2,D,Right,no capture,,,,,,,1
+1742.35,1744.15,speaker_3,A,... you may have to think about later on in the process.,no capture,,,,,,,1
+1744.39,1744.53,speaker_2,D,Okay.,no capture,,,,,,,1
+1744.57,1745.49,speaker_3,A,But not so much for here.,no capture,,,,,,,1
+1745.59,1745.59,speaker_0,B,Okay.,no capture,,,,,,,1
+1745.63,1759.91,speaker_2,D,"And, um, just a clarification before we finish this. Uh, does g... Is our controller, is it, have the option of being, um, on a standard, uh, frequency as all of the other equipment so that the one controller can control-",no capture,,,,,,,1
+1759.99,1760.65,speaker_3,A,"There's, there's not much specific-",no capture,,,,,,,1
+1760.65,1761.85,speaker_2,D,... several pieces of equipment?,no capture,,,,,,,1
+1761.85,1768.43,speaker_3,A,"... specific information, but I think that, um, one, the indication of infrared means that you're just targeting traditional devices.",no capture,,,,,,,1
+1768.69,1768.89,speaker_0,B,Yeah.,no capture,,,,,,,1
+1768.99,1770.57,speaker_3,A,Because infrared is something which everybody has.,no capture,,,,,,,1
+1770.67,1775.05,speaker_0,B,"Well, well, we've, um, in the new requirement spec, they said just to focus on the TV.",no capture,,,,,,,1
+1775.17,1775.23,speaker_2,D,Just the TV. Okay.,no capture,,,,,,,1
+1775.23,1776.59,speaker_0,B,"So that's what we should do for now, I think.",no capture,,,,,,,1
+1776.65,1776.89,speaker_2,D,Okay.,no capture,,,,,,,1
+1776.93,1788.49,speaker_0,B,"Something I was wondering about was the power. Um, is it worth considering, like, having, like, a charging unit as opposed to just regular batteries? I mean, is that something you really want to go into, do you think? Or should we just consider-",no capture,,,,,,,1
+1788.49,1788.89,speaker_3,A,"There's, there, there's-",no capture,,,,,,,1
+1788.91,1790.29,speaker_0,B,... running on regular batteries?,no capture,,,,,,,1
+1790.29,1792.71,speaker_3,A,"... from a, from a component point of view, there's added complexity.",no capture,,,,,,,1
+1793.07,1793.23,speaker_0,B,Uh-huh.,no capture,,,,,,,1
+1793.27,1794.23,speaker_3,A,And you add cost to it.,no capture,,,,,,,1
+1794.45,1794.65,speaker_0,B,Uh-huh.,no capture,,,,,,,1
+1795.13,1800.41,speaker_3,A,"Um, and then there's probably the fact that you need another physical component. You need a docking cradle, for example-",no capture,,,,,,,1
+1800.51,1800.53,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1800.55,1800.69,speaker_0,B,Yeah,no capture,,,,,,,1
+1800.69,1800.99,speaker_2,D,... mm-hmm,no capture,,,,,,,1
+1801.01,1802.05,speaker_3,A,... to put it into charge.,no capture,,,,,,,1
+1802.39,1802.69,speaker_0,B,Okay.,no capture,,,,,,,1
+1802.73,1804.23,speaker_3,A,Or you need to get the user to plug it in.,no capture,,,,,,,1
+1804.99,1805.47,speaker_0,B,"Okay, so-",no capture,,,,,,,1
+1805.51,1810.13,speaker_3,A,"Um, so most users are very used, already used to the idea of buying batteries and putting it into-",no capture,,,,,,,1
+1810.21,1810.35,speaker_0,B,Yeah,no capture,,,,,,,1
+1810.35,1815.85,speaker_3,A,"... the controller. But unless- The controller's gonna consume a lot of batteries. Like, he's gonna run through, like-",no capture,,,,,,,1
+1816.21,1816.27,speaker_0,B,Yeah,no capture,,,,,,,1
+1816.27,1820.05,speaker_3,A,"... 20 batteries a month. Then I don't think rechargeable or something we should, you know, look into.",no capture,,,,,,,1
+1820.11,1822.03,speaker_0,B,"Okay. So just stick to, to regular-",no capture,,,,,,,1
+1823.01,1823.01,speaker_3,A,Yeah.,no capture,,,,,,,1
+1823.05,1824.99,speaker_0,B,"Okay. Um,",no capture,,,,,,,1
+1827.19,1840.71,speaker_0,B,"right. So basically the, um... I'm just gonna just recap, uh, what I said at the start, was that, um, the, the whole point of this meeting was to f- absolutely finalize who we're gonna aim this at-",no capture,,,,,,,1
+1841.15,1841.15,speaker_2,D,Okay,no capture,,,,,,,1
+1841.15,1854.23,speaker_0,B,"... and what exactly the product's gonna do. So, um, just to recap on, are we all happy about the idea of, um, aiming the product at, um, the 15 to 35 bracket?",no capture,,,,,,,1
+1854.29,1854.99,speaker_2,D,Yeah. That's good.,no capture,,,,,,,1
+1855.15,1861.93,speaker_0,B,"Um, and also the func- the, the actual functions of what it's gonna do. Do you wanna recap on that, Craig?",no capture,,,,,,,1
+1863.37,1872.69,speaker_2,D,"Um, I think we just decided it was gonna be the, the most basic stuff possible. Um, on/off, up and down channels, up and down volume, and, uh, skip to a channel.",no capture,,,,,,,1
+1874.45,1874.81,speaker_0,B,Okay. Right.,no capture,,,,,,,1
+1875.13,1875.25,speaker_3,A,And-,no capture,,,,,,,1
+1875.41,1880.75,speaker_2,D,"Is it going to include any of the, uh, the more advanced features, or are we gonna eliminate those?",no capture,,,,,,,1
+1880.95,1887.13,speaker_3,A,"Um, I think we include mute, but apart from that, um, I think we just, we go for the simpleness.",no capture,,,,,,,1
+1887.61,1887.83,speaker_2,D,Okay.,no capture,,,,,,,1
+1887.89,1888.13,speaker_0,B,Okay.,no capture,,,,,,,1
+1888.23,1888.23,speaker_3,A,"Yeah, I think-",no capture,,,,,,,1
+1888.23,1894.59,speaker_2,D,"But is it, is it, is it s- is it not an option still that we include some things just as a sort of under, like, sort of under a door or-",no capture,,,,,,,1
+1895.03,1897.11,speaker_0,B,"Yeah, as, as optional functions",no capture,,,,,,,1
+1897.11,1915.23,speaker_2,D,"... 'cause what, what I'm-- I'd be a bit worried about is if someone was ha- had previously developed habits of expecting to control surround sound or this and that with their controller, and then, and then they, you know, w- they get ours, and w- it's doesn't have that. I don't know if that'd be a problem.",no capture,,,,,,,1
+1916.59,1916.59,speaker_0,B,Okay.,no capture,,,,,,,1
+1916.65,1919.73,speaker_3,A,Another thing that you were saying about categorizing the controls.,no capture,,,,,,,1
+1920.05,1920.11,speaker_0,B,Mm.,no capture,,,,,,,1
+1920.51,1924.51,speaker_3,A,"Um, maybe I could suggest we, we break them down into three simple categories.",no capture,,,,,,,1
+1924.61,1925.05,speaker_2,D,Yeah. Okay.,no capture,,,,,,,1
+1925.09,1926.27,speaker_3,A,One would be audio controls.,no capture,,,,,,,1
+1926.45,1926.67,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1927.01,1928.27,speaker_3,A,One would be video controls.,no capture,,,,,,,1
+1928.49,1928.69,speaker_2,D,Okay.,no capture,,,,,,,1
+1928.71,1937.59,speaker_3,A,"And the other one would be a device. Um, this may not map very well to advanced functionality especially, but I think that, um, from a manufacturer's point of view-",no capture,,,,,,,1
+1937.69,1937.71,speaker_2,D,Yeah,no capture,,,,,,,1
+1937.71,1945.33,speaker_3,A,"... from a person designing the device. But I think from a point of view of a person using the device, you know, a TV is something they see and something they hear.",no capture,,,,,,,1
+1945.59,1945.81,speaker_0,B,Mm-hmm.,no capture,,,,,,,1
+1946.25,1949.51,speaker_3,A,"Um, and it's something they do other things to, like turn it on and turn it off.",no capture,,,,,,,1
+1949.61,1949.83,speaker_0,B,Yeah.,no capture,,,,,,,1
+1950.17,1950.49,speaker_3,A,"I mean, like-",no capture,,,,,,,1
+1950.59,1950.61,speaker_2,D,Right,no capture,,,,,,,1
+1950.63,1952.49,speaker_3,A,"... so what we could have is, like, three buckets, right?",no capture,,,,,,,1
+1952.71,1952.71,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1952.73,1955.59,speaker_3,A,"Where we could throw things into, like, if we want this feature, let's throw it into there.",no capture,,,,,,,1
+1955.95,1956.07,speaker_2,D,Yeah.,no capture,,,,,,,1
+1956.27,1959.09,speaker_3,A,"And then from there, decide whether it's basic or it's non-basic.",no capture,,,,,,,1
+1959.13,1959.55,speaker_2,D,Okay. Okay.,no capture,,,,,,,1
+1959.61,1961.55,speaker_3,A,And it might help with the visualization.,no capture,,,,,,,1
+1961.89,1961.89,speaker_2,D,Okay.,no capture,,,,,,,1
+1961.91,1964.91,speaker_3,A,And it would actually help with the component build as well.,no capture,,,,,,,1
+1965.15,1965.15,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1965.23,1965.61,speaker_0,B,Okay.,no capture,,,,,,,1
+1965.83,1966.39,speaker_2,D,Okay. Great.,no capture,,,,,,,1
+1966.59,1985.07,speaker_0,B,"Right. Um, okay. Well, I've got a-- kind of got five minutes to wrap up now. Um, next thing we're doing is having lunch. Woo-hoo. Um, and then we're gonna have 30 minutes of working on the next stage. Um, so I'll be pulling the minutes of this, uh, this meeting into the project documents folder.",no capture,,,,,,,1
+1985.47,1985.61,speaker_2,D,Mm-hmm.,no capture,,,,,,,1
+1985.79,2022.29,speaker_0,B,"Um, so, uh, I guess just to, just to confirm that we know what we're doing in the next, well, in the 30 minutes after lunch anyway. Um, for, uh, our industrial designer, you're gonna be thinking about the components concept. Um, user interface designer, you're gonna be thinking about our user interface. And marketing, you're gonna be thinking about trend watching. Um, and you'll all get specific instructions as well. So, um, I don't know, just, just to, to ask now if you've got anything else you've thought about while we've been talking. Um, do you wanna start with David? Anything else to say at all?",no capture,,,,,,,1
+2022.97,2023.07,speaker_3,A,No.,no capture,,,,,,,1
+2023.47,2025.33,speaker_0,B,No? Okay. Andrew?,no capture,,,,,,,1
+2025.45,2037.53,speaker_2,D,"Um, yeah, just, I just wanted to ask then before we wrap up, shall we agree for sake of, um, sort of clarity in when we, when we resume, that we'll use this idea David's proposed where we think of these three sort of buckets and-",no capture,,,,,,,1
+2037.89,2039.75,speaker_0,B,Yeah. Yeah. I think that's definitely a good idea,no capture,,,,,,,1
+2039.75,2041.61,speaker_2,D,"... and then anything we discuss about them is sort of, okay, we're talking about this.",no capture,,,,,,,1
+2042.01,2042.05,speaker_0,B,Uh-huh.,no capture,,,,,,,1
+2042.09,2042.75,speaker_2,D,Shall we do that then?,no capture,,,,,,,1
+2042.91,2043.13,speaker_0,B,Yeah.,no capture,,,,,,,1
+2043.33,2044.17,speaker_2,D,Okay. Great.,no capture,,,,,,,1
+2044.65,2052.89,speaker_3,A,"Um, just about the three buckets, um, what would go in the, the device functions one? Um, things like on/off because they don't have anything to do with what you see.",no capture,,,,,,,1
+2053.17,2053.43,speaker_0,B,Yeah.,no capture,,,,,,,1
+2053.55,2058.17,speaker_3,A,"I mean, you mean in terms of picture and the entertainment value, you know? Um-",no capture,,,,,,,1
+2058.29,2058.61,speaker_0,B,Okay,no capture,,,,,,,1
+2058.61,2060.19,speaker_3,A,"... so, um-",no capture,,,,,,,1
+2060.25,2060.85,speaker_2,D,"And, and channel",no capture,,,,,,,1
+2060.85,2061.67,speaker_3,A,... and channel.,no capture,,,,,,,1
+2061.91,2062.07,speaker_2,D,Right.,no capture,,,,,,,1
+2062.19,2066.75,speaker_3,A,"Because the on/off also goes, you know, like, on/off like power, not on/off sound-",no capture,,,,,,,1
+2066.93,2067.03,speaker_0,B,Yeah,no capture,,,,,,,1
+2067.07,2071.95,speaker_3,A,"... or on/off video. Although you don't turn off the video on your TV. But, um-",no capture,,,,,,,1
+2072.01,2072.01,speaker_0,B,Okay,no capture,,,,,,,1
+2072.01,2075.63,speaker_3,A,"... you might wanna, you know, turn off the sound. Say you wanna pick up the phone, there's a mute button, right? So-",no capture,,,,,,,1
+2075.67,2076.01,speaker_0,B,Okay,no capture,,,,,,,1
+2076.01,2084.71,speaker_3,A,"... you, you have, you have a choice of putting it onto, um, others or device. Device is basically anything which we can't categorize, right?",no capture,,,,,,,1
+2084.87,2089.87,speaker_0,B,"Okay. So you're gonna have, um, audio, which is gonna be like, you know, your base settings and-",no capture,,,,,,,1
+2090.03,2090.05,speaker_2,D,Mm-hmm,no capture,,,,,,,1
+2090.05,2090.85,speaker_0,B,... actual volume-,no capture,,,,,,,1
+2090.87,2092.35,speaker_3,A,"Anything to do with what you hear, right?",no capture,,,,,,,1
+2092.45,2092.85,speaker_0,B,Okay.,no capture,,,,,,,1
+2092.95,2093.83,speaker_3,A,You put that into audio.,no capture,,,,,,,1
+2094.01,2095.21,speaker_0,B,Okay. And then visual-,no capture,,,,,,,1
+2095.23,2097.13,speaker_3,A,Video is anything that you can see.,no capture,,,,,,,1
+2097.45,2097.49,speaker_2,D,Mm.,no capture,,,,,,,1
+2097.57,2097.93,speaker_0,B,Okay.,no capture,,,,,,,1
+2098.63,2098.63,speaker_3,A,Um-,no capture,,,,,,,1
+2098.67,2100.05,speaker_0,B,"So brightness, contrast-",no capture,,,,,,,1
+2100.05,2100.05,speaker_3,A,Yeah,no capture,,,,,,,1
+2100.13,2100.61,speaker_0,B,... things like that.,no capture,,,,,,,1
+2100.63,2100.67,speaker_2,D,Um-,no capture,,,,,,,1
+2100.93,2102.81,speaker_0,B,And then just actual device things like-,no capture,,,,,,,1
+2103.25,2103.25,speaker_3,A,Yeah,no capture,,,,,,,1
+2103.25,2105.35,speaker_0,B,"... what channel you're watching, turning it on and off-",no capture,,,,,,,1
+2105.69,2105.73,speaker_2,D,Okay,no capture,,,,,,,1
+2105.77,2108.45,speaker_0,B,... stuff like that. Okay. Um-,no capture,,,,,,,1
+2108.55,2116.27,speaker_2,D,"And then I suppose quite likely what would happen is in the, the device category, there might be some which are just like the habitual standard, and then others which are maybe a bit more-",no capture,,,,,,,1
+2116.39,2116.39,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+2116.39,2117.81,speaker_3,A,"... like random, which we have-",no capture,,,,,,,1
+2117.81,2117.81,speaker_2,D,Yeah,no capture,,,,,,,1
+2117.81,2118.73,speaker_3,A,... no other place to put.,no capture,,,,,,,1
+2118.79,2118.91,speaker_0,B,Sure.,no capture,,,,,,,1
+2118.95,2119.05,speaker_2,D,Okay.,no capture,,,,,,,1
+2119.07,2120.01,speaker_3,A,We leave it somewhere there.,no capture,,,,,,,1
+2120.41,2120.65,speaker_0,B,Okay.,no capture,,,,,,,1
+2120.67,2130.75,speaker_3,A,"Um, even, even if it doesn't map very clearly, what happens is that people at least have some in their mind. It's easy to use, I think, uh, that's one thing that, um... And I guess from the component point of view-",no capture,,,,,,,1
+2130.79,2130.79,speaker_0,B,Mm-hmm,no capture,,,,,,,1
+2130.79,2133.45,speaker_3,A,"... it's easy to build as well 'cause things are, like, fixed.",no capture,,,,,,,1
+2133.97,2134.15,speaker_2,D,Okay.,no capture,,,,,,,1
+2134.27,2154.09,speaker_0,B,"Okay. Um, so yeah, I guess just things to think about are, you know, like, the fact it's gotta look good because of who we're, we're, you know, targeting this at. Um, something maybe kind of quirky in design. Maybe make it kind of ergonomic, kind of to hold, you know, things like that. Um, so I guess, I guess that's it.",no capture,,,,,,,1
+2154.19,2154.37,speaker_2,D,Great.,no capture,,,,,,,1
+2154.39,2156.17,speaker_0,B,That's the meeting over. Woo-hoo.,no capture,,,,,,,1
+2157.49,2157.59,speaker_2,D,Mm.,no capture,,,,,,,1
+2162.63,2162.69,speaker_0,B,Right.,no capture,,,,,,,1
+2162.73,2165.13,speaker_2,D,Now we get to go find out what was picked up for lunch for us.,no capture,,,,,,,1
+2165.23,2165.33,speaker_0,B,Yeah.,no capture,,,,,,,1

@@ -1,0 +1,634 @@
+start,end,speaker,ami_speaker_best_match,text,screen_status,content_type,slide_id,image_file,description,same_as,ocr_text,n_screens
+0.08,0.46,speaker_0,A,to do now-,no capture,,,,,,,1
+0.58,0.58,speaker_1,D,Yeah,no capture,,,,,,,1
+0.58,4.08,speaker_0,A,"... is to decide how to fulfil what your stuff is, so-",no capture,,,,,,,1
+4.48,4.72,speaker_2,B,Okay,no capture,,,,,,,1
+4.72,5.04,speaker_0,A,... in that sense.,no capture,,,,,,,1
+5.14,6.02,speaker_1,D,"Yeah, sure.",no capture,,,,,,,1
+6.16,6.50,speaker_0,A,Does kind of-,no capture,,,,,,,1
+6.56,7.10,speaker_2,B,Okay. Well-,no capture,,,,,,,1
+7.12,13.52,speaker_1,D,"It kinda does make sense, doesn't it? Because when we get into the end of meeting, we're kind of talking about action and design as opposed to background.",no capture,,,,,,,1
+13.52,13.54,speaker_0,A,Yep.,no capture,,,,,,,1
+13.66,13.66,speaker_2,B,Okay.,no capture,,,,,,,1
+13.70,14.90,speaker_1,D,Everything I have is kind of background.,no capture,,,,,,,1
+15.14,16.22,speaker_2,B,Okay. Are we all ready to go?,no capture,,,,,,,1
+16.54,16.62,speaker_0,A,Yep.,no capture,,,,,,,1
+16.64,34.06,speaker_2,B,"Well, how about, um, on the... in this meeting then, if we, um... Well, I'll just, just recap on the minutes from the last meeting. Um, we, uh, decided on, decided on our, our target group being 15 to 35.",no capture,,,,,,,1
+34.14,34.28,speaker_1,D,Mm-hmm.,no capture,,,,,,,1
+34.76,45.44,speaker_2,B,"Um, we decided that it was gonna be non-rechargeable battery power, that we're gonna group our audio, visual, and other functions into, into those categories. Um,",no capture,,,,,,,1
+47.70,62.34,speaker_2,B,"and I told you guys about the three new requirements about ignoring teletext, ignoring everything except the TV, and trying to incorporate the, the, uh, corporate color and slogan. Um, so that was the last meeting. Is there anything... Have I forgotten anything?",no capture,,,,,,,1
+63.12,63.20,speaker_1,D,No.,no capture,,,,,,,1
+63.84,64.36,speaker_2,B,Is that everything?,no capture,,,,,,,1
+64.48,64.80,speaker_0,A,I don't think so.,no capture,,,,,,,1
+64.80,75.52,speaker_2,B,"Okay. Um, so if we have the three presentations, and then if, if you have anything to kind of, that you know you're gonna want to discuss, maybe just make a note of it, and then we'll have all the discussion at the end. That might be-",no capture,,,,,,,1
+75.58,75.60,speaker_1,D,Sure,no capture,,,,,,,1
+75.60,77.50,speaker_2,B,... a better idea this time. And so if-,no capture,,,,,,,1
+77.56,77.56,speaker_1,D,Okay,no capture,,,,,,,1
+77.56,83.72,speaker_2,B,"... we start off, uh, with Andrew, and then Craig, and then David. Is that all right?",no capture,,,,,,,1
+84.32,84.46,speaker_1,D,Sure.,no capture,,,,,,,1
+84.46,84.46,speaker_0,A,Yep.,no capture,,,,,,,1
+84.78,89.14,speaker_2,B,"Um, and then after that, we'll have to make some decisions about stuff.",no capture,,,,,,,1
+89.28,89.40,speaker_1,D,Yeah.,no capture,,,,,,,1
+90.08,91.78,speaker_2,B,Right. So if you wanna-,no capture,,,,,,,1
+91.88,92.38,speaker_1,D,I'm gonna get that,no capture,,,,,,,1
+92.46,93.68,speaker_2,B,... take this.,no capture,,,,,,,1
+94.58,94.68,speaker_1,D,Hm.,no capture,,,,,,,1
+98.70,101.84,speaker_2,B,Oh. It's screwed in quite tightly.,no capture,,,,,,,1
+108.06,115.52,speaker_2,B,"What, what do... How did we leave it with speech recognition now? We... Did we say we were gonna try maybe incorporate it, but we hadn't made a definite decision on that?",no capture,,,,,,,1
+116.48,116.48,speaker_0,A,Mm-hmm.,no capture,,,,,,,1
+116.58,125.36,speaker_2,B,"Right. We should also point out that, um, the, you know, kind of the final objective of this meeting is to reach a decision on the concepts of the product.",no capture,,,,,,,1
+125.50,125.74,speaker_1,D,Okay.,no capture,,,,,,,1
+126.30,130.42,speaker_2,B,"So, um, that's kind of the end result, hopefully.",no capture,,,,,,,1
+131.96,132.38,speaker_1,D,Okay.,no capture,,,,,,,1
+134.44,137.30,speaker_1,D,"Um, all right, so 'cause it function F8.",no capture,,,,,,,1
+139.28,142.30,speaker_2,B,Uh-huh. Hopefully appear in a wee second.,no capture,,,,,,,1
+144.62,147.24,speaker_1,D,Come on. I think it's working.,no capture,,,,,,,1
+147.74,148.34,speaker_2,B,"Oh, there we go.",no capture,,,,,,,1
+148.60,151.36,speaker_1,D,"Okay, great. So let me just start this.",no capture,,,,,,,1
+156.68,165.84,speaker_1,D,"Okay, great. So, um, let's move on. Uh, oh, where'd it all go? That's not good.",no capture,,,,,,,1
+166.14,166.42,speaker_2,B,"Oh, no.",no capture,,,,,,,1
+166.76,170.12,speaker_1,D,"Okay, let me just see where if I can find it.",no capture,,,,,,,1
+179.66,184.46,speaker_1,D,This looks more like it. I think I just open up the template. Sorry about that.,captured,slide,ES2002c_s01,176.00__207.05.jpg,,,R Real Reaction | We put fashion in electronics | Trend Watching | Presented by: Marketing Expert | Andrew Stokes-Rees,1
+184.78,184.78,speaker_2,B,Oh.,captured,slide,ES2002c_s01,176.00__207.05.jpg,,,R Real Reaction | We put fashion in electronics | Trend Watching | Presented by: Marketing Expert | Andrew Stokes-Rees,1
+184.82,198.34,speaker_1,D,"Okay. All right, so let's have a look here. Okay, so this was the method that, um, I've taken. Uh, basically what I wanna do here, before we get into it, uh, too far, is I want to show you all the background information I have that I think we need to acknowledge if we want this to be successful.",captured,slide,ES2002c_s01,176.00__207.05.jpg,,,R Real Reaction | We put fashion in electronics | Trend Watching | Presented by: Marketing Expert | Andrew Stokes-Rees,1
+198.82,199.08,speaker_2,B,Okay.,captured,slide,ES2002c_s01,176.00__207.05.jpg,,,R Real Reaction | We put fashion in electronics | Trend Watching | Presented by: Marketing Expert | Andrew Stokes-Rees,1
+199.28,235.34,speaker_1,D,"And, uh, and then sort of go through some of the way that I've dealt with that information and then sort of bring us all together into it to see, sort of to see how this fits in with the overall vision. Um, so I've tried to take a whole lot of market research and summarize it for us, and then id-identify, uh, trends that are, are sort of in sync and are important to our, our, um, project plan that we have so far. And then, uh, initiate a kind of discussion on design options so that it sort of helps us to, to narrow in on, on aspects that will inform other, um, other elements of the, of the project. Does that make sense?",captured,slide,ES2002c_s02,207.05__222.70.jpg,,,Method | e 1-Develop a broad understanding of | market trends based on research | e 2 - Identify trends that will inform the | design concept of the new remote control | e 3 - Discuss design options with aim of | narrowing down on the design that best | Suits the market and the project vision | Real Reaction,2
+235.56,235.62,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s02,207.05__222.70.jpg,,,Method | e 1-Develop a broad understanding of | market trends based on research | e 2 - Identify trends that will inform the | design concept of the new remote control | e 3 - Discuss design options with aim of | narrowing down on the design that best | Suits the market and the project vision | Real Reaction,1
+235.82,240.46,speaker_1,D,"That, that sort of strategy. I thought that that will impact on the rest of what we do, so that's why I suggested we get in-",captured,slide,ES2002c_s02,207.05__222.70.jpg,,,Method | e 1-Develop a broad understanding of | market trends based on research | e 2 - Identify trends that will inform the | design concept of the new remote control | e 3 - Discuss design options with aim of | narrowing down on the design that best | Suits the market and the project vision | Real Reaction,1
+240.50,241.10,speaker_2,B,"Uh, it would definitely.",captured,slide,ES2002c_s02,207.05__222.70.jpg,,,Method | e 1-Develop a broad understanding of | market trends based on research | e 2 - Identify trends that will inform the | design concept of the new remote control | e 3 - Discuss design options with aim of | narrowing down on the design that best | Suits the market and the project vision | Real Reaction,1
+241.42,258.78,speaker_1,D,"Okay, so out of, um, different, uh, figures and ratings of, of, of people in general, um, consumers in general, the number one thing that was found was that, uh, the br- te-television remote control have a fancy look and feel, okay? And not, it specified, not a functional look or, or feel.",captured,slide,ES2002c_s02,207.05__222.70.jpg,,,Method | e 1-Develop a broad understanding of | market trends based on research | e 2 - Identify trends that will inform the | design concept of the new remote control | e 3 - Discuss design options with aim of | narrowing down on the design that best | Suits the market and the project vision | Real Reaction,2
+259.04,259.28,speaker_2,B,Okay.,captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+259.42,297.76,speaker_1,D,"Uh, f-fancy. Um, however, this is where we kinda have to be very, I think, creative about it. Number two was that it be innovative. Okay, so that tells me that we have to find a way to be innovative without a-adding just unnecessary, um, sort of functional bits to it. Uh, and third priority, uh, for ease of use. So again, that kind of gives us a general picture of how it has to be, um, quite user-friendly while still having technology. So I'll just say right away as a bit of a foreshadowing into how we proceed with this in terms of marketing, is that I think, um, what we should think about is how the, um,",captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+300.00,307.10,speaker_1,D,"about how the innovation, uh, contributes to the look and feel and not so much to the functionality of it.",captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+307.50,307.50,speaker_2,B,Mm.,captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+307.50,313.82,speaker_1,D,"For example, like when you pick it up and push it, like it all lights up or something. You know what I mean? Like, or it's got something else to it-",captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+314.02,314.16,speaker_2,B,Uh-huh,captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+314.18,325.04,speaker_1,D,"... that just seems innovative. Because obviously the thing that-- the message here is ease of use. So how do you make innovation make something more, more easy to use? Well, that's I guess where we're gonna go with this.",captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+325.16,325.36,speaker_2,B,Okay.,captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,1
+325.90,355.98,speaker_1,D,"Okay. Then there's the other aspect of the back... The, the market, um, research I have here is on fashion style, okay? Which as we've agreed is a priority. Um, top European fashion trend, um, that I read about, it says there's this emerging theme of fruit and vegetables, okay? Especially in clothes and furniture. And when I first saw that, I thought, ""Hmm, well, do we want to actually try and think about this trend and how we add something to it or we get right into it or we completely steer away from it?"" Do you know what I mean?",captured,slide,ES2002c_s03,254.16__264.21.jpg,,,Market Research Findings | e #1 consumer desire is that the control | have a “fancy look and feel” not a | functional look. | e #2 priority of consumers is that the device | be technologically innovative | e 3'¢ priority was for ease of use. | Real Reaction,2
+356.02,356.74,speaker_2,B,Okay. Okay.,captured,slide,ES2002c_s04,345.24__366.36.jpg,,,"Top Style Trends | e Top European fashion trend is for styles | that reflect a fruit and vegetable theme | especially in clothes and furniture | e Material trends are quickly shifting from | hard materials to soft, spongy textures | Real Reaction",1
+356.86,406.80,speaker_1,D,"M-my feeling is that we do want to observe this trend, but we want to think also about the fact that it sort of has to fit in with something which is not specifically electronics. Um, 'cause I think what we're in, what we're in is partly sort of home decor, partly something like a computer. Um, so I think we might wanna be careful about how, you know, how quickly we create, like, a remote control in the shape of an apple or something. I think that would be pushing it. And then in terms of m-material trends are for things to be soft and spongy and sort of you might say ergonomic or, or friendly to handle, which is, which also in-indicated that last year this was, this was not the case. So, um, probably a lot of the competition on the market will be still in last year's mode. So if we try and really capitalize on that, I think that'll be in our favor. Um,",captured,slide,ES2002c_s04,345.24__366.36.jpg,,,"Top Style Trends | e Top European fashion trend is for styles | that reflect a fruit and vegetable theme | especially in clothes and furniture | e Material trends are quickly shifting from | hard materials to soft, spongy textures | Real Reaction",1
+409.70,441.58,speaker_1,D,"so this, this is the summary of everything. Um, style is number one, uh, thing in the, in the market of who we're selling to. Uh, innovative design technology's also a must in that it seemed, it be seen to be, uh, cutting edge. Uh, but ease of use has to be ensured throughout. That was, like, the number three thing. And then at the end there, vibrant natural colors. Um, that's the way I interpreted it anyway. Softness in materials, shape, and function. And so I wrote n- written at the bottom to give us sort of a context of discussion, Mac iPods.",captured,slide,ES2002c_s04,345.24__366.36.jpg,,,"Top Style Trends | e Top European fashion trend is for styles | that reflect a fruit and vegetable theme | especially in clothes and furniture | e Material trends are quickly shifting from | hard materials to soft, spongy textures | Real Reaction",2
+441.86,441.88,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s05,428.46__447.47.jpg,,,"Style Trend Overview | e Style is paramount | e Innovative design and technology also a must | e Ease of use must be ensured throughout | e Vibrant natural colour | e Softness in materials, shape and function | —Think mac iPod | Real Reaction",1
+442.06,450.50,speaker_1,D,"Something which is, I'd have to say very high tech, 10 gigabytes, whatever. But when you hold it in your hand, there's like no buttons. You know what a Mac iPod is?",captured,slide,ES2002c_s05,428.46__447.47.jpg,,,"Style Trend Overview | e Style is paramount | e Innovative design and technology also a must | e Ease of use must be ensured throughout | e Vibrant natural colour | e Softness in materials, shape and function | —Think mac iPod | Real Reaction",1
+450.52,451.06,speaker_2,B,Mm-hmm. That's true.,captured,slide,ES2002c_s05,428.46__447.47.jpg,,,"Style Trend Overview | e Style is paramount | e Innovative design and technology also a must | e Ease of use must be ensured throughout | e Vibrant natural colour | e Softness in materials, shape and function | —Think mac iPod | Real Reaction",1
+451.12,492.06,speaker_1,D,"I'm thinking, however, Mac iPod is sort of last year's because it's very hard and sort of glassy and glossy. So I'm thinking if we imagine that we're taking some of the features of a Mac iPod and we're then making it more of like a, more of like a comfortable type of... or more of like a, maybe more vibrant, friendly thing to have. Um, and then so this is w- with all that information, what I, what I'm suggesting in this slide here is that we, we take these ideas and as we get into more, the more, um, tech- like, sort of production side of things, that we think about shape, materials, and themes or series that go throughout. Sort of like a,",captured,slide,ES2002c_s05,428.46__447.47.jpg,,,"Style Trend Overview | e Style is paramount | e Innovative design and technology also a must | e Ease of use must be ensured throughout | e Vibrant natural colour | e Softness in materials, shape and function | —Think mac iPod | Real Reaction",2
+494.14,524.98,speaker_1,D,"I don't know, like, um, we think of some kind of a thing- theme that unifies it all, that we agree on. Uh, sort of like a marketing identity. Um, does that make sense? Yeah. So, so like I threw out a few ideas there just to kinda get us thinking along those lines. Like lemon, lime, I don't know, green colors, p- whatever. Just an idea, 'cause I'm thinking that some of these ideas will seem quite coherent if we use them in terms of their, what people associate th-them with in terms of texture, shape, colors, things like that.",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+525.40,526.96,speaker_2,B,Okay. Great.,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+526.96,544.92,speaker_1,D,"Like, um, the ones, the ones which I'm most fond of in terms of giving like a theme to it would be like, um, like lemon or something like that. You know, something which is, like you see a lot in, in other areas. Like, I see lots of websites and things that seem to associate with like lemon and lime and-",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+545.68,545.94,speaker_2,B,Okay.,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+546.10,547.78,speaker_1,D,"So anyway, just, just an idea.",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+548.76,548.94,speaker_2,B,Yeah.,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+549.12,563.34,speaker_1,D,"I'm thinking maybe we could incorporate some of these features into a fairly, um, into something which is, which seems to have something to it which is almost gimmicky because like, um, like something to do with like lighting within it. Like, you know, just-",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+563.38,563.38,speaker_2,B,Mm-hmm,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+563.38,580.94,speaker_1,D,"...this in the simple sense, when you pick up a phone and touch a button, it, uh, lights up. Usually the buttons light up. How can we build on that? Maybe like it could light up in different colors or something or, or people could buy the, buy the control and then it comes with different like covers or something so.",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+581.16,581.38,speaker_2,B,Okay.,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+581.44,583.30,speaker_1,D,"Anyway, those are, that's all I have. But, uh-",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+583.30,583.36,speaker_2,B,That's great,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+583.36,585.78,speaker_1,D,"...hopefully we can, we can revisit those ideas-",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+586.10,586.26,speaker_2,B,Uh-huh,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+586.28,587.08,speaker_1,D,...when we get into-,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+588.18,589.14,speaker_2,B,"Okay, great",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+589.14,589.16,speaker_1,D,...the room.,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+590.04,592.70,speaker_2,B,"Um, thank you for that. Uh-",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+593.28,593.28,speaker_1,D,Yep,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+593.28,594.12,speaker_2,B,"...Craig, do you wanna,",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+596.24,598.60,speaker_2,B,"uh, plug yours in then?",captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+598.60,598.60,speaker_3,C,Is,captured,slide,ES2002c_s06,490.87__528.72.jpg,,,"Design Discussion | e Shape: | e Material | e Colour themes / series | e Function placement | e Marketing identity theme: | — Harvest, plantation, seed, lemon, lime, sprout, | bean, green, pea, | Real Reaction",1
+640.76,641.14,speaker_3,C,it working?,no capture,,,,,,,1
+642.08,642.66,speaker_2,B,Mm.,no capture,,,,,,,1
+645.92,646.48,speaker_2,B,Not quite.,no capture,,,,,,,1
+646.52,647.42,speaker_1,D,Did you press F8?,no capture,,,,,,,1
+648.02,651.00,speaker_3,C,It's probably not sending. Yeah.,no capture,,,,,,,1
+657.20,658.44,speaker_2,B,"Oh, something coming now.",no capture,,,,,,,1
+658.66,659.12,speaker_3,C,Yep. There it is.,no capture,,,,,,,1
+662.08,662.56,speaker_2,B,There we go.,no capture,,,,,,,1
+665.00,666.28,speaker_3,C,Right. So link address concept.,no capture,,,,,,,1
+668.60,698.92,speaker_3,C,"Um, to research it, I've, um, had a look on the, the homepage again. It's provided me with more examples of, um, previously existing remote controls. Um, there's a wee bit of discussion about the, the existing ones there. Um, so I've taken the, um, suggestions from them and tried to incorporate them into this. Um, but at the end of this, we're looking for, um, suggestions on size, um, the size of the control and the buttons, um, the shape of the control, and whereabout the buttons should be located on the control.",no capture,,,,,,,1
+699.20,699.46,speaker_2,B,Mm-hmm.,no capture,,,,,,,1
+703.00,721.40,speaker_3,C,"Um, what I found from the research is that most of the current controls are just basically big bricks with loads of buttons all over them. Um, they're not very attractive to look at, and they're not very comfortable to hold. They're are just holding like big bricks, and they're very easily lost. Um, they tend to be very dark colors, so if they're shadowy places down the side of couches, you can't really see them.",no capture,,,,,,,1
+721.60,721.80,speaker_2,B,Mm-hmm.,no capture,,,,,,,1
+722.98,771.77,speaker_3,C,"Um, the, the controls themselves tend to use a very inconsistent co- For instance, the standby button isn't almost red. Uh, it really should be. It's just something that the user they, uh, identify with. They say sort of red, switch off. That's how it should be. Um, I'm not sure if there's any other examples of that, but something to look out for. Um, so from that I've, I've got a couple of preferences for the, the end control. Um, again, with the, the red color button for standby and the other examples of that. Um, the buttons should be large. They shouldn't be tiny little things like you get onto mobile phones. They should be easy to press, very comfortable. Um, one of the examples given on the homepage was, um, there's an up and down volume button, but both of them have a V on them.",captured,slide,ES2002c_s07,722.63__762.53.jpg,,,e Most controls are of “Large Square Brick” | type design — not attractive nor | comfortable | e Most controls are dark colours — easily lost | e Inconsistent colour scheme / icons which | can confuse user | Real Reaction,2
+772.09,772.09,speaker_2,B,Mm.,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+772.13,793.05,speaker_3,C,"So the up volume button looks like it should be a down volume button, and that's kinda confusing. Um, should avoid s- things like that. Um, if the, the corporate color scheme allows it, we should have a very bright color so that it can be easily identified anywhere. Um, obviously trying, trying to avoid being tacky there, but it could, um, tie in very easily with your, your Lime & Lemon idea.",captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+793.11,794.61,speaker_1,D,Do we have a corporate color scheme? I didn't know.,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+794.67,798.21,speaker_2,B,"I think it's yellow because, like, the website is yellow-",captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+798.35,798.35,speaker_3,C,Okay,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+798.35,799.99,speaker_2,B,"... and there's the band at the bottom is yellow, so-",captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+800.03,800.69,speaker_3,C,And the Play-Doh's yellow,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+800.69,801.61,speaker_2,B,"... yellow, lemon.",captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+801.63,801.89,speaker_3,C,Fantastic.,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+802.33,804.81,speaker_2,B,"You know, definitely food for thought there.",captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+804.83,804.89,speaker_3,C,Okay.,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+804.89,806.51,speaker_2,B,But keep going and we'll discuss it.,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+806.67,806.71,speaker_3,C,Um-,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+806.77,806.93,speaker_1,D,Yep,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+808.57,815.69,speaker_3,C,"... any extra features we add beyond the basic ones should be hidden. They shouldn't be on the, um, shouldn't be visible without something being opened or-",captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+815.75,815.75,speaker_2,B,Mm-hmm,captured,slide,ES2002c_s08,762.53__823.76.jpg,,,"Personal Preferences | e Standard colour coding eg red button for | standby | e Large, easy to use and identify buttons — | but not huge | e Intuitive markings on buttons eg volume | up shouldn’t be “V” | e Easily visible colour (if possible with | corporate colour scheme) | Real Reaction",1
+815.75,834.61,speaker_3,C,"... some sort of special, extra effort. Um, if we do decide to go for voice activation, uh, there sh-should always be a button as alternative, possibly hidden in the, the opened up section, um, in case something was wrong with it or someone lose voice. Maybe they got a cold or, um, we should definitely avoid the big square block look. That's just wrong.",captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,2
+835.33,835.65,speaker_1,D,Mm-hmm.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+835.67,835.67,speaker_2,B,Okay.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+836.59,845.13,speaker_3,C,"And, um, we've got an email, uh, from, I think it's the, the research department, and they've said the voice control, um, can now talk back if you ask it a question.",captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+845.61,846.01,speaker_2,B,Ooh.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+846.05,848.95,speaker_3,C,"So if, it could be good to have them, um, confirm any action you take.",captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+849.83,850.41,speaker_2,B,"Oh, that's good. Yeah.",captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+850.45,850.99,speaker_3,C,A possibility.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+851.33,851.45,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+854.07,861.17,speaker_3,C,"Right. These are problems I've had with it. Um, don't know where the slogan should go or really what the slogan is. I think it's, um, fashion into electronics.",captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+861.35,861.59,speaker_2,B,Yeah.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+862.37,869.77,speaker_3,C,"And we don't know how flexible the color scheme is. I mean, they say you want it the, the corporate colors, but they don't say, you know, if we can use any other colors at all or...",captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+870.95,871.07,speaker_1,D,Mm-hmm.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+871.17,871.55,speaker_2,B,Okay.,captured,slide,ES2002c_s09,823.76__873.01.jpg,,,Personal Preferences | e Extra features will be hidden by hinged | Opening mechanism — something like a tin | pencil case | e Voice activated options should always | have a button based alternative | e Ergonomic & attractive shape overall — | “Big Square Block” is ugly | e Voice control confirms action by talking | back | Real Reaction,1
+874.07,874.33,speaker_3,C,That's it.,captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+874.33,874.37,speaker_1,D,Cool.,captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+874.85,875.25,speaker_2,B,Okay.,captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+875.87,878.29,speaker_1,D,Great. Lots of good information there.,captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+878.67,881.33,speaker_2,B,"Yeah, that, that was very good. And, uh-",captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+881.45,881.53,speaker_3,C,Thank you,captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+881.65,882.49,speaker_2,B,... now over to you.,captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+882.57,882.61,speaker_3,C,"Um,",captured,slide,ES2002c_s10,873.01__896.12.jpg,,,Issue | e Where should corporate slogan go? | e How flexible is colour scheme? | Real Reaction,1
+896.29,897.05,speaker_3,C,I think I'm caught.,captured,slide_windowed,ES2002c_s11,896.12__901.84.jpg,Presenter clicked out of the slideshow: slides still visible but not full screen,,"Je Bin | (6 Microsoft PowerPoint - [Interface_concept.ppt] | View Insert Format Tools SlideShow Window Help ~ x | Slide | put fashion sn electronics | Interface Concept | Presented by: Craig, User | Interface Designer | Click to add notes | | \ | 2 | Slide 1 of 6 RealReaction English",1
+899.87,902.79,speaker_1,D,"It's a shame the cable wasn't just in the middle of the, the table.",captured,slide_windowed,ES2002c_s11,896.12__901.84.jpg,Presenter clicked out of the slideshow: slides still visible but not full screen,,"Je Bin | (6 Microsoft PowerPoint - [Interface_concept.ppt] | View Insert Format Tools SlideShow Window Help ~ x | Slide | put fashion sn electronics | Interface Concept | Presented by: Craig, User | Interface Designer | Click to add notes | | \ | 2 | Slide 1 of 6 RealReaction English",2
+902.79,903.67,speaker_2,B,"I know. It would be handy, wouldn't it?",no capture,,,,,,,1
+903.73,904.09,speaker_1,D,Just saying.,no capture,,,,,,,1
+915.23,915.53,speaker_3,C,Oops.,no capture,,,,,,,1
+916.19,918.73,speaker_2,B,"Do, do you wanna sit in the, the line of sight of this, um-",no capture,,,,,,,1
+918.83,920.43,speaker_3,C,"Yeah. Okay, let me just get this-",no capture,,,,,,,1
+920.63,920.79,speaker_2,B,Yeah,no capture,,,,,,,1
+920.89,922.49,speaker_3,C,... going first.,no capture,,,,,,,1
+925.13,925.85,speaker_3,C,"Ah, there it is.",no capture,,,,,,,1
+932.61,932.79,speaker_2,B,Mm.,no capture,,,,,,,1
+947.19,948.33,speaker_1,D,"It takes a second, doesn't it?",no capture,,,,,,,1
+954.15,954.93,speaker_3,C,"Okay, that should be it.",no capture,,,,,,,1
+957.97,966.19,speaker_3,C,"Okay, um, I guess the same thing again. I started with something very basic, so just so you guys have some idea of what's involved in my process.",no capture,,,,,,,1
+966.47,966.63,speaker_1,D,Mm-hmm.,no capture,,,,,,,1
+966.75,975.45,speaker_3,C,"Um, and then you can just work through it, and we'll either modify it or start from scratch, um, depending on what your needs are. Um, the components are exactly the same.",no capture,,,,,,,1
+975.73,975.97,speaker_2,B,Mm-hmm.,no capture,,,,,,,1
+976.35,1017.43,speaker_3,C,"Um, I think, like what you guys said, um, the most input that's needed is basically in the user interface. The rest of the components, um, they do have an impact in terms of cost and complexity. Um, like you said, time to market was a problem, um, and how many components are physically in there and cost, and the power is basically a factor of that. Um, and the lower components, the power, the logic, the transmitter, and the infrared, um, they affect you in terms of the size of your device. Um, and that would have some inter- impact on how y- I think more how you hold rather than, um, the actual use, using the, the remote control because, um, like we've said, we've defined, like, we only want the basic things that, to be visible, and the rest of them we try to hide.",captured,diagram,ES2002c_s13,992.87__1051.25.jpg,Diagram labelled 'components',,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",3
+1017.91,1017.93,speaker_1,D,Mm-hmm.,captured,diagram,ES2002c_s13,992.87__1051.25.jpg,Diagram labelled 'components',,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1018.05,1047.89,speaker_3,C,"So, um, you know, it's just a matter of working out space. So I guess three things, um, cost, um, complexity, and the size. These are the three things that, um, will have an impact on you. So just go through the components. Um, these are the options that are available to you. Um, I'm not very sure about the voice thing 'cause I got another email and it was quite, quite sketchy on what the voice options are. Um, it said it could talk to you, but it never said anything about being able to listen. It, it said something about a sensor but never clarified that.",captured,diagram,ES2002c_s13,992.87__1051.25.jpg,Diagram labelled 'components',,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1048.03,1048.15,speaker_1,D,Mm.,captured,diagram,ES2002c_s13,992.87__1051.25.jpg,Diagram labelled 'components',,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1048.39,1048.43,speaker_2,B,Mm.,captured,diagram,ES2002c_s13,992.87__1051.25.jpg,Diagram labelled 'components',,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1048.69,1058.89,speaker_3,C,"So maybe if you... Well, I could see the other email that they sent you, um, 'cause they got back to me with, like, different requirements, um, or different offerings of what components are available. Okay, so-",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,2
+1058.95,1059.03,speaker_1,D,Right,captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1059.05,1060.37,speaker_3,C,... your basic components are buttons.,captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1060.81,1060.91,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1061.17,1063.47,speaker_3,C,"Okay, and you have a wheel available, like a mouse scroll wheel.",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1063.57,1063.75,speaker_1,D,Mm-hmm.,captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1064.19,1068.61,speaker_3,C,"Okay, there's an LCD display. Um, I think these are quite standard things.",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1068.99,1069.75,speaker_1,D,"They're standard, aren't they?",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1070.23,1076.65,speaker_3,C,"No. Um, they're... Well, in a sense that these are all the options available for you. I explained to you the complexity and the cost thing again a bit later.",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1077.49,1077.51,speaker_1,D,Yeah.,captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1077.55,1089.33,speaker_3,C,"Okay, um, then there's, um, how the case actually looks. It can actually be flat or it can be curved. Um, and then the different types of materials that you can use. Um, I don't think you can use them in a combination.",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1090.80,1095.22,speaker_0,A,"Um, but, um, I could check back for you, but I don't think you can actually use them in a combination.",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1095.22,1097.22,speaker_2,B,"Wait, you couldn't have, like, plastic and rubber?",captured,slide,ES2002c_s14,1051.25__1090.31.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,2
+1097.98,1103.98,speaker_0,A,"Um, I think plastic and rubber would be fine, but plastic, rubber, and wood, I wasn't... I'm not very sure about the titanium.",captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1104.26,1104.50,speaker_2,B,Yeah.,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1104.76,1107.14,speaker_0,A,They had some restrictions on using the rubber and the titanium.,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1107.56,1107.60,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1107.72,1114.94,speaker_0,A,"Um, the rubber was a restriction on the kind of power source you could use, but the titanium had a different kind of things on the shape of the-",captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1115.34,1115.56,speaker_2,B,Okay,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1115.56,1121.32,speaker_0,A,"... thing. So I think that there is some restriction on, um... I think you could probably group plastic and rubber together.",captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1121.50,1121.74,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1122.30,1127.48,speaker_0,A,"Wood and titanium, but, you know, it might be easier from a cost perspective and a complexity just to use one-",captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1127.80,1127.98,speaker_2,B,Mm-hmm,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1127.98,1147.36,speaker_0,A,"... you know, as opposed to two. Um, and the other components are logic chips. Um, again, I'll, I'll go back to the component chips. The com- how complex or how easy the logic is, it depends on how many functions you have on the, on a unit. Um, and that impacts cost. Um, I don't think the logic chip has a issue about size 'cause they should be about the same size.",captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1147.50,1147.50,speaker_2,B,Mm.,captured,slide,ES2002c_s15,1097.13__1149.76.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1147.52,1164.94,speaker_0,A,"Power consumption should be about the same. Um, I think the main impact is complexity. Um, and the other thing is, um, the power options. Um, the first one is a standard battery. Okay, the second one I think is more of a gimmick than actually a usable thing. It's a wind-up, wrrr.",captured,diagram,ES2002c_s13,1154.40__1171.78.jpg,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",3
+1166.48,1166.84,speaker_2,B,"Like, you know, it just spins.",captured,diagram,ES2002c_s13,1154.40__1171.78.jpg,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1166.90,1167.74,speaker_0,A,"You know, a crank.",captured,diagram,ES2002c_s13,1154.40__1171.78.jpg,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1168.80,1169.54,speaker_2,B,Just by moving it.,captured,diagram,ES2002c_s13,1154.40__1171.78.jpg,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1169.62,1169.84,speaker_0,A,Yeah.,captured,diagram,ES2002c_s13,1154.40__1171.78.jpg,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1170.00,1170.20,speaker_2,B,Yeah.,captured,diagram,ES2002c_s13,1154.40__1171.78.jpg,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,"Components | Transmitter | Reciever | TV, Stero, | DVD, CD | Player, | Radio, etc | Real React",1
+1170.30,1181.36,speaker_0,A,"But that, that might be something... I think that's more of a look and feel decision because I don't think you can have one power source if you're using the alternative power sources. I think whatever it is, you still need a battery 'cause-",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",2
+1181.76,1181.76,speaker_2,B,Mm,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1181.76,1183.66,speaker_0,A,... I don't think anybody wants to keep doing one thing.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1183.70,1183.82,speaker_1,D,No.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1184.56,1196.68,speaker_0,A,"Okay, the other ones are a solar-powered cell, which may not be a great idea in Europe or any country that has seasons 'cause half the year you'd be dead. So like what I said, you probably need, like, a battery and something else.",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1197.04,1197.04,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1197.04,1203.14,speaker_0,A,"Um, and the kinetic one, I guess for me, is the most interesting one because it's movement, and people like to fiddle with their...",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1203.60,1203.70,speaker_2,B,Mm.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1203.96,1212.08,speaker_0,A,"And it's a nice sales gimmick, I think. From a marketing gimmick. It, it's a technology thing. It's a shake it. It doesn't work, shake it, knock it or something, you know.",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1212.66,1212.86,speaker_2,B,Yeah.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1213.24,1214.72,speaker_0,A,"You know. You know, have you had those balls-",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1214.76,1214.80,speaker_2,B,"Oh, yeah",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1214.80,1215.70,speaker_0,A,"... you know, those stress balls-",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1215.74,1215.74,speaker_1,D,Yeah,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1215.74,1221.52,speaker_0,A,"... where you bounce the ball, and it, and it lights up, and it goes... You know, that might be a gimmick combined with rubber.",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1221.64,1221.72,speaker_1,D,Mm.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1222.76,1227.30,speaker_0,A,"You know, just to... If you get frustrated with a remote control, you can throw it. Kind of- ... you know, just to-",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1227.64,1228.24,speaker_2,B,"I know what you mean, yeah.",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1228.34,1239.76,speaker_0,A,"You know. Um, so, um, okay, my... From my role, I don't think they're personal preferences, but role preferences, I think, um, something comfortable to hold.",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1240.30,1240.34,speaker_1,D,Mm.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1240.52,1248.74,speaker_0,A,"Um, small and slim, I guess that's more in the sense of small and slim in terms of comfortable, not so small you can't... You know, like a phone or something.",captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1248.74,1248.74,speaker_2,B,Mm.,captured,slide,ES2002c_s16,1171.78__1250.19.jpg,,,"Other Components | e Logic — simple, regular, advanced (all hav | a built in transmitter) | e Power — battery, hand dynamo, kinetic, | solar | Real React",1
+1248.76,1258.42,speaker_0,A,"Too small a phone. Um, and the other thing is from a production point of view, um, the less components we use and the simpler the components means you reduce your cost, and you increase your profit.",captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",2
+1258.78,1259.00,speaker_2,B,Mm-hmm.,captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",1
+1259.40,1265.54,speaker_0,A,"Um, and also the time to market and the complexity of developing, designing, and debugging it. Um, so-",captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",1
+1266.00,1266.18,speaker_1,D,Mm-hmm.,captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",1
+1266.56,1282.18,speaker_0,A,"Um, okay, let me just go back and talk about some of the restrictions. Um, the user interface restrictions basically means that if you use more complicated features, like the buttons are standard, okay? The LCD panel and the scroll wheel, you need more complicated logic.",captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",1
+1283.06,1283.06,speaker_2,B,Mm.,captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",1
+1283.24,1292.62,speaker_0,A,"Um, the case. Okay, with a rubber case, you can't have the solar panels, okay? With the titanium case... Let me just check that. Um,",captured,slide,ES2002c_s17,1250.19__1291.41.jpg,,,"Personal Preferences | e Small, slim compact handheld device | e Use less and simple components | impacts quantity of functions we want to | fufill and production costs | Real React",2
+1297.76,1299.82,speaker_0,A,titanium case can't be curved. It has to be square.,captured,slide,ES2002c_s14,1291.41__1302.49.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1300.08,1300.32,speaker_2,B,Okay.,captured,slide,ES2002c_s14,1291.41__1302.49.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,1
+1300.76,1302.72,speaker_0,A,"Okay? Um, there's no restriction on the plastic and-",captured,slide,ES2002c_s14,1291.41__1302.49.jpg,,,User Interface | e Buttons: push and scroll wheel | e Display: LCD Display | Real React,2
+1302.82,1303.58,speaker_1,D,It can't be curved?,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1303.84,1304.42,speaker_0,A,It can't be curved-,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1304.48,1304.62,speaker_1,D,Okay,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1304.62,1308.42,speaker_0,A,"... on the wood. So that's... Again, I don't think you can use them in a combination.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1308.82,1309.04,speaker_2,B,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1309.30,1311.84,speaker_0,A,"Um, especially the titanium. I, I suspect they're very-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1311.94,1311.94,speaker_2,B,Mm,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1311.94,1316.36,speaker_0,A,"... fixed to a particular need. So, um, a, uh, mixing them may not be a good idea.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1316.92,1317.22,speaker_2,B,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1317.48,1318.16,speaker_0,A,"Um, yeah.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1318.50,1318.60,speaker_2,B,Right.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1318.76,1319.70,speaker_1,D,"Uh, question on-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1320.66,1320.66,speaker_2,B,Mm.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1320.68,1321.40,speaker_1,D,Can I ask a question?,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1321.54,1326.34,speaker_2,B,"Yeah, well, yeah, I just am quite keen to get the discussion going with the time we've left, so.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1326.38,1326.56,speaker_1,D,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1326.84,1327.92,speaker_2,B,"But yeah, uh, ask one.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1327.96,1333.04,speaker_1,D,"Can we, uh, power a light in this? Can we get a strong enough battery to power a light?",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1333.40,1338.96,speaker_0,A,"Um, I think we could because the LCD panel requires power, and the LCD is a form of a light.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1339.12,1339.18,speaker_2,B,Mm.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1339.20,1339.34,speaker_1,D,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1339.84,1340.16,speaker_0,A,So that-,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1340.22,1343.56,speaker_1,D,So maybe one of the things we can just try and include is a really good battery.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1344.86,1346.78,speaker_2,B,"Why, what kind of light do you want? Are you thinking of?",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1346.82,1353.28,speaker_1,D,"Well, I mean, I'm thinking it might be that for this to be a high-tech thing-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1353.36,1353.36,speaker_2,B,Uh-huh,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1353.38,1355.74,speaker_1,D,... it's gonna have to have something high-tech about it.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1356.10,1356.18,speaker_2,B,Yeah.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1356.18,1364.20,speaker_1,D,"And it's gonna take battery power. And to make that, to make that a realistic goal, I think one of the issues that will come up later is can the battery power it?",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1364.74,1371.64,speaker_0,A,"Are you thinking, are you thinking of, of a light in the sense of, um, a light light or a light in the sense of-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1371.80,1372.66,speaker_1,D,Illuminating a button,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1372.66,1373.42,speaker_0,A,"... it glows, kind of?",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1373.50,1373.92,speaker_1,D,"Yeah, it glows.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1373.96,1375.00,speaker_0,A,"You know, Frankenstein, it's alive.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1375.04,1378.80,speaker_1,D,"Well, I'm thinking along the lines of you're, you're in the dark watching a DVD.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1379.10,1379.20,speaker_0,A,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1379.26,1385.96,speaker_1,D,"And you, um, you find the thing in the dark, and you go like this, and that's what everybody does. Oh, where's the volume button in the dark?",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1386.14,1386.36,speaker_2,B,Yeah.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1386.48,1386.68,speaker_0,A,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1386.88,1390.62,speaker_1,D,"And, uh, you just touch it, or you just pick it up and it lights up or something.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1390.72,1391.30,speaker_2,B,Like a phone.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1391.44,1391.66,speaker_0,A,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1391.78,1392.36,speaker_1,D,"Like a phone, yeah.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1392.38,1393.28,speaker_2,B,"Yeah, like the backlight in a phone.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1393.32,1393.32,speaker_1,D,Yeah.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1393.36,1394.18,speaker_2,B,"Okay, cool.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1394.22,1396.74,speaker_1,D,"Whereas with phones, people charge them once a week.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1397.08,1397.32,speaker_2,B,Yeah.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1397.50,1404.40,speaker_1,D,We're gonna need to put in a really good battery so people don't have to charge their remote control every few days.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1404.46,1409.38,speaker_0,A,"Um, that's why I think the option of the, the kinetic thing, which basically means as long as you shake it, like a watch, like an automatic watch.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1409.40,1411.24,speaker_1,D,But are people gonna wanna shake their movie controller?,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1411.68,1414.14,speaker_0,A,"Um, it's probably sensitive enough when you fiddle it.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1414.38,1414.50,speaker_1,D,Right.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1415.28,1415.50,speaker_0,A,So-,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1415.62,1415.72,speaker_1,D,Sure,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1415.74,1418.96,speaker_0,A,"... you could trigger that to a light, like I said, the bouncing ball thing. Or you could-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1419.04,1419.06,speaker_2,B,Okay,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1419.10,1421.90,speaker_0,A,... trigger that to use that to power the light as opposed to-,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1422.08,1422.20,speaker_1,D,Right,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1422.20,1424.00,speaker_0,A,"... so when they pick it up, right? And then that-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1424.06,1424.14,speaker_2,B,Okay,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1424.22,1425.66,speaker_0,A,... that sort of triggers the-,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1426.00,1426.00,speaker_1,D,Mm-hmm,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1426.02,1426.28,speaker_2,B,Right,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1426.28,1427.80,speaker_0,A,... glowness.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1428.08,1428.30,speaker_2,B,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1428.30,1428.30,speaker_1,D,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1428.64,1437.86,speaker_2,B,"Um, well, let's just go right back to the marketing ideas for a start. And just keeping an eye, idea on the time, we've got about 15 minutes to play with at most.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1438.14,1438.30,speaker_1,D,Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1438.38,1448.38,speaker_2,B,"So, um, yeah, so just to bear in mind that the ultimate goal of this meeting is to reach an absolute decision on the, the, the concepts of the product.",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1448.54,1448.92,speaker_1,D,Mm-hmm. Okay.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1448.96,1454.04,speaker_2,B,"So back to your idea about, um, incorporating the idea of, like, fruit and veg and-",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1454.12,1454.18,speaker_1,D,Yeah,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1454.32,1456.22,speaker_2,B,... the corporate color and things like that.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1456.36,1456.46,speaker_1,D,Yeah.,captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1456.92,1459.92,speaker_2,B,"Um- I mean, what does everybody think about...",captured,slide,ES2002c_s15,1302.49__1460.04.jpg,,,"Look & Feel | e Cases: curved or flat | e Materials: plastic, rubber, wood or | titanium | Real React",1
+1462.32,1468.86,speaker_2,B,"Does anybody have any ideas of, about how we can fit all that in together? I mean, that's kind of the user interface type of thing. What are your thoughts on that?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1469.60,1479.12,speaker_3,C,"Um, I reckon we go for a very, um, maybe not a, a fruit shape, but a very sort of curvy type shape. Um, you can have the same sort of texture and color as our fruit.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1479.72,1486.04,speaker_2,B,"So maybe do, are we thinking something that like s- could sit in your hand comfortably or just that you'd hold onto comfortably or?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1486.50,1488.66,speaker_3,C,"Um, probably something that sits in your hand comfortably, sort of-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1488.80,1489.64,speaker_2,B,Something quite curvy?,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1489.64,1490.46,speaker_3,C,... feels right in your hand.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1490.46,1501.80,speaker_2,B,"Okay. Um, right. Okay. Color-wise, I mean, you made a re- was it you or, I can't remember who made the point about how if you have a nice bright color, you'll not lose it. Was that you?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1501.90,1502.04,speaker_3,C,What's that?,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1502.04,1502.50,speaker_0,A,I think you made that.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1502.66,1505.18,speaker_2,B,"About how if you have a bright color, you'll not lose it so much.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1505.34,1505.52,speaker_0,A,Yeah.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1505.96,1512.50,speaker_2,B,"Um, and when the corporate color is yellow, I mean, maybe we could think about, about the color of the whole product being yellow.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1512.56,1512.56,speaker_0,A,Okay.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1512.60,1523.71,speaker_2,B,"I don't know. Um, and then obviously the, uh, the materials. But has anybody got like an overall picture in their mind about what, what might work at all?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1524.82,1530.30,speaker_1,D,"Well, I mean, I'm thinking that what we need to do is have something that kind of unifies a lot of the different concepts.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1530.34,1530.36,speaker_2,B,Mm-hmm.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1530.36,1537.48,speaker_1,D,"And if we think that what we are, what our number one marketing motive is, um, the look and feel.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1537.72,1537.88,speaker_2,B,Mm-hmm.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1538.02,1560.76,speaker_1,D,"So for the look and feel to seem coherent and not just sort of bits and, bits and pieces of, of concept and technology or, or whatever, or fashion, then we should have it kind of come back to one thing that we kind of all sorta can visualize. Um, maybe what we could do is think about a concept which touches back to the, on the, um, the color.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1561.02,1561.04,speaker_2,B,Mm-hmm.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1561.06,1564.80,speaker_1,D,"You said company color, yellow. I mean, if we think of something like, I was saying also lime-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1565.10,1565.14,speaker_2,B,Mm-hmm,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1565.14,1574.56,speaker_1,D,"... or lemon, you know. What, can we come up with something where we, we try and associate it with, with like the series. We just come up with something like that we kind of use it as a theme to inspire the-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1575.44,1575.82,speaker_2,B,Okay,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1575.84,1576.54,speaker_1,D,... shapes and things.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1577.66,1578.02,speaker_2,B,Right.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1578.66,1588.72,speaker_0,A,"Is there a particular shape that you're interested in? Like, does marketing have any research on... Does it need to be long? Does it need like a square thing or?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1588.73,1590.26,speaker_2,B,"Yeah, like in circular in shape or-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1590.56,1593.30,speaker_0,A,"Yeah, 'cause that will n- help narrow down the choice of-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1593.54,1593.66,speaker_1,D,Yeah,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1593.66,1594.00,speaker_0,A,... like fruit.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1594.02,1595.14,speaker_2,B,"Choice of material, yeah.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1595.68,1595.98,speaker_0,A,Didn't think of fruits in my head there. It's tacky.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1595.98,1606.98,speaker_2,B,"'Cause I, I was kind of thinking about as well, you know how you get these shock-resistant mobile phones, and they're plastic, but they also have like rubber around the outside, and it kind of feels, it feels kind of warmer to the touch.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1607.02,1607.04,speaker_1,D,Yeah.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1607.04,1622.96,speaker_2,B,"Feels a bit more comfortable. I mean, we could incorporate plastic and rubber into it, and then, then we could have curved shapes 'cause wood or titanium, yeah, it's gonna have to be boxy and rectangular, and I think we might be moving away from that, you know. So, um,",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1625.92,1629.16,speaker_2,B,"well, um, do we want it in like the shape of a lemon or-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1629.32,1629.58,speaker_1,D,"No. No, no",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1629.62,1630.42,speaker_2,B,"... No, I don't think we do either.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1630.44,1641.36,speaker_1,D,"Not at all. It's more, more just that we, we think about like what it is we're trying to achieve, and then we have one, one sort of theme that we stick with. Do you know what I mean?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1641.36,1646.90,speaker_2,B,"Okay. Right. Well, um, so thoughts about the actual shape of the thing.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1648.00,1649.90,speaker_3,C,I quite like a sort of a snowman type shape.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1650.10,1650.98,speaker_2,B,A snowman shape?,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1651.38,1653.12,speaker_3,C,"Um, so a sort of larger bit sits in your hand.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1653.24,1653.46,speaker_2,B,Uh-huh.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1653.68,1657.02,speaker_3,C,And then you've got maybe another above at the top for just any other function you need.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1657.64,1659.76,speaker_2,B,"That's quite a distinctive shape. That'd be good, wouldn't it?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1660.96,1661.12,speaker_3,C,Yeah.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1661.36,1663.66,speaker_2,B,"Yeah. Shall we, uh, shall we go with that?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1664.60,1668.82,speaker_1,D,"Um, can we... Yeah, like to, and what, like, do you have a-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1670.04,1671.10,speaker_2,B,Do you wanna draw it on the board?,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1671.14,1672.78,speaker_1,D,"Can we like... Yeah, just so we can visualize it.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1690.80,1696.06,speaker_3,C,"Yeah, something like that. Um, you got two groups there. Um, maybe it could fold up, and you get a third group inside.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1696.22,1696.46,speaker_1,D,Okay.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1696.54,1697.44,speaker_2,B,"Ooh, that'd be good.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1698.04,1700.08,speaker_3,C,You have volume controls about there.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1700.76,1701.02,speaker_1,D,Okay.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1701.20,1701.56,speaker_2,B,Mm-hmm.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1703.22,1703.32,speaker_3,C,Yep.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1703.88,1707.04,speaker_2,B,So call that the snowman shape trademarked.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1711.98,1721.42,speaker_2,B,"Yeah, that, that's cool. Um, and I mean, color-wise, what does everybody think? I think it is quite important to get yellow in there somewhere. I mean, do you want the whole thing yellow, maybe like yellow and white? Do you want something-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1722.72,1726.86,speaker_3,C,"Mm. I reckon it'd look quite nice if we just add, um, this bit around here, uh, the sort of background yellow.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1727.24,1727.42,speaker_2,B,Uh-huh.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1727.46,1729.76,speaker_3,C,And then have sort of a nice bold color for the buttons.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1730.14,1748.26,speaker_2,B,"Okay. Cool. Um, and also, I mean, how are we going to incorporate the slogan in? The fact that it talks to you, I mean, it might be quite cool if when you first start using it, it says, what is it? Putting fashion into electronics or something. I don't know. Or when you like, if you turn it off or something. If it can speak-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1748.28,1748.28,speaker_3,C,"Yeah, maybe",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1748.32,1754.78,speaker_2,B,"... if it could actually say the slogan, it might be a bit more powerful than just having it written on it somewhere. I d- I, any thoughts on that at all?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1755.48,1757.76,speaker_3,C,"I think that'd probably scare me. Turn it on, you hear all this.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1758.40,1771.38,speaker_2,B,"I know. Um, unless, and I mean, if you also like where if we wanted to incorporate, um, an LCD display, where would we put that? Would we put that on the inside or?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1772.96,1773.16,speaker_3,C,Um-,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1773.34,1776.76,speaker_0,A,"Do we need an LCD display? What, what's the functionality of that?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1776.84,1779.04,speaker_2,B,"Well, I'm seeing it increase the cost of it a lot.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1779.28,1781.46,speaker_0,A,"Yeah, but the question is, what are we using it-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1781.48,1781.52,speaker_1,D,What are we achieving?,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1781.52,1783.12,speaker_0,A,"What would, what would we achieve from it?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1783.22,1783.22,speaker_3,C,Um-,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1783.24,1786.82,speaker_0,A,"Putting in lights is cheap, but putting an LCD panel just to make it glow is a bit more-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1786.82,1794.42,speaker_1,D,"LCD, I, when you mentioned LCD, I was thinking, ""I wonder what that would be about."" And the, the thing I could see it helping with would be if it was somehow connected with, um, listings.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1794.82,1794.82,speaker_2,B,Yeah.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1794.86,1797.48,speaker_1,D,"So as you scroll through, 'cause we said we might have a jog dial.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1797.92,1797.92,speaker_2,B,Mm-hmm.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1797.94,1802.20,speaker_1,D,"So as you scroll through your stations, you can... It actually tells you what it is.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1802.28,1806.62,speaker_0,A,I think that will be a problem because we don't have an input device to get the listings into it.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1806.68,1807.18,speaker_1,D,Right. Okay.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1807.22,1807.24,speaker_2,B,"Oh, yeah.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1807.28,1809.48,speaker_0,A,"So, um, it's a bit nuts to get the user to-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1809.90,1809.90,speaker_2,B,Yeah,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1809.90,1811.86,speaker_0,A,"... Monday, Tuesday, Wednesday, you know.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1811.88,1813.50,speaker_2,B,"So, so no need for an LCD display.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1813.60,1816.52,speaker_0,A,"Um, I, I'm not saying there's no need for an LCD display, but, um-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1816.80,1817.18,speaker_2,B,I think that would make it very complicated,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1817.20,1820.98,speaker_0,A,"... it's what's, what, what will it tell the user? 'Cause the LCD tends to be an output-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1821.24,1821.24,speaker_2,B,Yeah,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1821.24,1822.78,speaker_0,A,"... as, as opposed to an input, so.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1822.88,1822.96,speaker_2,B,Yeah.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1823.72,1833.22,speaker_0,A,"Um, does the remote control need to talk? Back to the user. We have the option on the speaker as well. The sa- the same thing goes for the speaker. Is there a need for the remote control to-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1834.32,1835.32,speaker_2,B,"Well, I don't know. There is really",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1835.34,1836.18,speaker_0,A,... talk back?,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1836.90,1837.14,speaker_2,B,No.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1838.12,1838.56,speaker_0,A,Um.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1839.66,1843.20,speaker_2,B,"I would say no need for talk back. Uh, does anybody disagree with that?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1844.42,1844.48,speaker_3,C,No.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1844.56,1845.48,speaker_0,A,You could put a game on it.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1847.52,1847.82,speaker_2,B,Easy.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1848.54,1850.74,speaker_0,A,"When the TV dies, you can play with the remote control.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1850.98,1864.22,speaker_2,B,"Okay. Um, right. So you're gonna have the three different sets of, of functionalities. Um, I mean, do you wanna group them into s- head of the snowman, body of the snowman, inside of the snowman? Is that what you're thinking?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1864.56,1869.00,speaker_3,C,"Um, well, I think the advanced ones, the, the ones you don't usually use, could be hidden inside.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1869.32,1869.64,speaker_2,B,Okay.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1869.86,1874.06,speaker_3,C,"Um, I think the, the three groups we had were fairly basic ones that'd have to go on the, the front somewhere.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1874.50,1880.06,speaker_2,B,"Okay. Right. Um, what else do you need to talk about?",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1880.10,1886.10,speaker_0,A,"Well, where would you physically position the buttons? Um, I think that that has some impact on-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1886.12,1886.32,speaker_3,C,Yeah,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1886.32,1887.58,speaker_0,A,"... on, on many things.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1887.74,1888.74,speaker_3,C,Yeah. Um.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1888.74,1890.82,speaker_0,A,"Um, maybe you wanna draw onto the-",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1891.34,1895.98,speaker_2,B,"Sorry, I'm just gonna, um, pop this in here 'cause I have a slide about decision-making.",captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1896.42,1896.56,speaker_0,A,Yep.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1897.82,1898.86,speaker_2,B,Which I'd forgotten about.,captured,blank,ES2002c_s18,1460.04__1914.68.jpg,Blank screen,,=|,1
+1910.68,1925.86,speaker_2,B,"Oh, sh... God, we've got five minutes. Um, okay. Uh, back we go. Um, energy, when... Do you think that's suggesting we're her- powering the thing? I really like the idea, this kinetic thing, where you'd have the backup of the battery-",no capture,,,,,,,2
+1925.90,1925.90,speaker_3,C,Yeah,no capture,,,,,,,1
+1925.90,1926.40,speaker_2,B,... but have-,no capture,,,,,,,1
+1926.68,1926.86,speaker_3,C,Sure,no capture,,,,,,,1
+1927.06,1928.60,speaker_2,B,"... have kinetic power. I mean, what does everyone think of that?",no capture,,,,,,,1
+1928.60,1936.38,speaker_1,D,"I've had kinetic things before, and the, the one issue we need to keep in mind with them is that you're committing the user to moving it, and-",no capture,,,,,,,1
+1936.44,1937.22,speaker_0,A,"No, like I said, we have a-",no capture,,,,,,,1
+1937.22,1938.04,speaker_1,D,"... watches, yeah",no capture,,,,,,,1
+1938.04,1939.32,speaker_0,A,... hybrid kinda thing.,no capture,,,,,,,1
+1939.58,1939.76,speaker_1,D,Sure.,no capture,,,,,,,1
+1939.76,1940.82,speaker_0,A,So it's not gonna charge-,no capture,,,,,,,1
+1940.84,1940.86,speaker_1,D,Okay,no capture,,,,,,,1
+1940.88,1941.32,speaker_0,A,... the battery.,no capture,,,,,,,1
+1941.44,1941.88,speaker_1,D,Right. Okay.,no capture,,,,,,,1
+1941.98,1942.56,speaker_0,A,It's just-,no capture,,,,,,,1
+1943.40,1943.60,speaker_2,B,Okay.,no capture,,,,,,,1
+1943.64,1944.70,speaker_1,D,"Support for it. I mean, just-",no capture,,,,,,,1
+1944.82,1944.82,speaker_0,A,Yeah,no capture,,,,,,,1
+1944.82,1951.04,speaker_1,D,"... it's just worth pointing out because, like, I've, I've known, I've known people to have kinetic watches that they wear all the time.",no capture,,,,,,,1
+1951.14,1951.14,speaker_2,B,Mm.,no capture,,,,,,,1
+1951.16,1961.58,speaker_1,D,"And it's just like magic because it's always powered and there's no battery. I've also known people to have things like, like a jewelry watch they wear from time to time, and they eventually just say, ""It's just too much of a nuisance because-",no capture,,,,,,,1
+1961.70,1961.70,speaker_2,B,Yeah,no capture,,,,,,,1
+1961.70,1968.88,speaker_1,D,"... I don't wear it all the time."" With remote controls, similar. You're away on vacation, I don't know, whatever, you something-",no capture,,,,,,,1
+1969.52,1969.54,speaker_2,B,Mm,no capture,,,,,,,1
+1969.54,1971.40,speaker_1,D,... and it's just starts to get worn down. So we should think about-,no capture,,,,,,,1
+1971.40,1980.94,speaker_2,B,"Well, I suppose that if you're, if you're away and you're not using it, then you're not using any power either. So you'd have the battery as the kind of to keep it ticking over idea.",no capture,,,,,,,1
+1981.32,1981.32,speaker_1,D,Yeah.,no capture,,,,,,,1
+1981.34,1984.44,speaker_2,B,I'm really sorry. We're gonna have to wrap up quite quickly. We don't have as much time as I thought.,no capture,,,,,,,1
+1984.58,1984.86,speaker_1,D,Yeah.,no capture,,,,,,,1
+1984.96,1991.96,speaker_2,B,"Um, so I think that's what energy is referring to here. Chip on print, is that... That's an industrial design thing, is it, David?",no capture,,,,,,,1
+1992.04,1992.62,speaker_0,A,"Yes, yes.",no capture,,,,,,,1
+1992.90,1996.88,speaker_2,B,"Okay. Um, as for the case, kind of discussed that.",no capture,,,,,,,1
+1997.24,2000.10,speaker_1,D,"And this size here, I'd suggest this be small.",no capture,,,,,,,1
+2000.56,2000.82,speaker_2,B,Yeah.,no capture,,,,,,,1
+2000.82,2000.96,speaker_1,D,"Like, quite small.",no capture,,,,,,,1
+2000.98,2005.52,speaker_2,B,"And we're gonna have, like, rubber buttons that feel kind of... Okay.",no capture,,,,,,,1
+2005.62,2006.16,speaker_0,A,"Yeah, I think they are.",no capture,,,,,,,1
+2006.26,2008.46,speaker_1,D,"Um, just a, a lot of, um,",no capture,,,,,,,1
+2011.32,2024.60,speaker_1,D,"I mean, one of the things running through my mind right now, I realize we're being efficient to wrap up the meeting and have lots of decisions made, um, but we are leaning quite a bit to the side of being low tech, rubber buttons, plastic frame. It's almost like we're reproducing the same old remote control-",no capture,,,,,,,1
+2024.82,2025.08,speaker_2,B,Okay,no capture,,,,,,,1
+2025.08,2038.46,speaker_1,D,"... that's out there. Should we think about how we are actually getting this high-tech, user-friendly i- um, theme? Like, what is it that we're u- we're using to, to achieve those goals? Like-",no capture,,,,,,,1
+2038.48,2041.38,speaker_2,B,You're talking things like backlighting the buttons and stuff like that?,no capture,,,,,,,1
+2041.40,2042.68,speaker_1,D,"Okay. So, so backlighting that we can-",no capture,,,,,,,1
+2042.72,2044.68,speaker_0,A,Or even a clear case. Um-,no capture,,,,,,,1
+2044.76,2045.38,speaker_1,D,"Yeah, clear.",no capture,,,,,,,1
+2045.96,2046.10,speaker_0,A,You know-,no capture,,,,,,,1
+2046.10,2046.10,speaker_2,B,"Oh, that would be a good idea",no capture,,,,,,,1
+2046.12,2054.08,speaker_0,A,"... a, a glowing a, a glowing yellow type case where the yellow is showable, but in the dark it sort of, it's alive.",no capture,,,,,,,1
+2054.32,2054.34,speaker_1,D,Yeah.,no capture,,,,,,,1
+2055.66,2057.42,speaker_0,A,"Um, in, in a slight sort of way.",no capture,,,,,,,1
+2057.42,2058.76,speaker_2,B,So like sort of ta- slightly transparent case.,no capture,,,,,,,1
+2058.82,2059.10,speaker_0,A,"Yeah, yeah.",no capture,,,,,,,1
+2059.14,2060.76,speaker_2,B,"So it's yellow, like tinted yellow-",no capture,,,,,,,1
+2060.86,2060.86,speaker_0,A,Yeah,no capture,,,,,,,1
+2060.86,2062.88,speaker_2,B,... but you can maybe see through it. Is that what you mean?,no capture,,,,,,,1
+2062.92,2065.24,speaker_0,A,"Or, or there might be a light running through it like a mouse.",no capture,,,,,,,1
+2065.52,2065.74,speaker_1,D,Sure.,no capture,,,,,,,1
+2066.00,2068.42,speaker_0,A,"You know, you have cordless mice, and they don't need that much power, right?",no capture,,,,,,,1
+2068.46,2068.56,speaker_1,D,Yeah.,no capture,,,,,,,1
+2068.76,2069.16,speaker_0,A,So the power-,no capture,,,,,,,1
+2069.26,2069.26,speaker_1,D,Yeah,no capture,,,,,,,1
+2069.26,2070.50,speaker_0,A,... the battery in that sense.,no capture,,,,,,,1
+2070.84,2070.84,speaker_2,B,Mm-hmm.,no capture,,,,,,,1
+2070.84,2073.70,speaker_0,A,Maybe have one or two strateg- strategically placed lights-,no capture,,,,,,,1
+2074.02,2074.16,speaker_1,D,Sure,no capture,,,,,,,1
+2074.16,2075.16,speaker_0,A,... that sort of-,no capture,,,,,,,1
+2075.48,2077.04,speaker_1,D,"Yeah, they, they emanate a light through it.",no capture,,,,,,,1
+2077.16,2077.16,speaker_2,B,Okay.,no capture,,,,,,,1
+2077.20,2080.00,speaker_0,A,"Yeah, but because the case is transparent, so it-",no capture,,,,,,,1
+2080.08,2080.26,speaker_2,B,Nice,no capture,,,,,,,1
+2080.40,2081.70,speaker_0,A,... gives it a little bit of a glow.,no capture,,,,,,,1
+2082.02,2082.14,speaker_1,D,Yeah. Mm-hmm.,no capture,,,,,,,1
+2082.20,2082.30,speaker_2,B,There you go.,no capture,,,,,,,1
+2082.32,2083.12,speaker_0,A,Doesn't make it freaky.,no capture,,,,,,,1
+2083.24,2100.94,speaker_1,D,"Um, and then the other thing that we, we're s- we've committed ourselves to achieving is s- simplicity. And so I'm thinking maybe should we try and think about having something like, um, some kind of an innovative concept about how the, um, the volume and the channels are controlled? 'Cause that's the main thing people would wanna do.",no capture,,,,,,,1
+2101.40,2101.40,speaker_2,B,Mm.,no capture,,,,,,,1
+2101.42,2105.64,speaker_1,D,"Could we use like a jog dial, like a nice just sort of round somewhere on it where you just roll it?",no capture,,,,,,,1
+2105.72,2113.86,speaker_0,A,"The question is when you're rolling it, how do you wanna roll it? Do you want them to roll it like that? Do you want them to roll it like that? 'Cause in a mouse, your hand's in a position-",no capture,,,,,,,1
+2114.00,2114.10,speaker_2,B,Yeah,no capture,,,,,,,1
+2114.12,2120.04,speaker_0,A,"... to roll it. Whereas the other thing about having a jog dial this way, it tends to get moved accidentally.",no capture,,,,,,,1
+2120.36,2122.64,speaker_1,D,Mm-hmm. But why don't we do it like a mouse though?,no capture,,,,,,,1
+2122.64,2125.96,speaker_2,B,"Yeah, if you're holding it in your hand, you could, you could do that, couldn't you? If you were holding it in your hand.",no capture,,,,,,,1
+2126.48,2128.76,speaker_0,A,That's a very unnatural motion to-,no capture,,,,,,,1
+2129.06,2129.20,speaker_2,B,Yeah?,no capture,,,,,,,1
+2129.50,2129.50,speaker_0,A,Yeah.,no capture,,,,,,,1
+2129.54,2129.82,speaker_2,B,Okay.,no capture,,,,,,,1
+2130.26,2133.56,speaker_0,A,"Can you imagine you have to scroll a lot? Um, it might work for volume.",no capture,,,,,,,1
+2134.34,2134.46,speaker_1,D,Yeah.,no capture,,,,,,,1
+2134.70,2143.36,speaker_0,A,"And maybe some of the brightness controls and stuff like that. But not for channels, right? If you have a Telewest box, you've got like... You don't have to buy all the channels. You've got 50 channels.",no capture,,,,,,,1
+2143.38,2143.42,speaker_2,B,Yeah.,no capture,,,,,,,1
+2143.42,2144.04,speaker_0,A,Can you imagine trying to...,no capture,,,,,,,1
+2145.62,2145.92,speaker_2,B,Okay.,no capture,,,,,,,1
+2145.94,2145.94,speaker_1,D,Yeah.,no capture,,,,,,,1
+2146.36,2146.56,speaker_0,A,Um.,no capture,,,,,,,1
+2146.74,2147.30,speaker_2,B,Um.,no capture,,,,,,,1
+2147.56,2150.60,speaker_0,A,"And I don't think having that, you know, too quick, too slow ki-",no capture,,,,,,,1
+2150.66,2150.72,speaker_1,D,Well-,no capture,,,,,,,1
+2150.72,2152.20,speaker_0,A,"... it's confusing to the, I don't know.",no capture,,,,,,,1
+2152.24,2155.48,speaker_3,C,"Yeah, I mean, for, um, for skipping a large amount of channels, you do have the skip to channel button. The-",no capture,,,,,,,1
+2155.58,2155.66,speaker_2,B,Yeah.,no capture,,,,,,,1
+2155.76,2159.94,speaker_0,A,"But users tend to, tend to want to use that. And once they lose out on their user experience, they're like-",no capture,,,,,,,1
+2160.68,2160.92,speaker_2,B,Okay.,no capture,,,,,,,1
+2160.94,2161.00,speaker_3,C,I'll bet.,no capture,,,,,,,1
+2161.06,2162.80,speaker_0,A,Because that becomes the most accessible-,no capture,,,,,,,1
+2163.06,2163.28,speaker_2,B,Okay,no capture,,,,,,,1
+2163.28,2163.36,speaker_0,A,... thing.,no capture,,,,,,,1
+2163.38,2164.46,speaker_1,D,"But that's not a bad thing, is it?",no capture,,,,,,,1
+2164.74,2164.92,speaker_2,B,Just-,no capture,,,,,,,1
+2165.04,2168.44,speaker_1,D,"Because if you think about it, the alternative is to go push the button.",no capture,,,,,,,1
+2168.74,2168.96,speaker_0,A,Yeah. Yeah.,no capture,,,,,,,1
+2169.00,2170.44,speaker_1,D,Jog dials are much easier than that.,no capture,,,,,,,1
+2171.04,2171.36,speaker_2,B,Okay.,no capture,,,,,,,1
+2171.68,2171.78,speaker_1,D,You just go...,no capture,,,,,,,1
+2171.90,2180.64,speaker_2,B,"Um, right. Well, would n- we do need to make a decision on whether we want to incorporate a jog dial in nice and quickly. Um, I'm all for them, actually. I think they're quite, you know-",no capture,,,,,,,1
+2180.68,2180.72,speaker_1,D,Yeah,no capture,,,,,,,1
+2180.82,2182.42,speaker_2,B,... very quick to m- to use.,no capture,,,,,,,1
+2182.46,2182.52,speaker_1,D,Yeah.,no capture,,,,,,,1
+2183.04,2192.94,speaker_2,B,"So does anybody oppose the idea of, of incorporating one into the design at all? No. And the other thing was, um, can we think of any way of getting the slogan into this thing?",no capture,,,,,,,1
+2193.34,2197.76,speaker_1,D,"Yeah, like, I mean, if we, if, if we keep coming back to this board here-",no capture,,,,,,,1
+2198.08,2198.24,speaker_2,B,Uh-huh,no capture,,,,,,,1
+2198.24,2205.12,speaker_1,D,"... I wouldn't be surprised if we could take this idea. Imagine that, I don't know, that it's within the shape of the hand. It's quite small.",no capture,,,,,,,1
+2205.60,2206.82,speaker_2,B,"Uh-huh. Ooh, okay.",no capture,,,,,,,1
+2206.88,2207.10,speaker_1,D,I don't know.,no capture,,,,,,,1
+2207.16,2208.00,speaker_2,B,We've really gotta wrap up.,no capture,,,,,,,1
+2208.44,2208.50,speaker_1,D,Yeah.,no capture,,,,,,,1
+2208.50,2209.40,speaker_2,B,"So, yeah.",no capture,,,,,,,1
+2209.58,2213.94,speaker_1,D,"It's small, and that we've got, like, the, the slogan somewhere, like, on the casing-",no capture,,,,,,,1
+2214.24,2214.24,speaker_2,B,Okay,no capture,,,,,,,1
+2214.26,2214.94,speaker_1,D,... at the side.,no capture,,,,,,,1
+2215.58,2216.48,speaker_2,B,"Well, if we can do that-",no capture,,,,,,,1
+2216.58,2216.58,speaker_1,D,And that-,no capture,,,,,,,1
+2216.58,2216.92,speaker_2,B,... great.,no capture,,,,,,,1
+2217.10,2217.24,speaker_1,D,Yeah.,no capture,,,,,,,1
+2217.50,2218.08,speaker_2,B,Yeah. Okay.,no capture,,,,,,,1
+2218.12,2221.86,speaker_1,D,"Well, I mean, isn't that what we just h- said, said we s- just have to decide now?",no capture,,,,,,,1
+2223.00,2225.30,speaker_2,B,"Yeah. Let's, let's try and get the slogan on there.",no capture,,,,,,,1
+2225.98,2226.04,speaker_1,D,Yeah.,no capture,,,,,,,1
+2226.16,2226.88,speaker_2,B,"Um, uh-",no capture,,,,,,,1
+2226.90,2227.56,speaker_1,D,And then like a jog-,no capture,,,,,,,1
+2227.56,2228.92,speaker_0,A,So we're gonna expand the shape of the-,no capture,,,,,,,1
+2229.06,2235.34,speaker_1,D,"And then like a jog dial somewhere that fits in with the shape of it, like, I don't know, like here in, with the-",no capture,,,,,,,1
+2235.40,2237.82,speaker_0,A,"That, that might have one problem in terms of, um-",no capture,,,,,,,1
+2238.12,2239.04,speaker_1,D,It would get bumped. It's still in your hand,no capture,,,,,,,1
+2239.04,2241.36,speaker_0,A,... in terms of whether you're left-handed or you're right-handed.,no capture,,,,,,,1
+2241.48,2241.48,speaker_1,D,Yeah.,no capture,,,,,,,1
+2241.50,2242.72,speaker_0,A,You might be locking yourself in.,no capture,,,,,,,1
+2242.96,2244.74,speaker_1,D,"Or maybe just fit it in, like, down the middle here.",no capture,,,,,,,1
+2244.78,2245.12,speaker_2,B,Okay.,no capture,,,,,,,1
+2245.50,2246.88,speaker_0,A,Could I just jump in and suggest something?,no capture,,,,,,,1
+2246.94,2249.38,speaker_2,B,Right. I'm gonna have to... I'm really gonna have to hurry you on here 'cause we're-,no capture,,,,,,,1
+2249.46,2249.46,speaker_1,D,Yeah,no capture,,,,,,,1
+2249.46,2250.56,speaker_2,B,... we're actually over time.,no capture,,,,,,,1
+2250.86,2251.20,speaker_1,D,It's kind of-,no capture,,,,,,,1
+2251.32,2260.56,speaker_2,B,"Um, is there anything anybody's unsure about? Just for in closing, just the next meeting's gonna be in 30 minutes, and so you can see on the screen here what each of you are gonna hopefully be doing.",no capture,,,,,,,1
+2260.82,2261.02,speaker_1,D,Yeah.,no capture,,,,,,,1
+2261.04,2277.62,speaker_2,B,"And I know that the designers are gonna be working with Play-Doh on that. So, um, that'll be, that'll be good. Um, and I'll get the, the minutes up as soon as possible. Anything at all you think we haven't discussed that we need to? Is everybody kind of happy about what they're gonna be doing?",no capture,,,,,,,1
+2278.08,2283.44,speaker_0,A,"Um, I think one thing would be the jog dial, 'cause that's gonna have quite a big impact on-",no capture,,,,,,,1
+2283.66,2283.78,speaker_1,D,Yeah,no capture,,,,,,,1
+2283.80,2283.96,speaker_0,A,"... I think, um-",no capture,,,,,,,1
+2283.96,2286.92,speaker_1,D,"I think the jog dial, you know, just after you drew that, what if it was flat and you just spun it?",no capture,,,,,,,1
+2286.96,2287.90,speaker_0,A,Yeah. That's what I was thinking.,no capture,,,,,,,1
+2287.90,2288.30,speaker_1,D,That'd be great.,no capture,,,,,,,1
+2288.34,2291.00,speaker_0,A,"The, a slide. Because then you, you don't have to put the hand.",no capture,,,,,,,1
+2291.18,2291.24,speaker_1,D,Yeah.,no capture,,,,,,,1
+2291.42,2293.10,speaker_0,A,I think incorporating your logo is quite straightforward.,no capture,,,,,,,1
+2293.18,2293.20,speaker_2,B,Okay.,no capture,,,,,,,1
+2293.20,2294.72,speaker_0,A,There's lots of space for it. Um-,no capture,,,,,,,1
+2294.74,2296.34,speaker_2,B,That's kind of a design thing that you guys can-,no capture,,,,,,,1
+2296.44,2296.58,speaker_0,A,Yeah,no capture,,,,,,,1
+2296.60,2297.02,speaker_2,B,... can discuss.,no capture,,,,,,,1
+2297.04,2298.44,speaker_0,A,"But it's also a, a marketing-",no capture,,,,,,,1
+2298.48,2298.48,speaker_1,D,Yeah,no capture,,,,,,,1
+2298.48,2299.02,speaker_0,A,... and a function.,no capture,,,,,,,1
+2299.48,2299.58,speaker_1,D,Yeah.,no capture,,,,,,,1
+2299.62,2299.78,speaker_2,B,Okay.,no capture,,,,,,,1
+2300.04,2303.18,speaker_1,D,"And materials, we sorta said we'd do plastic and rubber, didn't we?",no capture,,,,,,,1
+2303.18,2303.46,speaker_0,A,"And, yeah.",no capture,,,,,,,1
+2303.46,2303.46,speaker_2,B,Yeah.,no capture,,,,,,,1
+2303.76,2309.46,speaker_1,D,"And I think maybe we should try and stay away from just the big protruding rubber buttons, 'cause that'll just be so standard.",no capture,,,,,,,1
+2309.86,2311.20,speaker_2,B,Do it something flush with the case?,no capture,,,,,,,1
+2311.22,2312.54,speaker_1,D,"Something a bit more flush, yeah.",no capture,,,,,,,1
+2312.62,2313.22,speaker_2,B,Okay. Right.,no capture,,,,,,,1
+2313.22,2315.70,speaker_1,D,Or maybe have rubber incorporated into the case as well-,no capture,,,,,,,1
+2315.94,2315.96,speaker_2,B,Okay,no capture,,,,,,,1
+2315.96,2318.36,speaker_1,D,"... so that it has... And also t, plastic I've seen-",no capture,,,,,,,1
+2318.38,2318.42,speaker_2,B,Kind of grippy?,no capture,,,,,,,1
+2318.42,2322.46,speaker_1,D,... can get really textured. So you can get plastics that actually feel soft in your hand.,no capture,,,,,,,1
+2322.64,2323.12,speaker_0,A,Feel like fruit.,no capture,,,,,,,1
+2323.14,2323.28,speaker_2,B,Okay.,no capture,,,,,,,1
+2323.90,2324.50,speaker_0,A,Fruit skins.,no capture,,,,,,,1
+2324.52,2327.44,speaker_1,D,"They feel kind of like, um... You get plastics-",no capture,,,,,,,1
+2327.44,2327.58,speaker_0,A,"No, like-",no capture,,,,,,,1
+2327.58,2329.34,speaker_1,D,... now and then that you'd think that they were rubber-,no capture,,,,,,,1
+2329.40,2329.40,speaker_0,A,Yeah. Yeah,no capture,,,,,,,1
+2329.40,2332.12,speaker_1,D,... but they're not. They're actually just plastic that's textured. Kind of-,no capture,,,,,,,1
+2332.14,2333.28,speaker_0,A,"Yeah. Kinda like that, yeah.",no capture,,,,,,,1
+2333.50,2345.94,speaker_2,B,"Okay. I'm gonna have to, I'm gonna have to call this to a close 'cause we're way over time. So, um, that's really good. Like, we've had so much to talk about that, um, pretty much run out of time to do so. So, off you go and-",no capture,,,,,,,1
+2347.58,2347.58,speaker_1,D,Okay,no capture,,,,,,,1
+2347.58,2348.82,speaker_2,B,... design stuff. Woo.,no capture,,,,,,,1
+2350.36,2351.34,speaker_0,A,Play-Doh time.,no capture,,,,,,,1
+2351.50,2352.86,speaker_2,B,"Yeah. Quite jealous, actually.",no capture,,,,,,,1
+2356.48,2359.12,speaker_0,A,"You got to choose first. No, we're kidding.",no capture,,,,,,,1
+2365.38,2368.94,speaker_0,A,Okay. Can I just swipe your power cable? I don't think it matters.,no capture,,,,,,,1
+2373.54,2380.26,speaker_0,A,Okay. Let me... Okay. I'm gonna pull everybody out first and then put in whoever needs to be left.,no capture,,,,,,,1
+2383.50,2403.18,speaker_0,A,"It's your... Ah. This is a real hassle, the... Oops. I'm gonna take the microphones 'cause it's, I'm too lazy to take them off again.",no capture,,,,,,,2
+2405.68,2405.90,speaker_0,A,Cool.,captured,email,ES2002c_s19,2401.04__2410.51.jpg,Email inbox,,"x - Outlook Express | Edit Tools Message Help | Mail Reply | ok Express | ocal Folders | =] Inbox | Outbox | =) Sent Items | Deleted Items | Drafts | v | 8 | OD | Reply All Forward Print Delete Addresses Find | From Subject | Project announcement | personalcoach@ami Example presentation kick-off meeting | Project roles | Agenda presentation structure meeting B | Prepare meeting B | Prepare meeting B | Agenda presentation structure meeting C | personalcoach@ami Example presentation structure meeting C | x | Received | 13/12/2004 | 13/12/2004 10:27 | 13/12/2004 10:27 | 11:34 | 13/12/2004 11:34 | 13/12/2004 11:39 | 13/12/2004 13:50 | 13/12/2004 13:50 | From: personalcoach@ami To: participanti@ami | x Subject: Example presentation structure meeting C | How to manage the conceptual design phase | Remember from the explanation of the general design method: | * Conceptual specification of components, properties and materials | Conceptual specification of user mterface | Trend watching | Conceptual Design | O unread | art I Inbox - Outlook Express Documenti - Microsof... | Working Online | EN &",1

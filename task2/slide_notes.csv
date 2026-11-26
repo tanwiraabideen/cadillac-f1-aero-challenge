@@ -1,0 +1,38 @@
+meeting,image_file,content_type,description,same_as,source
+ES2002a,1088.52__1096.81.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1096.81__1104.62.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1104.62__1112.77.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1112.77__1119.67.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1119.67__1126.67.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1126.67__1136.59.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1136.59__1141.70.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1141.70__1149.87.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002a,1165.49__1170.74.jpg,email,Email inbox open on the presenter's laptop,,hand
+ES2002b,335.19__354.08.jpg,picture,Picture of two TV remote controls,,hand
+ES2002b,419.72__605.80.jpg,picture,"The same picture of two TV remote controls as 335.19__354.08.jpg, shown full screen",335.19__354.08.jpg,hand
+ES2002b,605.80__625.32.jpg,picture,Repeat capture of 419.72__605.80.jpg (identical image),419.72__605.80.jpg,hand
+ES2002b,625.32__670.38.jpg,picture,Repeat capture of 419.72__605.80.jpg (identical image),419.72__605.80.jpg,hand
+ES2002b,670.38__677.81.jpg,picture,Repeat capture of 419.72__605.80.jpg (identical image),419.72__605.80.jpg,hand
+ES2002c,896.12__901.84.jpg,slide_windowed,Presenter clicked out of the slideshow: slides still visible but not full screen,,hand
+ES2002c,992.87__1051.25.jpg,diagram,Diagram labelled 'components',,hand
+ES2002c,1154.40__1171.78.jpg,diagram,"The same 'components' diagram as 992.87__1051.25.jpg, shown again",992.87__1051.25.jpg,hand
+ES2002c,1460.04__1914.68.jpg,blank,Blank screen,,hand
+ES2002c,2401.04__2410.51.jpg,email,Email inbox,,hand
+ES2002c,2410.51__2442.84.jpg,document,Microsoft Word document titled 'Final Report',,hand
+ES2002d,451.36__987.12.jpg,spreadsheet,Screenshot of an Excel table,,hand
+ES2002d,1009.37__1037.72.jpg,slide_windowed,"PowerPoint not full screen, desktop visible",,hand
+ES2002d,2402.53__2410.25.jpg,email,Email inbox,,hand
+ES2002d,2410.25__2415.48.jpg,email,Email inbox,,hand
+ES2002d,2415.48__2425.30.jpg,email,Email inbox,,hand
+ES2002d,2425.30__2434.89.jpg,email,Email inbox,,hand
+ES2002d,2434.89__2445.73.jpg,email,Email inbox,,hand
+ES2002d,2445.73__2456.59.jpg,email,Email inbox,,hand
+ES2002d,2456.59__2465.61.jpg,email,Email inbox,,hand
+ES2002d,2465.61__2480.54.jpg,email,Email inbox,,hand
+ES2002d,2480.54__2540.44.jpg,email,Email inbox,,hand
+ES2002d,2540.44__2572.96.jpg,document,Word document listing decisions that have been made,,hand
+ES2002d,2572.96__2587.87.jpg,document,Word document listing decisions that have been made,,hand
+ES2002d,2587.87__2597.72.jpg,document,Word document listing decisions that have been made,,hand
+ES2002d,2597.72__2610.82.jpg,email,Email inbox,,hand
+ES2002d,2610.82__2625.87.jpg,email,Email inbox,,hand
+ES2002d,2625.87__2631.77.jpg,email,Email inbox,,hand
