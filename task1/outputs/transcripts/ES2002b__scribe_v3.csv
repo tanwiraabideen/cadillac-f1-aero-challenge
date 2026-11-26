@@ -1,0 +1,478 @@
+start,end,speaker,ami_speaker_best_match,text
+7.04,9.90,speaker_0,B,"Oh, yes, I forgot about that. Okay."
+14.62,15.40,speaker_0,B,Is that all right now?
+17.46,17.72,speaker_0,B,Okay.
+17.78,19.76,speaker_1,D,That's cool. Someone turned these on for-
+19.78,20.02,speaker_0,B,Sorry?
+20.34,21.46,speaker_1,D,Did someone turn these on for us?
+21.46,21.46,speaker_0,B,Yes.
+21.64,21.88,speaker_1,D,Great.
+23.32,27.14,speaker_0,B,"Okay, everybody all set to start the meeting? Okay, we've got half an hour for this one-"
+27.14,27.74,speaker_1,D,Did you plug it in?
+27.84,32.18,speaker_0,B,"Um, to, uh, discuss the, um, functional design."
+32.20,33.60,speaker_1,D,Okay. Thanks.
+34.68,36.04,speaker_0,B,All ready to go? Okay.
+36.48,36.70,speaker_1,D,Okay.
+37.08,64.20,speaker_0,B,"Um, so hopefully you've all been working away, and I've put the minutes of the last meeting in the project folder. Um, so I guess just to, to recap on, uh, what we did last time, um, uh, got to know each other a little bit and, uh, got familiar with all the equipment and started to discuss, um, a bit about the project, you know, cost-wise, how much, how much money we had to spend."
+101.10,116.54,speaker_0,B,"Um, just want to tell you that we have three new requirements, um, which is the, the first one is that, um, uh, the company's decided that teletext is outdated, uh, because of how popular the internet is. Nobody uses teletext very much anymore."
+116.78,116.94,speaker_1,D,Okay.
+117.12,140.88,speaker_0,B,"So we don't really need to consider that in the functionality of the, of the remote control. Um, they've also suggested that we, um, we only use the remote control to control the television, not the VCR, DVD, or anything else. I think the worry is that if the project becomes too complex, then it'll affect, um, how long it takes us to get it into, into production, the time to market."
+141.32,141.52,speaker_1,D,Okay.
+141.82,157.68,speaker_0,B,"So, um, we're just going to keep it simple, and it'll just control the TV. And the other thing was that the company want the corporate color and slogan to be implemented in the new design. Um, I'm not entirely sure what the corporate color is. It might be yellow because there seems to be a lot of yellow everywhere."
+158.00,162.96,speaker_1,D,"And the slogan, like the actual written slogan, or just to embody the idea of the slogan?"
+163.26,171.08,speaker_0,B,"Well, that's the thing. I'm, I'm not sure. Um, uh, because on the, the company website, uh, what does it say?"
+172.40,174.00,speaker_1,D,Putting the fashion in electronics.
+174.14,207.98,speaker_0,B,"Yeah. I mean, do they-- Is that something they want actually written on it? Because it's quite long. Um, or yeah, just the idea of it. I'm not sure. So that's something we can discuss as well. So those are the three things. Just not to worry about teletext, uh, only control the TV, and, um, and, uh, incorporate the, uh, color and slogan of the company. Um, so is everybody okay with any of that, or do you want me to recap at all? No, I'm all set. Right. Um, time for presentations then. Who would like to go first?"
+210.20,210.82,speaker_2,C,"Okay, I'll go first."
+211.16,211.78,speaker_0,B,"Okay, cool."
+217.26,219.62,speaker_2,C,"All right. Um, can I steal this from the back of your laptop?"
+219.92,222.16,speaker_0,B,"Oh, yeah, of course. Go, go right ahead."
+258.56,261.94,speaker_2,C,"All right, so this is the technical function design. Um-"
+262.36,262.74,speaker_0,B,Okay.
+265.58,274.14,speaker_2,C,"All right. Um, to do the, um, the design, I have, I've had a look online, I've had a look at the homepage, which has given us, um, some inspiration from previous products."
+274.50,274.50,speaker_0,B,Mm-hmm.
+275.24,286.58,speaker_2,C,"Um, I've had a look at the previous products to see what they offer, and, um, I would like to ask you guys for, um, your ideas about the design at the end of this meeting. Um, unfortunately, we're not allowed to talk outside the meeting room."
+287.80,288.04,speaker_0,B,Okay.
+289.30,309.20,speaker_2,C,"Um, having a look at the existing products, I found out that, um, it tends to come in sort of two extremes. There's either, um, a very complicated one that's got lots of buttons, lots of colors, very confusing. You don't know what you're doing. Um, in that case, the labeling tends to be very bad. Um, there's an example I'll show you at the end. Um, I'll probably show you now. Uh..."
+315.52,315.60,speaker_0,B,Hmm.
+315.76,323.40,speaker_2,C,"So you see here, um, there's a button there and there. This one's Prog. Sorry, that one's Prog, and that one's Prog, and it doesn't really tell you what it does."
+334.52,359.40,speaker_2,C,"Um, I'm not sure if you had a, a look at the other, um, control in that example. Um, it's a very simple one. It's got only the basic functions, but, um, it's the same size as the, the hard-to-use one. Uh, it looks a bit clunky. They're very big and not very much use for actual buttons. Um, and it's just very hard to access the advanced functions. There's, there's nothing, for instance, for a slow motion button."
+362.40,378.96,speaker_2,C,"Um, my own preferences, I prefer the, the clunky one. Um, it's very easy to use, um, but unfortunately it does lack the advanced functions, which I, I quite like having on the controls. Um, so I believe that the advanced functions should maybe be hidden in a drawer or something like that, could be pulled out from the bottom of it."
+381.58,386.18,speaker_2,C,"So, now I'd like to ask about your preferences. Um, not sure how long we've got."
+386.84,393.48,speaker_0,B,"Um, well, we can chat away for, uh, for five minutes or so, I think, at, at most. Just a couple of minutes anyway."
+394.38,410.66,speaker_1,D,"Yeah, like a lot of, a lot of what I've, um, read and prepared for this meeting fits in really closely with what, with what Craig's just gone over. So in part, I could, I could give you some of my personal preferences, but I could also add some to this, which is just about sort of, um, sort of market research."
+411.04,411.44,speaker_0,B,Mm-hmm.
+411.56,411.94,speaker_1,D,But anyway.
+412.74,415.08,speaker_0,B,"So, so we'll, we'll stick to kind of your area for now."
+415.14,417.32,speaker_2,C,"The one on the left or the right? Um, the clunky one is the one on the right. Okay."
+417.68,417.68,speaker_0,B,Yeah.
+417.70,420.88,speaker_1,D,"And clunky in what sense? Like, um, heavier, larger?"
+421.16,425.46,speaker_2,C,"Um, I think it's supposed to be the same size, but, um, it's got much fewer buttons. It's-"
+426.08,426.70,speaker_1,D,I see. So it's more-
+426.72,427.66,speaker_2,C,"-spread out, I think."
+427.74,428.32,speaker_0,B,Like the kind of... Yeah.
+429.06,429.56,speaker_1,D,Right. Okay.
+429.66,431.32,speaker_2,C,You get the idea. It'll be probably about this size.
+431.54,431.64,speaker_1,D,Yeah.
+431.92,432.84,speaker_2,C,"You know, got very few buttons on it."
+432.84,433.66,speaker_1,D,"Yeah, sure."
+434.16,458.44,speaker_0,B,"Well, I think it's a valid point. I mean, like, the one on the left looks quite, um, quite complicated, and that PRG, PROG thing is incredibly confusing. Um, so I see, I see why you, you know, you might prefer the simpler design. But yeah, you don't want to lose out on, you know, what it does. So maybe, you know, you know, you get a lot of remote controls where you kind of flip the thing open. I think that's a good idea. I think it is a good idea."
+460.18,465.50,speaker_2,C,"Mm-hmm. Um, do we have any functions, um, we'd want on it? I mean, so far I've got, um, on and off."
+465.62,465.68,speaker_0,B,Mm-hmm.
+465.88,468.28,speaker_2,C,"Um, switch the channel up and down, and put the volume up and down."
+468.52,468.70,speaker_0,B,Uh-huh.
+468.72,470.78,speaker_2,C,"Um, they're just the, the very basics you could use for a TV."
+471.04,474.36,speaker_0,B,"Uh-huh. And then actual numbers for channels as well, yeah."
+475.28,477.28,speaker_2,C,"Um, you say that's a required one or a requested one?"
+477.70,478.32,speaker_1,D,Which was that?
+478.60,481.02,speaker_2,C,"Um, the channels, like the, the numbers."
+481.40,482.34,speaker_1,D,"The numbers or the up, yeah."
+483.06,507.92,speaker_0,B,"Well, I would say that's required. I mean, there's no way anybody's going to buy a remote control these days if you can't actually individually select channels. I mean, would anybody disagree with that? Um, what else? Uh, so don't need to worry about teletext, don't need to worry about VCR. Uh, any kind of like display controls at all, do you think we need to worry about? You know, like brightness and contrast?"
+507.94,525.76,speaker_1,D,"Well, I think, I think essentially what we're doing right now is we're categorizing. We're saying, well, we want this to be a product that offers all the sort of more tricky features, but we want them to be in another area. Is that right? Is that what we're doing? We're kind of like sorting them out. Or are we actually eliminating things we just don't want the product to have?"
+526.40,530.36,speaker_0,B,"I think, are you, are you maybe kind of thinking what we absolutely have to have and what would be nice?"
+530.54,534.02,speaker_2,C,"Uh, to start with, um, sure, a bit both. Um, we need to find out exactly what we have to have."
+534.26,534.34,speaker_0,B,Mm-hmm.
+534.58,537.10,speaker_2,C,"Um, and after that, we can add things if they're possible."
+537.56,550.20,speaker_0,B,"Okay. Right. Well, do you want to maybe just at this point decide on what we absolutely must have as a, as a function of this? Um, so, so far, just to recap, you've got volume and channel control."
+550.30,553.02,speaker_2,C,Volume and channel and skip to certain channels with the numbers.
+553.36,555.02,speaker_0,B,Right. Okay. Um...
+560.06,572.06,speaker_1,D,"Well, one, one way I would look at this, um, would be that we approach the different controls in terms of, um, like control types, so that for the user it's very clear what they want to do, where they go."
+572.56,572.56,speaker_0,B,Yeah.
+572.64,584.82,speaker_1,D,"Uh, and also think maybe a little bit about sort of what we just want to be easily accessible. For example, if we had audio controls, those could be something people set up very rarely. Maybe they're on, they're, they're, they're in a little area-"
+585.10,585.34,speaker_0,B,Mm-hmm.
+585.36,617.14,speaker_1,D,"-but covered up. Um, things like channel and volume, um, are used all the time, so we just have them right out on top, um, very, just very sort of self-explanatory. Um, so maybe we need to think about having three or more groupings of controls, you know, like one which are just the, the habitual ones that should be right within your natural grip, and others that are, uh, also available, and then others that are concealed, something like that."
+617.14,644.04,speaker_0,B,"Okay. Um, well, just to, to wrap up quickly on this, this little section. Have I just lost... I don't know. Um, do you think maybe that's the only kind of, uh, essential requirements? And then maybe just things that would be nice if it could do would be things like audio setup and display setup and things like that. Maybe like a mute button, that sort of thing. Any... Have you anything to add to that at all? No? Okay."
+644.32,644.52,speaker_1,D,Mm-hmm.
+645.18,649.52,speaker_0,B,"Right. Um, okay. If we can move on to next presentation then, please."
+650.52,650.70,speaker_1,D,Sure.
+651.10,652.22,speaker_0,B,"Um, don't know."
+652.72,655.72,speaker_1,D,"Can this, can this reach? Can this plug come across?"
+655.80,658.54,speaker_0,B,"Probably not, actually. See?"
+658.62,660.18,speaker_1,D,So why don't I just pick up and-
+660.46,660.70,speaker_0,B,Yeah.
+662.04,662.54,speaker_1,D,"Here, I'll just..."
+665.24,665.86,speaker_1,D,"I don't know, just..."
+680.94,684.66,speaker_1,D,Can you go behind me? I don't know. This is so...
+685.70,686.66,speaker_0,B,It's a bit complicated.
+686.74,687.02,speaker_1,D,I'm all in a knot.
+687.04,688.86,speaker_0,B,"Be nice if everything was wireless, isn't it?"
+689.78,690.08,speaker_1,D,Okay.
+691.74,692.10,speaker_0,B,Right.
+696.24,707.00,speaker_1,D,"Um, so I can, I can say already, I don't know whether this is for good or for bad, but there'll be a lot of kind of, uh, redundancy in the, in the, the issues and the, the, uh..."
+708.10,710.34,speaker_0,B,"Oh, like overlap between what you said? Oh, probably, you know."
+710.36,730.00,speaker_1,D,"Which is not necessarily a bad thing, but maybe what I've already started doing is I created a slide in, in my presentation here, so, um, so that we kind of think, well, what's the cumulative effect of what we've taken from your ideas and, and mine? Because certainly I, I have a hard time separating- Separating things completely. Obviously-"
+730.00,730.66,speaker_0,B,"And hard to know what, where you're going to land, so."
+730.70,739.76,speaker_1,D,"Obviously, what you've just told me, what you've just told me impacts a lot on what, um, like market research, um, that, that I've been... So how do I, how do I get this up?"
+739.78,740.46,speaker_3,A,Function F8.
+740.48,742.34,speaker_0,B,"Uh, pre-- Yeah, put the function in F8, yeah."
+743.02,743.30,speaker_1,D,Okay.
+745.72,747.08,speaker_1,D,All right. So...
+751.84,752.00,speaker_1,D,F8?
+752.60,755.12,speaker_3,A,"Function, the blue button next to the control on the left."
+755.24,756.08,speaker_1,D,"Oh, and F8. Okay."
+756.10,757.20,speaker_3,A,You have to push it together.
+757.78,757.94,speaker_1,D,Mm-hmm.
+764.78,766.42,speaker_1,D,"Okay, I think that, that's doing it now."
+769.86,771.20,speaker_3,A,Nope. Try that again.
+773.04,773.50,speaker_1,D,"Uh, again?"
+773.54,775.20,speaker_2,C,"I think maybe the, the wire in the back might be loose."
+775.64,775.90,speaker_1,D,Okay.
+776.34,776.84,speaker_0,B,"Yeah, you wanna..."
+778.38,778.46,speaker_1,D,Um-
+778.70,779.44,speaker_0,B,"Oh, oh, here we go."
+779.70,780.02,speaker_1,D,"Okay, great."
+780.06,780.42,speaker_0,B,There you go.
+782.52,799.62,speaker_1,D,"Okay. Just, um, before I bring this up, what I'll just say is, um, what I've, what I've done is tried to collect some information so that I can then relay this to, to you guys so that it's now becomes a collective thing, and then kind of lead us in the direction of deciding, okay, what, what are our options? What should we decide? And do you know what I mean? So..."
+801.64,801.82,speaker_0,B,Um...
+803.34,805.52,speaker_3,A,Because we can't see that.
+805.52,805.62,speaker_1,D,Okay.
+805.62,805.86,speaker_0,B,Okay.
+807.92,808.20,speaker_0,B,Right.
+810.82,811.36,speaker_0,B,"Can you, um..."
+814.12,814.84,speaker_0,B,Right. Okay.
+814.98,860.74,speaker_1,D,"Okay. All right. How do we... Okay. So, um, does that make sense? So what I basically got is I've just looked into some information and sort of tried to think about how, how we could review it and how we could, and what kind of decisions we could take away from it. And then maybe by the end of just looking at some of these things, we can think about what are our priorities, because certainly there's lots of different information to go through. So, um, I'm thinking here about, uh, primarily about customer needs, that we start with the customer and, you know, what they want and what are issues with, with, um, existing products. Uh, to think about trends and also about try and connect that, as you see with the company vision, which is about fashion and electronics. Um, and then as I say, we'd like to prioritize our design features from this and, um..."
+863.30,864.10,speaker_3,A,Bouncing on top.
+864.54,912.08,speaker_1,D,"Okay. Um, so this is what I've found here. Um, a lot of this is new to me, so we'll just read through together. Um, users dislike the look and feel of current remote controls. So they find them ugly. Most people find them ugly. Um, the vast majority would spend more money for it to look fancy as well. We'll see later, the vast majority of people would spend more money for, um, slightly more intuitive controls, such as voice recognition. Okay, I'm gonna... We'll look at that in a second. Um, most people use only a, a very slim portion of all the controls. So I guess what we're looking at here is people want this technology. They tend to use the most simple controls, and overall, they find remote controls to be something they don't-- doesn't really appeal to them."
+912.26,912.30,speaker_0,B,Mm-hmm.
+912.64,957.78,speaker_1,D,"So I think what we're doing is we're trying to take, like, for me, this is sort of like three different, different, um, inspirations. You know, one is that we want something that's high-tech, but we want it to seem easy. And in spite of the primitive side of it and the very high-tech side, we want it to just be an appealing piece of equipment in people's hands. Um, frustrations, they get lost a lot, as it came up in our last meeting. Um, takes time to learn how to use them. This is, uh, why I mentioned when Craig was, uh, showing us some ideas that we actually try and group controls, so it doesn't just look like a big panel, kind of like when you, you look at, you know, a new computer keyboard or something that it's quite explanatory. If you want audio, if you want visual, then you have those. Um,"
+960.22,962.26,speaker_1,D,"and I will admit, I don't know what RSI stands for."
+962.30,963.42,speaker_0,B,Repetitive strain injury.
+964.90,967.46,speaker_3,A,Is installing a new remote control something that people...
+968.08,1023.32,speaker_1,D,"Uh, no, that did not come up at all. Um, so here, here's another, um, sort of a, a review here of the main things. I also found that most people would, uh, adults at least, would pay more for voice recognition. Now, apparently, we do have access to all the tech, cutting-edge technology in remote control, so I don't know if that's possible. We might consider getting into it. Um, and, and again here, as we sort of move, sort of think, start thinking about how we want to sell and market this, I think a recurring theme here is the company wants it to be, wants us to make something that's fashionable and sleek and trendy. Um, people, uh, additionally aren't, aren't liking the, uh, appearance of their products. So we want to think about, as we take all the sort of the techie features, how we can, um, put that into a unit which is, which people like, you know, they like the aesthetics and the ergonomics."
+1023.60,1026.88,speaker_0,B,So want something that looks good and is easy to use.
+1027.14,1027.20,speaker_1,D,Yeah.
+1027.24,1028.14,speaker_0,B,Big priorities.
+1028.26,1057.48,speaker_1,D,"Yeah. So, you know, just looking at what, what Craig, um, Craig's, uh, ideas there sort of tell me that maybe what we want to do is try and, um, separate the different things that we want to include in this. So if we do say, well, we want there to be all the technology, but we try and make that almost be like optional technology. You know, it's like, like I find a lot of TVs these days, something really nice about them is if you want to just turn them on and off, you can, but they have little panels where you click-"
+1057.56,1057.60,speaker_0,B,Mm-hmm.
+1057.64,1059.96,speaker_1,D,And there's just like tons of features.
+1060.28,1062.72,speaker_0,B,So you want to group all the different kind of-
+1063.10,1063.24,speaker_1,D,Yeah.
+1063.24,1066.62,speaker_0,B,"-types of functions together, you know. That's, I think that's a good idea."
+1066.66,1077.68,speaker_1,D,"Yeah, that's, that's sort of, um, but I, I'm-- My hope here is that I'm putting out this information so we can then say, okay, well, how do we collectively move on with it? Um-"
+1077.76,1077.84,speaker_0,B,Okay.
+1077.90,1087.54,speaker_1,D,"I haven't brought out one specific marketing idea, although my sense is that what we should try and think about is what are the current trends in materials and shapes and styles-"
+1088.04,1088.04,speaker_0,B,Mm-hmm.
+1088.06,1092.68,speaker_1,D,"And then use that, but not let that- Confine us technologically."
+1093.32,1093.66,speaker_0,B,Okay.
+1093.94,1094.08,speaker_1,D,So.
+1094.76,1095.06,speaker_0,B,Right.
+1095.52,1098.88,speaker_1,D,"All right. Any, um, comments on all of that?"
+1100.22,1108.18,speaker_0,B,"Well, um, one of the things that we have to decide on by the end of the meeting is who we're gonna be, um, who's our, our target audience, our target market."
+1108.26,1108.34,speaker_1,D,Yeah.
+1108.74,1119.42,speaker_0,B,"Um, so if we want something that, that looks good and is easy to use, but has-- is fairly powerful product or whatever, who do we really want to aim that at?"
+1119.52,1119.78,speaker_1,D,Okay.
+1120.34,1120.56,speaker_0,B,I mean-
+1121.22,1121.70,speaker_1,D,Where's the money?
+1122.78,1124.70,speaker_0,B,"Yeah. Who, who would have the money to spend?"
+1125.46,1125.50,speaker_1,D,Yeah.
+1125.56,1126.38,speaker_0,B,"Well, if, if, if like-"
+1126.38,1127.22,speaker_1,D,And who watches TV?
+1127.36,1129.66,speaker_0,B,"25 euro is our, is our selling price."
+1129.72,1129.90,speaker_1,D,Mm-hmm.
+1130.18,1133.34,speaker_0,B,"And you can imagine-- Well, I don't-- I'm not really sure how much that will retail at."
+1133.74,1133.74,speaker_1,D,Mm-hmm.
+1133.74,1137.54,speaker_0,B,"But you want-- It's somebody who's not gonna just use the remote that comes with their telly, I suppose."
+1137.58,1137.58,speaker_1,D,Mm-hmm.
+1137.58,1139.10,speaker_0,B,They're gonna actually go out and buy one.
+1139.30,1139.36,speaker_1,D,Yeah.
+1139.66,1141.50,speaker_0,B,So who do you think we're aiming this at?
+1142.86,1152.02,speaker_3,A,"Um, I think it'll be the mid-range to high-end market in terms of people, 'cause 25 euros for a remote, how much is that locally in pounds?"
+1152.04,1153.84,speaker_0,B,"It's about 16, 17 pounds, I think."
+1153.88,1157.58,speaker_3,A,Is that too-- Is that a lot of money to buy an extra remote or a replacement remote?
+1157.62,1157.64,speaker_0,B,Yeah.
+1157.66,1157.92,speaker_1,D,Mm-hmm.
+1158.36,1158.60,speaker_0,B,Okay.
+1158.60,1165.14,speaker_3,A,"Right? Um, so maybe not the high-end range, but maybe middle, middle up-ish."
+1165.70,1165.98,speaker_0,B,Okay.
+1166.04,1173.42,speaker_3,A,"Kind of, you know how much? I don't know. I guess you pay what, 10, 10 quid for a remote. Like a simple replacement."
+1173.48,1173.64,speaker_0,B,Yeah.
+1173.86,1176.28,speaker_3,A,"I mean, if you lost your remote and the first thing you just want to go out and get."
+1176.34,1176.50,speaker_0,B,Yeah.
+1176.64,1185.96,speaker_1,D,"Yeah. This, this kind of touches on your comments here, David. These are the age groups which we have information on, and these are-- this is a table of what people would pay more for a certain feature."
+1186.28,1186.30,speaker_0,B,Okay.
+1186.32,1191.08,speaker_1,D,"Just gives us a rough idea of where the, the will to spend money on TV equipment is."
+1191.74,1191.80,speaker_0,B,Okay.
+1191.90,1194.18,speaker_1,D,Mostly focused around the 25 age group.
+1194.70,1197.54,speaker_0,B,"Yeah. So do you think we're, we're aiming at a fairly young market then?"
+1198.44,1198.54,speaker_3,A,Yeah.
+1198.78,1200.32,speaker_1,D,Sort of young professional kind of market.
+1200.42,1208.26,speaker_0,B,"Yeah. Okay. Um, do you think then, uh, voice recognition is something we should really seriously consider?"
+1210.64,1211.64,speaker_0,B,"What, what do you think, Craig?"
+1212.04,1215.92,speaker_2,C,"Well, do you not say it was the, the adults that were going for the, the voice recognition?"
+1216.66,1222.78,speaker_1,D,"Uh, yeah. That's the... Yeah. It does, it does fit with the market that we're sort of identifying."
+1222.88,1223.16,speaker_0,B,Yeah.
+1223.44,1223.94,speaker_1,D,In terms of...
+1224.62,1228.98,speaker_0,B,"I think we are gonna have to narrow it down to say, ""Let's target these people and give them what they want."""
+1229.16,1229.22,speaker_1,D,Yeah.
+1229.50,1229.96,speaker_0,B,"And 'cause, you know-"
+1230.20,1230.36,speaker_1,D,Sure.
+1230.64,1231.78,speaker_0,B,There needs to be some kind of-
+1232.20,1232.38,speaker_1,D,Sure.
+1232.38,1233.58,speaker_0,B,-selling point to it.
+1233.72,1233.82,speaker_1,D,Yeah.
+1234.08,1246.98,speaker_0,B,"So, um, anybody, anything to add? Just kind of young professionals. Like, if we are going to include speech recognition, it's kind of between 15 and 35 seem to be like a really high response to that."
+1247.10,1247.24,speaker_1,D,Mm-hmm.
+1247.52,1250.06,speaker_0,B,So we could say that was our target.
+1250.06,1253.34,speaker_3,A,"I think 25 to 35 is, is, is fair to add that in as well."
+1253.36,1253.38,speaker_0,B,Yeah.
+1253.76,1254.04,speaker_3,A,Because-
+1254.22,1254.30,speaker_1,D,Yeah.
+1254.36,1258.00,speaker_3,A,-that's more than half your group of people who are willing to at least try and use your technology.
+1258.04,1258.14,speaker_1,D,Yeah.
+1258.56,1261.46,speaker_0,B,"Okay. So 15 to 35, look fairly young."
+1261.74,1261.80,speaker_1,D,Yeah.
+1261.86,1265.04,speaker_0,B,"You know, they have a bit of expendable income to spend on this sort of thing."
+1265.16,1268.94,speaker_3,A,"I think perhaps that age group is significant as well, because those are people who use a computer."
+1269.28,1269.46,speaker_1,D,Mm-hmm.
+1270.00,1273.32,speaker_3,A,"Who are familiar with their-- with computers in, in their everyday work."
+1273.40,1273.40,speaker_0,B,Yeah.
+1273.40,1273.96,speaker_1,D,Mm-hmm.
+1274.04,1275.96,speaker_3,A,I think people who are maybe about-
+1276.22,1276.44,speaker_1,D,Mm-hmm.
+1276.88,1279.98,speaker_3,A,"I wouldn't say 35, but people who are 40-ish and above now-"
+1280.38,1280.58,speaker_1,D,Mm-hmm.
+1280.80,1285.86,speaker_3,A,-would not be so dependent and reliant on a computer or a mobile phone or something like that.
+1286.18,1286.30,speaker_0,B,So-
+1286.40,1287.76,speaker_3,A,"These are people who are gadgety, right?"
+1287.84,1287.84,speaker_0,B,Yeah.
+1287.86,1292.82,speaker_3,A,"People who are growing up used to, you know, in schools and in universities, when you go into their working lives."
+1293.06,1293.20,speaker_0,B,Yeah.
+1293.30,1293.64,speaker_3,A,People who would-
+1293.94,1306.30,speaker_0,B,"So they'll not, not shy away from something quite high tech. That's, that's, that's a good point. Um, okay. So, um, so shall we make the decision, uh, to include speech recognition?"
+1307.22,1307.72,speaker_1,D,If we can.
+1307.82,1308.18,speaker_0,B,If we can.
+1308.26,1313.18,speaker_3,A,I think one thing we should try not to avoid is not to say we have to use speech recognition right now.
+1313.54,1314.62,speaker_0,B,Okay. Why is that?
+1314.74,1324.28,speaker_3,A,"Because, um, based on what you've-- everybody's saying, right, you want something simple. You want basic stuff, and you want something that is easy to use. Speech recognition might not be the simplest thing."
+1324.36,1324.52,speaker_1,D,Right.
+1325.16,1325.46,speaker_0,B,Okay.
+1325.98,1328.94,speaker_1,D,"Could it be an on-off thing? Like, if you want it-"
+1329.02,1330.38,speaker_0,B,Where you can activate and deactivate it?
+1330.44,1330.50,speaker_1,D,Yeah.
+1330.54,1333.30,speaker_3,A,We're trying to lock ourselves into a particular kind of technology.
+1333.38,1333.44,speaker_0,B,Yeah.
+1333.62,1337.78,speaker_3,A,"Rather than focusing on, on exactly what are the features that we're gonna say-"
+1337.84,1338.12,speaker_0,B,Okay.
+1338.70,1338.86,speaker_3,A,You know-
+1339.16,1339.32,speaker_1,D,Sure.
+1339.34,1342.76,speaker_3,A,"-say speech recognition is good for this, speech recognition is not good for this."
+1343.04,1343.24,speaker_1,D,Sure.
+1343.48,1343.76,speaker_0,B,Okay.
+1343.82,1345.94,speaker_3,A,I suggest that we think about speech recognition.
+1345.98,1346.14,speaker_1,D,Sure.
+1346.42,1349.14,speaker_3,A,And it's something that can be used to fulfill a function.
+1349.21,1349.56,speaker_0,B,Uh-huh.
+1349.71,1352.98,speaker_3,A,"But at the end of the day, we don't look at the technology, but we look at the function first."
+1353.22,1363.56,speaker_0,B,"Okay. Uh, okay. Well, do you wanna, um, give us your presentation and then we can... I don't-- It might have been a good idea to all deliver our presentations and then discuss, but this is, this is how we're-"
+1363.98,1366.06,speaker_1,D,Good to get ideas out while they're fresh in mind.
+1366.20,1378.74,speaker_0,B,"Exactly, yeah. And something that's just occurred to me as well is if we make it, um, speech recog-- if we incorporate speech recognition, that's appealing to people, um, maybe with a physical disability as well."
+1379.36,1385.16,speaker_1,D,"Yeah. And not losing, and also it helps in terms of people not losing this, you know, they-"
+1385.38,1385.62,speaker_0,B,Yeah.
+1385.76,1388.14,speaker_1,D,"They're saying, ""Oh, it's-- I lose it in the couch."""
+1388.64,1388.86,speaker_0,B,Yeah.
+1389.40,1395.70,speaker_1,D,"If like, we're kind of-- what we're sort of getting in-into here is mating different, uh, design features together."
+1396.34,1396.88,speaker_0,B,Mm-hmm.
+1397.00,1406.40,speaker_2,C,"I think one problem with speech recognition is, um, I've actually seen one of them used, and, uh, the technology was-- in that one wasn't particularly amazing. So you end up yelling at the control for hours for it to channel up."
+1406.66,1407.58,speaker_1,D,"Oh, really? You've seen one before?"
+1407.64,1413.32,speaker_0,B,"Do you think maybe we need, like, further advances in that kind of area until it's worthwhile incorporating it in?"
+1413.34,1415.30,speaker_2,C,I think it'd probably be quite expensive to put in.
+1415.62,1418.20,speaker_0,B,Of course not. There you go.
+1421.30,1421.56,speaker_0,B,Right.
+1422.12,1454.97,speaker_3,A,"Well, this is just the working design. Um, well, this is just what-- how I would go about it. Um, I guess I try to define, like what we're doing now, try to define what we're trying to get done. Um, I think in a practical way, we kind of know what it is. We've used it, we're familiar with it, but we, we can't-- we haven't narrowed down, um, exactly what are the things we're trying to fulfill, like, besides the basics. I think back-- in the back of our minds, we know what the basics are. It's to change channels, it's to change volume. In, like, specifics, right? Which one of the basics are you trying to target?"
+1455.35,1455.55,speaker_1,D,Mm-hmm.
+1455.69,1485.23,speaker_3,A,"Um, are there certain parts of the basics that are more important or less important than the basics? Um, and I just-- The idea is just to get everybody to, um... I usually have a, have, have a design that's there as a basic. So, you know, things that-- to start everything going. But I guess everybody does have some ideas, so I don't think, um, there's a need for that. Um, okay. This finding things is a little bit confusing, so I'll go into the diagram first. It just explains how the process goes through-"
+1485.59,1485.73,speaker_0,B,Mm-hmm.
+1485.73,1497.53,speaker_3,A,"-from a, from the basic technology point of view, the basic steps that you need, um, in the diagram. And this slide probably works better. Um, okay, you need some power source, okay, battery or something to keep it going."
+1497.67,1497.67,speaker_0,B,Mm-hmm.
+1498.47,1504.65,speaker_3,A,"Um, and that power source is important because it ties you down to, um, how long the device will last."
+1504.79,1504.99,speaker_0,B,Uh-huh.
+1505.25,1551.41,speaker_3,A,"Um, it ties you down perhaps a bit later on in terms of technologies, um, how far you can transmit the signal or the complexity of the functions that you want. Like, for example, voice recognition, right? That might be constrained because that-- you might need to power a microphone, you might need to power other things. So that's one perhaps constraint there. Um, okay. The basic thing is there's a user interface where people punch a button or talk into it or smile to it or blink their eyes, whatever, you know, and that, um, picks up an input from a user. Um, uh, a logic, a series of logic has to decide what the user is telling the device, and the device has to, you know, based on you push button A, so I will do something with button A. So maybe button A is the power button."
+1551.89,1551.97,speaker_0,B,Mm-hmm.
+1552.03,1567.37,speaker_3,A,"Okay. Um, and then it needs to be able to send the signal out to the device itself, which is the receiver here. Um, and I think that's about it in terms of my design. Um, it's fairly general. Um, and I guess the purpose of this is also not to restrict you-"
+1567.69,1567.93,speaker_0,B,Mm-hmm.
+1567.93,1583.49,speaker_3,A,"-in, in the way you're thinking. Like, um, voice recognition, right? Um, if it's something which is important, then we just add more power rather than having a thing that we don't have enough power. So it's not really a constraint in that sense. But I mean, these are functionally, you know, the base-"
+1583.89,1584.27,speaker_1,D,Mm-hmm. Okay.
+1584.29,1585.43,speaker_3,A,-what technology has to do.
+1585.89,1586.23,speaker_0,B,Okay.
+1586.65,1592.27,speaker_3,A,"Um, so I guess the rest of it, I think we should maybe you-- want to go back to what the functions are? I think that's-"
+1592.99,1593.07,speaker_0,B,Um-
+1593.13,1594.35,speaker_3,A,-more relevant to the discussion.
+1594.67,1595.89,speaker_0,B,"Well, do you, do you want to finish up-"
+1595.99,1596.09,speaker_1,D,Sure.
+1596.21,1598.01,speaker_0,B,"-your, your whole presentation?"
+1598.05,1598.33,speaker_3,A,"Yeah, we're not done."
+1598.37,1599.11,speaker_0,B,"Are, are you all done?"
+1599.67,1604.37,speaker_3,A,"Yeah. Oh, it's just putting the rest of it into words, but it's essentially the same thing."
+1604.45,1604.45,speaker_1,D,Yeah.
+1604.47,1604.65,speaker_0,B,Mm-hmm.
+1605.19,1609.25,speaker_3,A,"Um, you have a transmitter, an input device, logic chip, you know."
+1609.71,1610.03,speaker_0,B,Okay.
+1610.89,1615.11,speaker_1,D,"And like, on the... I mean, since we're on the topic of the technology-"
+1615.29,1615.35,speaker_3,A,Yep.
+1615.67,1624.03,speaker_1,D,"-uh, are there any, like, what are our options? Uh, what's, what is in... Is this the only way that we go about it, or are there other-"
+1624.83,1627.17,speaker_3,A,"Um, these, these aren't technology options in that sense."
+1627.21,1627.29,speaker_1,D,Right.
+1627.31,1628.45,speaker_3,A,"This is just, um-"
+1628.51,1629.59,speaker_1,D,The basic principle.
+1629.59,1632.25,speaker_3,A,-the basic principles and basic components that are needed.
+1632.33,1632.43,speaker_1,D,Right.
+1632.49,1632.65,speaker_0,B,Mm-hmm.
+1632.71,1642.57,speaker_3,A,"For example, if you needed, um, if you needed to add, uh, a voice recognition, right, then your user interface would be split, broken down into more components, right?"
+1642.65,1642.65,speaker_1,D,Okay.
+1642.67,1645.41,speaker_3,A,"Which you have a microphone, a VR, and stuff like that."
+1645.63,1648.15,speaker_0,B,So it's just-- it's how we're kind of modularizing the whole thing.
+1648.27,1648.27,speaker_3,A,Yeah.
+1648.33,1648.67,speaker_0,B,Okay.
+1648.85,1651.13,speaker_3,A,So each component represents one function.
+1651.21,1651.29,speaker_0,B,Mm-hmm.
+1651.33,1655.73,speaker_3,A,"But I think the basic functions of the logic, the transmitter, um, and the receiver-"
+1655.99,1656.19,speaker_1,D,Mm-hmm.
+1656.21,1659.51,speaker_3,A,"-okay, and the power are things that you won't have to care about."
+1659.59,1659.79,speaker_1,D,Mm-hmm.
+1659.99,1660.11,speaker_0,B,Yeah.
+1660.15,1665.01,speaker_3,A,"Um, and those are things that, based on what your user interface requires, they will add more functionality to it."
+1665.41,1665.51,speaker_0,B,Okay.
+1665.61,1673.45,speaker_3,A,"Um, there might be one other consideration, which would be the, the, the transmission between the remote control and the TV, for example."
+1673.91,1674.21,speaker_0,B,Okay.
+1674.33,1674.53,speaker_1,D,Okay.
+1674.81,1679.53,speaker_3,A,"Um, are we gonna restrict ourselves to using the traditional technologies of an infrared thing?"
+1679.95,1680.19,speaker_0,B,Okay.
+1680.49,1683.21,speaker_3,A,Because that's something you need to actually be physically pointing to.
+1683.57,1683.91,speaker_0,B,Okay.
+1684.21,1684.55,speaker_3,A,Right.
+1685.05,1703.57,speaker_0,B,"Well, well, a worry that was, was expressed in the new requirements was that if we made this too complex, it would, it would affect, um, how long, how long it took us to get this to market. So I suspect it might be a good idea just to restrict our kind of-- our creative influence on this, on the user interface, and not worry so much about, uh, how we transmit it."
+1704.05,1704.05,speaker_3,A,Yeah.
+1704.13,1707.25,speaker_0,B,"Um, because I mean, it's tried and tested infrared, so it's just-"
+1707.27,1717.55,speaker_3,A,"There might be one other problem with the transmission, um, in particular right now, since we're talking about voice recognition. Um, if somebody's gonna talk to the device, you ideally want them to hold it to them."
+1717.97,1718.23,speaker_0,B,Mm-hmm.
+1718.25,1718.49,speaker_1,D,Right.
+1718.55,1719.59,speaker_3,A,You may not require that-
+1719.81,1719.81,speaker_1,D,Right.
+1719.83,1722.91,speaker_3,A,"-but, you know, um, it's, it's, it's something very natural, I guess."
+1723.13,1723.33,speaker_0,B,Yeah.
+1723.49,1728.09,speaker_3,A,"You know, to hold it, signal to the user, and push a button maybe to start talking about it."
+1728.41,1728.41,speaker_0,B,Okay.
+1728.43,1729.75,speaker_3,A,Then you need to send the signal out.
+1729.81,1730.01,speaker_0,B,Mm-hmm.
+1730.11,1731.99,speaker_3,A,"So if you're using infrared, the line of sight-"
+1732.43,1732.61,speaker_0,B,Mm-hmm.
+1732.65,1736.91,speaker_3,A,"-um, say the TV's at that chair, and I'm standing in front of here, and the transmitter is here."
+1737.03,1737.21,speaker_0,B,Yeah.
+1737.45,1738.09,speaker_3,A,It blocks it.
+1738.43,1738.63,speaker_0,B,Okay.
+1738.67,1744.15,speaker_3,A,"So in that sense, there's not really a restriction, but it's something which you may have to think about later on in the process."
+1744.39,1744.53,speaker_1,D,Okay.
+1744.57,1745.49,speaker_3,A,Not so much for you.
+1745.63,1759.91,speaker_1,D,"And, um, just a clarification before we finish this. Uh, does-- is our controller, is it-- have the option of being, um, on a standard, uh, frequency as all of the other equipment so that the one controller can control-"
+1759.99,1760.65,speaker_3,A,"There's, there's not much specific-"
+1760.65,1761.97,speaker_1,D,-several pieces of equipment?
+1761.97,1768.43,speaker_3,A,"-specific information, but I think that, um, one indication of infrared means that you're just targeting traditional devices."
+1768.69,1768.91,speaker_0,B,Yeah.
+1768.99,1770.57,speaker_3,A,Because infrared is something which everybody has.
+1770.67,1774.97,speaker_0,B,"Well, well, we've, um, in the new requirements spec, they said just to focus on the TV."
+1775.15,1775.17,speaker_1,D,Okay.
+1775.17,1776.59,speaker_0,B,"So that's what we should do for now, I think."
+1776.65,1776.89,speaker_1,D,Okay.
+1776.93,1790.29,speaker_0,B,"Something I was wondering about was the power. Um, is it worth considering, like, having, like, a charging unit as opposed to just regular batteries? I mean, is that something you really want to go into, do you think? Or should we just consider running on regular batteries?"
+1790.39,1792.71,speaker_3,A,"From a component point of view, there's added complexity."
+1793.07,1793.23,speaker_0,B,Uh-huh.
+1793.39,1794.23,speaker_3,A,You add cost to it.
+1794.45,1794.69,speaker_0,B,Uh-huh.
+1795.13,1800.43,speaker_3,A,"Um, and then there's probably the fact that you need another physical component. You need a docking cradle, for example."
+1800.55,1800.69,speaker_0,B,Yeah.
+1800.83,1801.03,speaker_1,D,Mm-hmm.
+1801.13,1802.05,speaker_3,A,Put it in to charge.
+1802.39,1802.69,speaker_0,B,Okay.
+1802.73,1804.23,speaker_3,A,Or you need to get the user to plug it in.
+1804.99,1805.25,speaker_0,B,Okay.
+1805.39,1810.75,speaker_3,A,"Um, so most users are very used-- already used to the idea of buying batteries and putting it into the controller."
+1810.79,1810.79,speaker_0,B,Yeah.
+1810.79,1815.85,speaker_3,A,"But unless- The controller's gonna consume a lot of batteries. Like, he's gonna run through, like-"
+1816.21,1816.27,speaker_0,B,Yeah.
+1816.29,1820.05,speaker_3,A,"-three batteries a month. Then I don't think rechargeable or something which, you know-"
+1820.11,1824.99,speaker_0,B,"Okay, so just stick to, to regular. Okay. Um,"
+1827.19,1854.23,speaker_0,B,"right. So basically the, um... I'm just gonna just recap, uh, what I said at the start, which is that, um, the, the whole point of this meeting was to absolutely finalize who we're gonna aim this at and what exactly the product's gonna do. So, um, just to recap on, are we all happy about the idea of, um, aiming the product at, um, the 15 to 35 bracket?"
+1854.29,1854.99,speaker_1,D,"Yeah, that's good."
+1855.15,1861.93,speaker_0,B,"Um, and also the func-- the, the actual functions of what it's gonna do. Do you wanna recap on that, Craig?"
+1863.37,1872.69,speaker_2,C,"Um, I think we used to say that it was gonna be the, the most basic stuff possible. Um, on/off, up and down channels, up and down volume, and, uh, skip to a channel."
+1874.45,1875.13,speaker_0,B,Okay. Right.
+1875.13,1880.75,speaker_1,D,"And is it going to include any of the, uh, the more advanced features, or are we gonna eliminate those?"
+1880.95,1887.11,speaker_2,C,"Um, I think we include mute, but apart from that, um, I think we just, we go for the simpleness."
+1887.61,1887.83,speaker_1,D,Okay.
+1887.95,1888.13,speaker_0,B,Okay.
+1888.51,1894.61,speaker_1,D,"Is it, is it, is it, is it not an option still that we include some things just as a sort of under, like sort of under a door?"
+1895.03,1897.21,speaker_0,B,"Yeah, as, as optional functions."
+1897.21,1915.23,speaker_1,D,"Because what, what I'm-- I'd be a bit worried about is if someone was-- had previously developed habits of expecting to control surround sound or this and that with their controller, and then, and then they, you know, they get ours and it's-- doesn't have that. I don't know if that'd be a problem."
+1916.65,1919.73,speaker_3,A,Another thing that you were saying about categorizing the controls.
+1920.05,1920.21,speaker_0,B,Mm-hmm.
+1920.51,1924.51,speaker_3,A,"Um, maybe I could suggest we break them down into three simple categories."
+1924.61,1925.05,speaker_1,D,Yeah. Okay.
+1925.09,1926.27,speaker_3,A,One would be audio controls.
+1926.45,1926.67,speaker_0,B,Mm-hmm.
+1927.01,1928.27,speaker_3,A,One would be video controls.
+1928.49,1928.69,speaker_1,D,Okay.
+1928.75,1937.59,speaker_3,A,"The other one would be a device. Um, this may not map very well to advanced functionality especially, but I think that, um, from a manufacturer's point of view-"
+1937.69,1937.71,speaker_1,D,Yeah.
+1937.73,1945.33,speaker_3,A,"-from a person designing the device, but I think from the point of view of a person using the device, you know, a TV is something they see and something they hear."
+1945.59,1945.81,speaker_0,B,Mm-hmm.
+1946.25,1949.51,speaker_3,A,"Um, and it's something they do other things to, like turn it on and turn it off."
+1949.61,1949.83,speaker_0,B,Yeah.
+1950.19,1950.49,speaker_3,A,"You know, like-"
+1950.55,1950.55,speaker_1,D,Right.
+1950.69,1955.59,speaker_3,A,"So what we could have is like three buckets, right, that we could throw things into. Like, if we want this feature, let's throw it into there."
+1955.95,1956.07,speaker_1,D,Yeah.
+1956.27,1959.11,speaker_3,A,And then from there decide whether it's basic or it's non-basic.
+1959.13,1959.55,speaker_1,D,Okay. Okay.
+1959.63,1961.55,speaker_3,A,I think it might help with the visualization.
+1961.89,1961.89,speaker_1,D,Okay.
+1961.91,1964.91,speaker_3,A,And it would actually help with the component build as well.
+1965.15,1965.15,speaker_1,D,Mm-hmm.
+1965.23,1965.61,speaker_0,B,Okay.
+1965.83,1966.39,speaker_1,D,Okay. Great.
+1966.59,1985.07,speaker_0,B,"Right. Um, okay. Well, I've got a kind of-- got five minutes to wrap up now. Um, next thing we're doing is having lunch. Woo-hoo. Um, and then we're gonna have 30 minutes of working on the next stage. Um, so I'll be putting the minutes of this, uh, this meeting into the project documents folder."
+1985.49,1985.61,speaker_1,D,Mm-hmm.
+1985.79,2022.29,speaker_0,B,"Um, so, uh, I guess just to, just to confirm that we know what we're doing in the next, well, in the 30 minutes after lunch anyway. Um, for, uh, our industrial designer, you're gonna be thinking about the components concept. Um, user interface designer, you're gonna be thinking about our user interface. And marketing, you're gonna be thinking about trend watching. Um, and you'll all get specific instructions as well. So, um, I don't know, just, just to, to ask now if you've got anything else you've thought about while we've been talking. Um, do you wanna start with David? Anything else to say at all?"
+2022.97,2023.07,speaker_3,A,No.
+2023.47,2025.33,speaker_0,B,No? Okay. Andrew?
+2025.45,2037.53,speaker_1,D,"Um, yeah, just, I just wanted to ask then before we wrap up, shall we agree for sake of, um, sort of clarity and when we, when we resume that we'll use this idea David's proposed where we think of these three sort of buckets and-"
+2037.89,2039.61,speaker_0,B,"Yeah, I think that's definitely a good idea."
+2039.61,2041.61,speaker_1,D,"-anything we discuss about them is sort of, okay, we're talking about this."
+2042.01,2042.05,speaker_0,B,Uh-huh.
+2042.09,2042.67,speaker_1,D,Shall we do that then?
+2042.91,2043.13,speaker_0,B,Yeah.
+2043.33,2044.17,speaker_1,D,"Okay, great."
+2044.65,2048.35,speaker_2,C,"Um, just about the three buckets, um, what would go in the, the device functions one?"
+2048.73,2052.89,speaker_3,A,"Um, things like on/off, because they don't have anything to do with what you see."
+2053.17,2053.43,speaker_0,B,Yeah.
+2053.55,2058.17,speaker_3,A,"I mean, in terms of picture and the entertainment value, you know. Um-"
+2058.31,2058.61,speaker_0,B,Okay.
+2058.75,2060.19,speaker_3,A,"So, um-"
+2060.27,2060.85,speaker_1,D,"And, and channel."
+2061.15,2061.67,speaker_3,A,And channel.
+2061.93,2062.07,speaker_1,D,Right.
+2062.19,2066.75,speaker_3,A,"Because the on/off also goes, you know, like on/off like power, not on/off sound."
+2066.91,2067.03,speaker_0,B,Yeah.
+2067.11,2075.53,speaker_3,A,"On/off video. Although you don't turn off the video on your TV, but, um, you might wanna, you know, turn off the sound. Say you wanna pick up the phone, there's a mute button, right?"
+2075.67,2076.01,speaker_0,B,Okay.
+2076.39,2084.71,speaker_3,A,"So you, you have, you have a choice of putting it onto, um, others or device. Device is basically anything which we can't categorize, right?"
+2084.87,2090.85,speaker_0,B,"Okay. So you're gonna have, um, audio, which is gonna be like, you know, your bass settings and actual volume."
+2090.87,2092.35,speaker_3,A,"Anything to do with what you hear, right?"
+2092.45,2092.85,speaker_0,B,Okay.
+2092.95,2093.83,speaker_3,A,You put that into audio.
+2094.01,2095.21,speaker_0,B,Okay. And then visual-
+2095.23,2097.13,speaker_3,A,Video is anything that you can see.
+2097.57,2097.93,speaker_0,B,Okay.
+2098.33,2098.49,speaker_3,A,Um-
+2098.67,2108.45,speaker_0,B,"So brightness, contrast, things like that. And then just actual device things like what channel you're watching, turning on and off, stuff like that. Okay. Um-"
+2108.45,2116.27,speaker_1,D,"And then I suppose quite likely what would happen is in the device category, there might be some which are just like the habitual standard and then others which are maybe a bit more-"
+2116.41,2118.77,speaker_3,A,"Like random, which we have no other place to put."
+2118.81,2118.91,speaker_0,B,Yeah.
+2119.07,2120.03,speaker_3,A,We need it somewhere there.
+2120.41,2120.65,speaker_0,B,Okay.
+2120.67,2133.45,speaker_3,A,"Um, even, even if it doesn't map very clearly, what happens is that people at least have some in their mind. It's easy to use. I think that's one thing that, um, and I guess from the component point of view, it's easy to build as well because things are like fixed."
+2133.97,2134.15,speaker_1,D,Okay.
+2134.27,2154.09,speaker_0,B,"Okay. Um, so yeah, I guess just things to think about are, you know, like the fact it's gotta look good because of who we're, we're, you know, targeting this at. Um, something maybe kind of quirky in design, maybe make it kind of ergonomic kind of to hold, you know, things like that. Um, so I guess, I guess that's it."
+2154.21,2154.33,speaker_1,D,Right.
+2154.35,2156.17,speaker_0,B,That's the meeting over. Woo-hoo.
+2162.71,2165.13,speaker_1,D,Now we get to go find out what was picked up for lunch for us.
+2165.23,2165.33,speaker_0,B,Yeah.

@@ -1,0 +1,95 @@
+Top substitutions (reference -> hypothesis):
+    10  wanna -> to
+     8  t_v_ -> tv
+     5  alright -> right
+     4  kay -> ok
+     4  cause -> because
+     4  dunno -> know
+     3  colour -> color
+     3  f_ -> f
+     3  yep -> yeah
+     3  infra -> infrared
+     2  v_c_r_ -> vcr
+     2  gonna -> to
+     2  on -> right
+     2  the -> a
+     2  the -> that
+     2  um -> and
+     2  categorising -> categorizing
+     2  set -> setup
+     2  sorta -> of
+     2  em -> them
+     2  yeah -> that's
+     2  fulfil -> fulfill
+     2  has -> it's
+     2  a_ -> a
+     2  a -> the
+     2  mm -> hmm
+     2  whoohoo -> hoo
+     1  could -> did
+     1  um -> it
+     1  me -> in
+
+Top deletions (in reference, missing from hypothesis):
+    41  yeah
+    39  mm
+    33  hmm
+    29  ok
+    17  um
+    12  uh
+    12  you
+    11  right
+    10  that
+    10  a
+    10  yep
+     9  to
+     9  it's
+     9  i
+     8  sure
+     8  the
+     7  of
+     7  we
+     7  and
+     7  w
+     7  it
+     6  th
+     6  h
+     5  then
+     5  s
+     5  but
+     4  well
+     4  just
+     4  would
+     4  like
+
+Top insertions (in hypothesis, not in reference):
+     9  want
+     7  ok
+     7  yeah
+     6  all
+     6  hmm
+     5  don't
+     4  i
+     3  for
+     3  going
+     3  right
+     3  a
+     2  that's
+     2  someone
+     2  these
+     2  on
+     2  of
+     2  um
+     2  you
+     2  that
+     2  the
+     2  uh
+     2  you're
+     2  if
+     2  mm
+     2  it
+     2  good
+     2  woo
+     1  cool
+     1  turned
+     1  did

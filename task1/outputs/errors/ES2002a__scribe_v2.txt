@@ -1,0 +1,95 @@
+Top substitutions (reference -> hypothesis):
+     6  favourite -> favorite
+     5  alright -> right
+     3  yep -> yeah
+     2  is -> uh
+     2  d_v_d_ -> dvd
+     2  oh -> ooh
+     2  t_v_ -> tv
+     1  kick -> kickoff
+     1  um -> expert
+     1  expert -> ok
+     1  craig -> greg
+     1  des -> to
+     1  um -> uh
+     1  you -> yeah
+     1  then -> um
+     1  right -> nice
+     1  ok -> yeah
+     1  coulda -> could've
+     1  ach -> i
+     1  boy -> could
+     1  let -> too
+     1  me -> but
+     1  tell -> i
+     1  why -> tried
+     1  not -> but
+     1  you -> we'll
+     1  we -> have
+     1  might -> we'll
+     1  anyway -> my
+     1  yes -> the
+
+Top deletions (in reference, missing from hypothesis):
+    12  yeah
+     6  know
+     5  um
+     4  mm
+     4  the
+     4  so
+     4  uh
+     4  a
+     4  you
+     3  hmm
+     3  of
+     3  th
+     3  ok
+     2  get
+     2  f
+     2  s
+     2  it's
+     2  yep
+     2  to
+     2  right
+     2  w
+     1  off
+     1  great
+     1  about
+     1  didn't
+     1  anything
+     1  else
+     1  it
+     1  did
+     1  same
+
+Top insertions (in hypothesis, not in reference):
+     8  yeah
+     5  of
+     4  uh
+     4  all
+     4  hmm
+     3  mm
+     3  like
+     2  right
+     2  that
+     2  ok
+     2  you
+     2  something
+     2  know
+     2  it
+     1  great
+     1  but
+     1  was
+     1  to
+     1  first
+     1  well
+     1  guess
+     1  oh
+     1  um
+     1  w
+     1  question
+     1  sale
+     1  if
+     1  the
+     1  much
+     1  mean

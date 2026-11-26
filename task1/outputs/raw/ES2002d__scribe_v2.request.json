@@ -1,0 +1,15 @@
+{
+ "request": {
+  "model_id": "scribe_v2",
+  "language_code": "en",
+  "diarize": "true",
+  "num_speakers": "4",
+  "tag_audio_events": "false",
+  "no_verbatim": "false",
+  "timestamps_granularity": "word",
+  "temperature": "0",
+  "seed": "42"
+ },
+ "audio": "/Users/tanwiraabideen/Documents/cadillac-f1-aero-challenge/data/amicorpus/ES2002d/audio/ES2002d.Mix-Headset.wav",
+ "seconds_taken": 45.2
+}

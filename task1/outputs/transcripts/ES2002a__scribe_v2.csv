@@ -1,0 +1,367 @@
+start,end,speaker,ami_speaker_best_match,text
+0.30,0.58,speaker_0,B,Um
+4.88,7.74,speaker_1,D,"My gosh, you've already produ- produced a PowerPoint presentation."
+7.76,9.44,speaker_0,B,"Uh, I think it's already on, actually."
+10.58,10.76,speaker_1,D,Wow. Hmm.
+12.32,12.62,speaker_0,B,"Uh,"
+15.08,16.24,speaker_0,B,"God, how do I make this thing work?"
+19.44,20.06,speaker_1,D,Maybe the input.
+20.90,21.38,speaker_0,B,Uh...
+24.50,27.20,speaker_2,A,"Sorry. Oh, okay. You have to-"
+30.56,30.76,speaker_0,B,Hello
+32.32,32.90,speaker_2,A,Have you done the-
+33.48,34.96,speaker_0,B,"I've plugged it in the back, but-"
+35.36,37.18,speaker_2,A,"Yeah, you have to press the function."
+38.16,39.06,speaker_1,D,"Yep, it's got it."
+39.90,41.92,speaker_0,B,Okay. Right. Turn it on.
+44.84,46.12,speaker_2,A,It's doing something.
+48.24,48.92,speaker_2,A,"Yes, there we go."
+50.48,50.92,speaker_0,B,Okay.
+53.62,59.38,speaker_0,B,"Right. Uh, um, well, this is the kickoff meeting for our, our project."
+62.34,66.88,speaker_0,B,"And, um, this is just what we're gonna be doing over the next 25 minutes."
+66.92,67.60,speaker_1,D,Mm-hmm.
+67.70,74.52,speaker_0,B,"Um, so first of all, just to kind of make sure that we all know each other, I'm Laura, and I'm the project manager."
+74.98,75.12,speaker_1,D,Great.
+76.02,77.40,speaker_0,B,Do you want to introduce yourself again?
+77.50,80.64,speaker_2,A,"Hi, I'm David, and I'm supposed to be an industrial designer."
+80.84,81.20,speaker_0,B,Okay.
+82.14,86.48,speaker_1,D,"And I'm Andrew, and I'm, uh, our marketing expert."
+87.20,87.20,speaker_0,B,Okay.
+87.24,88.62,speaker_3,C,"I'm Greg, and I'm user interface."
+89.36,90.46,speaker_0,B,Great. Okay.
+92.62,101.68,speaker_0,B,"Um, so we're designing a new remote control, and, um... Oh, I have to record who's here, actually. So, that's David, Andrew, and Craig, isn't it?"
+104.94,106.18,speaker_0,B,And you all arrived on time.
+108.84,132.00,speaker_0,B,"Um, yeah, so to, uh, design a new remote control, um, as you can see, it's supposed to be original, trendy, and user-friendly. Um, so that's kind of our, our brief, as it were. Um, and so there are three different stages to the design. Uh, I'm not really sure what, what you guys have already received, um, in your emails. What did you get?"
+132.68,134.84,speaker_2,A,"Um, I just got the project announcement-"
+135.02,135.02,speaker_0,B,Mm-hmm
+135.02,138.62,speaker_2,A,"... but what the project was, uh, designing a remote control. That's about it."
+138.96,140.18,speaker_1,D,"Mm-hmm. Yeah, that's, that's-"
+140.20,141.24,speaker_0,B,Is that what everybody got?
+141.52,141.52,speaker_2,A,Yeah.
+141.58,141.82,speaker_0,B,Okay.
+141.88,141.98,speaker_1,D,Yeah.
+142.78,152.44,speaker_0,B,"Um, so we're gonna have, like, individual work and then a meeting about it, and repeat that process three times. Um,"
+154.58,167.30,speaker_0,B,"and at this point, we get to try out the whiteboard over there. Um, so, uh, you get to draw your favorite animal and sum up your favorite characteristics of it. So, who would like to go first?"
+167.32,167.74,speaker_1,D,I will go. That's fine.
+167.84,168.42,speaker_0,B,Very good.
+174.24,176.44,speaker_1,D,"All right. So,"
+181.42,182.20,speaker_1,D,"this one here, right?"
+183.30,183.72,speaker_0,B,Mm-hmm.
+183.90,191.62,speaker_1,D,"Okay. Very nice. All right. My favorite animal is, like,"
+203.50,203.94,speaker_1,D,a beagle.
+211.88,215.38,speaker_1,D,"Um, charac- favorite characteristics of it? Is that right?"
+216.06,216.80,speaker_0,B,Yeah. Mm-hmm.
+216.80,233.50,speaker_1,D,"Uh, right. Well, basically, um, high priority for any animal for me is that they be willing to take a lot of physical affection from their family. And, yeah, that they have lots of personality and, uh,"
+235.82,242.28,speaker_1,D,"be fit and in robust good health. So this is Blue, Blue Beagle, my family's beagle."
+243.46,245.14,speaker_0,B,Right. Lovely.
+255.08,256.50,speaker_3,C,"Well, my favorite animal would be a monkey."
+268.26,273.42,speaker_3,C,"Um, they're small, cute, and furry, and, uh, when Planet of the Apes becomes real, uh, I'm gonna be up there with them."
+275.70,275.90,speaker_0,B,Nice.
+275.98,276.16,speaker_1,D,Cool.
+280.72,281.56,speaker_2,A,There's too much gear.
+286.02,290.28,speaker_0,B,You can take as long over this as you like because we haven't got an awful lot to discuss.
+290.34,290.34,speaker_2,A,Yeah.
+290.36,293.34,speaker_0,B,"Oh, well, we do. We do. Don't feel like you're in a rush anyway."
+293.36,293.58,speaker_2,A,Okay.
+296.06,297.88,speaker_1,D,I could've told you a whole lot more about beagles-
+298.00,298.54,speaker_0,B,I could too-
+298.54,298.78,speaker_1,D,... but I tried-
+298.78,303.50,speaker_0,B,"... but we'll have, we'll have to get you up again then. I don't know what mine is. I'm gonna have to think on the spot now."
+307.12,307.92,speaker_1,D,Impressionist.
+309.38,309.84,speaker_2,A,Can't draw.
+312.08,312.72,speaker_0,B,Is that a whale?
+313.20,313.38,speaker_2,A,Yeah.
+313.64,313.84,speaker_0,B,Yeah.
+318.76,327.48,speaker_2,A,"Um, well, my... I don't know. It's just the first animal I can think of off the top of my head. Um, guess the big reason is 'cause I'm allergic to most animals."
+327.88,327.88,speaker_0,B,Oh.
+327.88,332.60,speaker_2,A,"Allergic to animal fur, so, um, fish was a natural choice. Um-"
+332.90,333.02,speaker_1,D,Yeah
+333.02,336.62,speaker_2,A,... and I kinda like whales. They come in and go ... eat everything in sight.
+338.28,338.28,speaker_1,D,Right.
+338.28,341.34,speaker_2,A,And they're quite harmless and mild and interesting.
+341.88,342.10,speaker_1,D,Mm-hmm.
+342.46,346.32,speaker_0,B,"Okay. God, I still don't know what I'm gonna write about. Um..."
+349.76,350.86,speaker_1,D,"Superb sketch, by the way."
+353.92,354.78,speaker_2,A,"Tail's a bit big, I think."
+355.08,359.54,speaker_0,B,"I was gonna choose a dog as well, but I'll just draw a different kind of dog."
+359.70,359.82,speaker_1,D,Yeah.
+360.22,364.76,speaker_0,B,"Um, my favorite animal is my own dog at home. Um-"
+367.05,368.61,speaker_0,B,"That doesn't really look like him, actually."
+373.33,376.19,speaker_0,B,"He looks more like a pig, actually. Oh, well."
+378.55,379.35,speaker_1,D,I see a dog in there.
+379.57,379.89,speaker_0,B,Do you?
+380.03,380.07,speaker_1,D,Yeah.
+380.11,380.99,speaker_0,B,"Oh, that's very good of you."
+382.87,383.65,speaker_1,D,Now I see a rooster.
+388.39,388.93,speaker_0,B,Uh...
+393.45,393.99,speaker_1,D,What kind is it?
+394.73,412.75,speaker_0,B,"Um, he's a mixture of, uh, of various things. Um, and what do I like about him? Um, that's supposed to suggest that his tail wags. Um, he's very friendly and cheery and always pleased to see you and very kind of affectionate and, um,"
+415.21,422.07,speaker_0,B,"uh, and he's quite, quite wee as well, so, you know, he can... Doesn't take up too much space. Um,"
+425.69,431.29,speaker_0,B,"and, uh, and he does a funny thing where he chases his tail as well. This is quite amusing. Um-"
+431.31,433.41,speaker_1,D,Is he aware that it's his own cha- tail that he's chasing?
+433.89,441.57,speaker_0,B,"It is. I think it is. He only does it after he's had his dinner. And, um, he'll just all of a sudden just get up and start chasing his tail- ... just around the living room."
+442.09,443.19,speaker_2,A,It's an after dinner dog then.
+443.67,444.07,speaker_0,B,"Yeah, so."
+444.11,446.85,speaker_1,D,"Probably when he was little, he got lots of attention for doing it and-"
+447.25,447.39,speaker_0,B,"Yeah, maybe"
+447.41,448.69,speaker_1,D,... he's forever been conditioned.
+449.07,452.85,speaker_0,B,"Maybe. Right. Um, where did you find this? Just down here?"
+453.13,453.63,speaker_2,A,Mm-hmm.
+455.53,455.93,speaker_0,B,Yeah. Okay.
+458.89,462.89,speaker_0,B,"Um, what are we doing next? Um,"
+465.59,494.81,speaker_0,B,"okay, uh, we now need to discuss the project finance. Um, so according to the brief, um, we're gonna be selling this remote control for 25 euro, um, and we're aiming to make 50 million euro. Um, so we're gonna be selling this on an international scale. And, uh, w- we don't want it to cost any more than, uh, €12.50, so 50% of the selling price."
+496.17,497.61,speaker_1,D,"Um, can we just go over that again?"
+498.13,498.43,speaker_0,B,Sure.
+499.29,507.75,speaker_1,D,"Uh, so basic- 12... All right, yeah. Okay. So cost, like production cost is-"
+508.25,508.77,speaker_0,B,All together
+508.79,513.91,speaker_1,D,"... 12.50, but selling price is, is that wholesale or retail, like on the shelf?"
+514.83,518.53,speaker_0,B,"Um, I dunno. I imagine... That's a good question."
+518.53,519.65,speaker_1,D,Our sale. Our sale anyway.
+519.71,521.09,speaker_0,B,I imagine it probably is our sale-
+521.15,521.15,speaker_1,D,Yeah. Okay
+521.15,522.83,speaker_0,B,... actually because it's probably up to the-
+524.29,524.29,speaker_1,D,Okay
+524.29,526.89,speaker_0,B,"... the, um, the retailer to, uh-"
+526.95,527.03,speaker_1,D,Okay
+527.03,528.47,speaker_0,B,... sell it for whatever price they want.
+528.95,529.11,speaker_1,D,Mm-hmm.
+529.45,529.81,speaker_0,B,Um...
+531.61,531.77,speaker_1,D,All right.
+531.87,538.13,speaker_0,B,"But I, I dunno. I mean, do you think the fact that it's going to be sold internationally will have a bearing on how we design it at all?"
+538.85,539.09,speaker_1,D,Yes.
+539.35,539.87,speaker_0,B,Think it will?
+540.73,540.91,speaker_1,D,Mm-hmm.
+541.15,541.55,speaker_0,B,Um...
+543.89,544.07,speaker_1,D,Mm-hmm.
+545.53,546.01,speaker_0,B,Hmm.
+548.33,553.63,speaker_1,D,"Well, right away, I'm wondering if there's, um, d- uh, like with DVD players, if there are zones."
+553.91,554.33,speaker_0,B,"Oh, yeah."
+554.49,554.49,speaker_1,D,Um-
+554.53,555.53,speaker_0,B,Regions and stuff. Yeah
+555.53,556.45,speaker_1,D,... frequencies or something.
+556.73,556.97,speaker_0,B,Yeah.
+557.51,557.55,speaker_1,D,Um-
+557.63,558.01,speaker_0,B,Okay
+558.01,565.15,speaker_1,D,"... as well as, um, characters, um, different, uh, keypad styles and symbols."
+565.25,565.51,speaker_0,B,Yeah.
+565.97,565.97,speaker_1,D,Um-
+565.97,567.85,speaker_0,B,"Well, for a remote control, do you think that'll be..."
+568.31,568.33,speaker_1,D,No.
+568.33,570.95,speaker_0,B,I suppose it depends on how complicated our remote control is.
+571.29,571.37,speaker_1,D,Yeah.
+571.77,580.21,speaker_2,A,"It does make sense from maybe the design point of view, 'cause if you have more complicated characters like European languages, then you need more buttons."
+580.53,580.69,speaker_0,B,Yeah.
+580.81,580.81,speaker_1,D,Yeah.
+581.45,581.67,speaker_0,B,Yeah.
+582.09,582.27,speaker_2,A,Also-
+582.41,582.51,speaker_1,D,Yeah.
+583.11,583.47,speaker_0,B,Okay.
+583.57,588.73,speaker_1,D,"And then, and then, uh, the other thing international, uh, on topic of price, I'm thinking"
+591.07,596.77,speaker_1,D,"the price might, might appeal to a certain market in one region, whereas in another it'll be different, so."
+597.83,598.87,speaker_0,B,"What, just like in terms of-"
+598.87,598.95,speaker_1,D,Just the char- just the characteristic of-
+598.99,601.49,speaker_0,B,... like the wealth of the country? Like how much-
+601.49,601.49,speaker_1,D,Just-
+601.49,602.91,speaker_0,B,"... money people have to spend on things, like?"
+602.93,615.63,speaker_1,D,"Or just, like, basic product podit- positioning. A 25 euro remote control might be a big hit in London, might not be such a big hit in Greece. Who knows?"
+615.83,616.51,speaker_0,B,"Ah, I see what you mean."
+616.51,617.25,speaker_1,D,Something like that. Yeah.
+617.25,619.51,speaker_0,B,Yeah. Marketing.
+619.83,619.89,speaker_1,D,Uh.
+620.11,623.87,speaker_0,B,"Good marketing thoughts. Oh, gosh, I should be writing all this down. Um..."
+655.53,660.29,speaker_1,D,"Right away, I'm making some kind of assumptions about what, what information we're given here."
+660.73,660.73,speaker_0,B,Mm-hmm.
+660.75,665.33,speaker_1,D,"Thinking, okay, trendy probably means something other than just basic."
+665.49,665.63,speaker_0,B,Yeah.
+665.71,677.19,speaker_1,D,"Something other than just standard. Um, so I'm wondering right away is selling 25 euros, is that sort of the, the... Is this gonna be, like, the premium product kind of thing?"
+677.25,680.41,speaker_0,B,"Yeah, yeah. Like how much does, you know, a remote control cost?"
+680.61,680.79,speaker_1,D,Uh-huh.
+681.73,687.49,speaker_0,B,"Well, 25 euro, I mean, that's, um, that's about, like, 18 pounds or something, isn't it?"
+687.75,687.81,speaker_1,D,Mm-hmm.
+687.89,689.15,speaker_0,B,"Or no, is it as much as that?"
+689.79,689.79,speaker_1,D,Yeah.
+689.81,691.17,speaker_0,B,"16, 17, 18 pounds."
+691.25,692.01,speaker_1,D,"Yeah, I'd say so, yeah."
+692.57,696.15,speaker_0,B,"Um, I dunno. I've never bought a remote control, so I don't know-"
+696.33,696.47,speaker_1,D,No
+696.51,698.31,speaker_0,B,"... how, how good a remote control-"
+698.33,698.33,speaker_1,D,Yeah
+698.35,698.97,speaker_0,B,... that would get you.
+699.25,699.41,speaker_1,D,Yeah.
+699.67,704.13,speaker_0,B,"Um, but yeah, I suppose it has to look kind of cool-"
+704.23,704.31,speaker_1,D,Mm-hmm
+704.31,721.41,speaker_0,B,"... gimmicky. Um, right. Okay. Let me just scoot on ahead here. Okay. Um, well, d- uh, does anybody have anything to add to, uh, to the finance issue at all?"
+722.83,726.95,speaker_1,D,"Do we have any other background information on, like, how that compares to other-"
+727.77,728.33,speaker_0,B,"No, actually"
+728.35,728.41,speaker_1,D,... other-
+728.41,730.55,speaker_0,B,"That would be useful though, wouldn't it? If you knew, like-"
+730.87,730.95,speaker_1,D,Yeah
+730.99,732.07,speaker_0,B,... what your money would get you.
+732.35,732.45,speaker_2,A,Mm.
+732.73,732.85,speaker_0,B,No.
+753.70,767.24,speaker_1,D,"The, uh, interesting thing about discussing, um, production of a remote control for me is that l- as you point out, I just don't think of remote controls as being something, something people consciously assess in their purchasing habits."
+767.76,768.02,speaker_0,B,"Yeah, yeah."
+768.04,772.26,speaker_1,D,It's just like getting shoelaces with shoes or something.
+772.52,772.52,speaker_0,B,Ooh.
+772.54,772.82,speaker_1,D,It just comes along.
+772.86,776.06,speaker_0,B,"Five minutes to end of meeting? Ooh, okay. We're a bit behind."
+776.16,776.78,speaker_1,D,Do you know what I mean? Like...
+777.44,777.64,speaker_3,C,Yeah.
+777.90,792.02,speaker_1,D,"So, so like how do you... I, I mean, one, one way of looking at it would be, well, the people producing television sets, maybe they have to buy remote controls. Or another way is maybe people who have TV sets are really fed up with their remote control, and they really want-"
+792.58,792.60,speaker_3,C,Oh
+792.62,793.60,speaker_1,D,... a better one or something.
+794.52,799.88,speaker_3,C,"My parents went out and bought, um, remote controls because, um, they got fed up of having, like, four or five different remote controls for each device."
+800.00,801.42,speaker_1,D,"Right, right. Okay."
+801.44,804.30,speaker_3,C,"So, um, for them it was just how many devices they could control."
+804.56,806.44,speaker_1,D,"Right. So in function, one of the priorities might be-"
+806.60,806.82,speaker_0,B,Yeah
+806.82,810.40,speaker_1,D,... to combine as many uses.
+811.58,814.98,speaker_0,B,"Right. So do you think that should be, like, a main design aim of a remote control? To, you know-"
+815.04,815.58,speaker_1,D,"I think so, yeah"
+815.58,816.68,speaker_0,B,"... to your, your satellite-"
+816.72,816.72,speaker_1,D,Yeah
+816.72,818.42,speaker_0,B,... and your regular telly-
+818.46,818.46,speaker_1,D,Yeah
+818.48,819.58,speaker_0,B,... and your VCR and everything?
+819.92,833.10,speaker_1,D,"Well, like, um, maybe what we could use as a sort of like a example of a successful other piece of technology is Palm, Palm Pilots. They're going from being just, like, little sort of scribble boards to cameras, MP3 players-"
+833.32,833.32,speaker_0,B,Mm-hmm
+833.32,840.68,speaker_1,D,"... telephones, everything, agenda. So, like, I wonder if we might add something new to the, to the remote control market-"
+840.72,840.72,speaker_0,B,Yeah
+840.72,843.96,speaker_1,D,"... such as the lighting in your house or, um-"
+844.08,849.44,speaker_0,B,"Or even, like, you know, notes about, um, what you wanna watch. Like, you might put in there, ""Oh, I want to watch-"""
+849.44,849.44,speaker_1,D,Yeah
+849.46,849.92,speaker_0,B,"... such and such."""
+849.98,850.00,speaker_1,D,Yeah.
+850.02,851.20,speaker_0,B,"And okay, that's a good idea."
+851.26,851.28,speaker_1,D,Um-
+851.62,852.84,speaker_0,B,So extra functionalities.
+852.90,866.24,speaker_1,D,"Yeah. Like, personally, for me, at home I've, I've combined the, um, the audio/video of my television set and my DVD player and my CD player. So they all work, actually function together, but I have different remote controls for each of them."
+866.64,866.90,speaker_0,B,Mm-hmm.
+866.98,869.98,speaker_1,D,"So it's sort of ironic that, that in their, in their,"
+872.16,877.10,speaker_1,D,"um, you know, the sound and everything, it's just one system, but each one's-"
+877.14,877.14,speaker_0,B,Mm
+877.14,879.24,speaker_1,D,... got its own little part.
+882.72,902.56,speaker_0,B,"Um, okay. Uh, I'd... Well, we're gonna have to wrap up pretty quickly in the next couple of minutes. Um, I'll just check we've nothing else. Okay. Um, so anything else anybody wants to add about what they don't like about remote controls they've used, what they would really like to be part of this new one at all?"
+903.10,904.00,speaker_3,C,We keep losing them.
+904.68,905.52,speaker_0,B,You keep losing them.
+905.60,905.60,speaker_1,D,Mm.
+905.64,906.00,speaker_0,B,Okay.
+906.46,908.46,speaker_3,C,"Finding them is a pain, you know?"
+908.90,909.10,speaker_1,D,"Mm, mm."
+909.30,911.66,speaker_3,C,"I mean, it's usually quite small. Or when you want it, right-"
+911.90,912.00,speaker_1,D,"Mm-hmm, mm-hmm"
+912.00,913.06,speaker_3,C,... it's sort of behind the couch or-
+913.36,913.50,speaker_1,D,Yeah
+913.50,914.42,speaker_3,C,... under the table.
+914.86,915.02,speaker_1,D,Yeah.
+915.24,916.36,speaker_0,B,You get those ones where you can-
+916.36,916.62,speaker_1,D,That's just really annoying
+916.68,919.36,speaker_0,B,"... if you, like, whistle or make a really high-pitched noise, they beep."
+919.46,919.62,speaker_1,D,Yeah.
+920.10,922.52,speaker_0,B,"They're... I mean, is that something we'd want to include, do you think?"
+924.46,924.66,speaker_1,D,Uh.
+925.34,925.62,speaker_0,B,Dunno.
+925.84,926.14,speaker_1,D,Sure.
+926.74,927.30,speaker_0,B,"Okay, maybe."
+927.74,936.90,speaker_1,D,"I remember when the first remote control my, my family had was on a cable. It actually had a cable between it- ... and the TV and big, like, buttons that sort of, like, like on a blender or something."
+937.02,937.40,speaker_0,B,My goodness.
+937.48,946.04,speaker_1,D,"And, um, you know, when I think about what they are now, it's better, but actually it's still kind of, I don't know, like, a massive junky thing on the table."
+946.38,946.70,speaker_0,B,Still feel quite primitive?
+946.70,951.10,speaker_1,D,"Maybe we could think about how it could be more, you know, streamlined."
+951.44,952.72,speaker_0,B,Maybe like a touchscreen or something?
+953.16,954.06,speaker_1,D,"Something like that, yeah."
+954.26,954.26,speaker_0,B,Okay.
+954.28,956.32,speaker_1,D,Or whatever would be technologically reasonable.
+956.44,958.06,speaker_0,B,"Uh-huh, okay. Well, I guess that's up to our industrial designer."
+958.06,962.54,speaker_1,D,"'Cause it could, it could, it could be that, it could be that functionally that doesn't make it any better, but that just the appeal of-"
+962.56,962.96,speaker_0,B,Makes it better
+962.96,969.08,speaker_1,D,"... of not having... You know, these days every pe- things in people's homes are becoming more and more, like, chic, you know?"
+969.16,969.36,speaker_0,B,Yeah.
+969.74,971.58,speaker_1,D,"Um, nicer materials and-"
+971.92,972.28,speaker_0,B,Okay
+972.28,972.90,speaker_1,D,... might be-
+975.26,975.54,speaker_0,B,Okay
+975.56,976.48,speaker_1,D,... be worth exploring.
+976.56,976.74,speaker_3,C,Yeah.
+977.26,994.50,speaker_0,B,"Right. Well, um, so just to wrap up, the next meeting's gonna be in 30 minutes, so that's about, um, about 10 to 12 by my watch. Um, so in between now and then, um, as the industrial designer, you're gonna be working on, you know, the actual working design-"
+994.56,994.56,speaker_1,D,Yeah
+994.56,1019.28,speaker_0,B,"... of it, so y- you know what you're doing there. Um, for our user interface, technical functions, I guess that's, you know, like what we've been talking about, what it'll actually do. Um, and, uh, marketing executive, you'll be just thinking about what it actually, what, you know, what requirements it has to, has to fulfill, and you'll all get instructions emailed to you, I guess."
+1019.72,1020.00,speaker_1,D,Okay.
+1021.68,1022.14,speaker_0,B,"Um,"
+1026.08,1031.50,speaker_0,B,"okay. Yeah, so it's the, the functional design stage is next, I guess."
+1034.58,1039.96,speaker_0,B,"And, uh, and that's the end of the meeting. So I got that-"
+1040.00,1040.00,speaker_1,D,Um-
+1040.00,1042.56,speaker_0,B,"... little message a lot sooner than I thought I would, so..."
+1047.24,1049.62,speaker_1,D,"Before we wrap up, just to make sure we're all on the same page here."
+1049.74,1049.98,speaker_0,B,Mm-hmm.
+1050.24,1056.66,speaker_1,D,"Um, do we... We were given sort of an example of a coffee machine or something, right?"
+1056.70,1056.80,speaker_0,B,"Uh-huh, yeah."
+1056.84,1057.08,speaker_3,C,Mm-hmm.
+1057.20,1073.26,speaker_1,D,"Well, um, are we ma- right now on the assumption that our television remote control may have features which go beyond the television, or are we keeping sort of like a, a design commitment to television features?"
+1073.64,1074.18,speaker_0,B,Okay. Well-
+1074.24,1074.40,speaker_1,D,I don't know
+1074.42,1076.86,speaker_0,B,"... just very quickly, 'cause s- we're supposed to finish now."
+1076.86,1076.86,speaker_1,D,"Yeah, sure."
+1077.42,1081.98,speaker_0,B,"Um, I guess that's up to us. I mean, you probably want some kind of unique selling point of it."
+1082.10,1082.34,speaker_1,D,Okay.
+1082.56,1084.68,speaker_0,B,"So, um, you know-"
+1084.70,1086.88,speaker_3,C,I think one factor would be production cost.
+1087.04,1087.26,speaker_1,D,Okay.
+1087.70,1087.76,speaker_0,B,Yeah.
+1087.76,1089.56,speaker_3,C,"Because there's a cap there for, um-"
+1089.96,1090.18,speaker_1,D,Okay
+1090.18,1093.26,speaker_3,C,... depends on how much you can cram into that price.
+1093.86,1093.92,speaker_0,B,Mm-hmm.
+1093.92,1094.10,speaker_1,D,Okay.
+1095.90,1096.06,speaker_0,B,Yeah.
+1096.12,1096.82,speaker_3,C,"I think, yeah, that's-"
+1098.62,1101.98,speaker_0,B,"Okay. Right. Okay. Well, that's, that's the end of the meeting then."
+1102.58,1105.20,speaker_1,D,All right.
+1105.20,1107.44,speaker_0,B,"Um, thank you all for coming."
+1111.14,1115.82,speaker_0,B,"God, I hope that was what they wanted us to do, isn't it? Um,"
+1118.40,1118.78,speaker_0,B,right.
+1119.74,1120.02,speaker_1,D,Great.
+1121.02,1122.36,speaker_0,B,How do you turn this thing off?
+1126.68,1130.18,speaker_0,B,"Was it function and... Ah, there we go."
+1133.06,1133.40,speaker_1,D,So-
+1134.34,1137.26,speaker_0,B,"I think if you can just leave it on maybe, and then, um-"
+1137.72,1138.56,speaker_2,A,Try the bulb.
+1138.90,1140.80,speaker_0,B,"Oh, God, this has turned itself off."
+1143.48,1147.98,speaker_2,A,"Try, try pushing the function and, uh, eight, F8."
+1148.64,1148.94,speaker_0,B,Uh-huh.
+1151.86,1152.38,speaker_0,B,"Oh, there it is."
+1152.40,1154.38,speaker_2,A,"Yeah, it's just the screen."
+1154.38,1157.12,speaker_0,B,"Oh, thank goodness. Okay. Right."
+1168.46,1170.18,speaker_1,D,"This is all very high tech, I must say."
+1170.38,1171.16,speaker_0,B,"I know, isn't it? Right."
+1177.08,1179.54,speaker_0,B,"I don't, I don't know. Uh, do you guys go back to your, um-"
+1179.90,1180.10,speaker_1,D,Mm-hmm
+1180.10,1181.34,speaker_0,B,... where you were working or something?
+1181.40,1182.08,speaker_1,D,I think so.
+1183.26,1184.12,speaker_0,B,All right.
+1185.26,1188.56,speaker_1,D,"Lots of unplugging. It's a good thing we, we don't each have a cat at home."
+1192.66,1193.50,speaker_1,D,It's kinda what it feels like.
+1197.18,1198.76,speaker_0,B,"Okay. Um, I'm gonna unplug myself."
+1203.32,1204.52,speaker_2,A,Too many wires.
+1214.18,1217.08,speaker_0,B,I have to do a design project next semester. This is quite good training.
+1218.96,1222.40,speaker_2,A,"Ah, perfect. Ah. Imagine that thing we do."
+1225.74,1226.62,speaker_2,A,What courses are you taking?
+1227.58,1230.04,speaker_0,B,"Um, well, I'm talking about new SDP."
+1230.26,1230.48,speaker_2,A,Yeah.
+1230.82,1233.78,speaker_0,B,"All of them I do. Uh, computer design-"
+1234.24,1234.24,speaker_2,A,Oh
+1234.26,1237.92,speaker_0,B,"... operating systems, um, ADF."
+1239.06,1239.68,speaker_2,A,"Oh, next semester."
+1240.10,1240.94,speaker_0,B,"Oh, next semester?"
+1241.38,1241.38,speaker_2,A,Yeah.
+1241.46,1251.50,speaker_0,B,"Um, computer security and computer architecture and something else. I don't know. Is it-"
+1251.54,1252.20,speaker_2,A,Database system.
+1252.54,1252.76,speaker_0,B,Sorry?
+1252.86,1253.84,speaker_2,A,Database systems and advanced computing.
+1253.92,1254.82,speaker_0,B,"No, we're not doing that."
+1254.94,1255.12,speaker_1,D,Good.
+1255.98,1262.60,speaker_0,B,"There we go. Oh, I don't know. I mean- ... I don't really know how it was supposed to go, but whatever."
+1262.92,1264.74,speaker_1,D,As long as you are up to date with your assignments then.
+1265.40,1265.68,speaker_0,B,Yes.
+1266.52,1267.18,speaker_1,D,That's the main thing.
+1270.60,1272.58,speaker_0,B,"I, I was ki- I wasn't expecting the fuzz"

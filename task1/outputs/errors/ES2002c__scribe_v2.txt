@@ -1,0 +1,95 @@
+Top substitutions (reference -> hypothesis):
+    16  colour -> color
+    10  l_c_d_ -> lcd
+     7  colours -> colors
+     7  dunno -> know
+     6  sorta -> of
+     3  uh -> um
+     3  mm -> ok
+     3  yep -> yeah
+     2  kinda -> of
+     2  and -> um
+     2  t_v_ -> tv
+     2  did -> do
+     2  alright -> right
+     2  f_ -> f
+     2  lemme -> me
+     2  stand -> standby
+     2  then -> they
+     2  we -> we've
+     2  yeah -> hmm
+     2  hmm -> mm
+     2  the -> a
+     2  so -> we
+     2  the -> i
+     2  em -> them
+     1  make -> well
+     1  powered -> power
+     1  that -> don't
+     1  everything -> think
+     1  sounds -> so
+     1  if -> all
+
+Top deletions (in reference, missing from hypothesis):
+    35  yeah
+    33  mm
+    28  hmm
+    17  ok
+    11  it
+     8  s
+     8  i
+     8  a
+     7  uh
+     7  um
+     7  you
+     6  the
+     6  and
+     5  so
+     5  well
+     5  yep
+     5  of
+     4  right
+     4  are
+     4  it's
+     4  th
+     4  y
+     4  could
+     4  sure
+     4  or
+     4  think
+     3  be
+     3  if
+     3  huh
+     3  oh
+
+Top insertions (in hypothesis, not in reference):
+    15  yeah
+     9  mm
+     9  it
+     9  ok
+     8  don't
+     8  a
+     7  the
+     6  hmm
+     5  that
+     5  sort
+     5  of
+     5  uh
+     5  um
+     4  if
+     4  and
+     4  like
+     4  you
+     3  are
+     3  well
+     3  i
+     3  know
+     3  so
+     2  kind
+     2  about
+     2  i'm
+     2  all
+     2  let
+     2  to
+     2  just
+     2  it's
