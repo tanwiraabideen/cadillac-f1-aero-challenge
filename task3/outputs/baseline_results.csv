@@ -1,0 +1,51 @@
+id,meeting,time,word,context,screen_status,category,target_capture,confidence,prediction,correct,failure_reason
+ES2002a_0002,ES2002a,64.24,this,"for our, our project. And, um, [this] is just what we're gonna be",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002a_0016,ES2002a,181.42,this,"fine. Very good. All right. So, [this] one here, right? Mm-hmm. Okay. Very",no capture,whiteboard,,medium,,False,no capture: referent not on screen anyway
+ES2002a_0028,ES2002a,380.27,that's,"in there. Do you? Yeah. Oh, [that's] very good of you. Now I",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002a_0031,ES2002a,430.31,this,he chases his tail as well. [This] is quite amusing. Um- Is he,no capture,unclear,,low,,False,label unclear
+ES2002a_0037,ES2002a,484.79,this,"Um, so we're gonna be selling [this] on an international scale. And, uh,",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002a_0045,ES2002a,622.21,this,"gosh, I should be writing all [this] down. Um... Right away, I'm making",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002a_0054,ES2002a,725.75,that,"other background information on, like, how [that] compares to other- No, actually ...",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002a_0058,ES2002a,848.44,there,"watch. Like, you might put in [there,] ""Oh, I want to watch-"" Yeah",captured,spoken,,high,ES2002a_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002a_0063,ES2002a,915.50,those,under the table. Yeah. You get [those] ones where you can- That's just,captured,spoken,,high,ES2002a_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002a_0065,ES2002a,920.92,that,"beep. Yeah. They're... I mean, is [that] something we'd want to include, do",captured,spoken,,high,ES2002a_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002a_0073,ES2002a,964.22,these,"... of not having... You know, [these] days every pe- things in people's",captured,no_referent,,high,ES2002a_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002a_0076,ES2002a,1001.44,that's,"user interface, technical functions, I guess [that's,] you know, like what we've been",captured,no_referent,,high,ES2002a_s02,False,not pointing at anything visible (spoken / no referent)
+ES2002a_0079,ES2002a,1049.48,here,"we're all on the same page [here.] Mm-hmm. Um, do we... We were",captured,no_referent,,high,ES2002a_s03,False,not pointing at anything visible (spoken / no referent)
+ES2002a_0083,ES2002a,1088.52,there,"Okay. Yeah. Because there's a cap [there] for, um- Okay ... depends on",captured,no_referent,,high,ES2002a_s03,False,not pointing at anything visible (spoken / no referent)
+ES2002b_0024,ES2002b,302.52,that,"know what you're doing. Um, in [that] case, the labeling tends to be",captured,no_referent,,high,ES2002b_s02,False,not pointing at anything visible (spoken / no referent)
+ES2002b_0026,ES2002b,316.02,here,"Uh, uh- Mm-hmm. You see just [here,] um, there's a button there and",captured,physical_object,,medium,ES2002b_s03,False,"points at something in the room, not the screen"
+ES2002b_0039,ES2002b,406.90,this,"could also th- add some to [this,] which is just about sort of,",captured,spoken,,high,ES2002b_s06,False,not pointing at anything visible (spoken / no referent)
+ES2002b_0040,ES2002b,430.82,this,"the idea it'll be p- probably [this] size, you know? Yeah. And it's",captured,screen_item,ES2002b_s07,medium,ES2002b_s07,True,
+ES2002b_0059,ES2002b,580.12,those,"example, if we had audio controls, [those] could be something people set up",captured,spoken,,high,ES2002b_s07,False,not pointing at anything visible (spoken / no referent)
+ES2002b_0064,ES2002b,619.50,this,"to, to wrap up quickly on [this,] this little section. Have I just",captured,spoken,,medium,ES2002b_s07,False,not pointing at anything visible (spoken / no referent)
+ES2002b_0087,ES2002b,779.08,here,"Yeah, you wanna? Um. Oh, oh, [here] we go. Yeah. Okay, great. There",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002b_0105,ES2002b,894.46,that,"Okay, I'm gonna-- we'll look at [that] in a second. Um, most people",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002b_0124,ES2002b,1000.44,this,"how we wanna sell and market [this,] I think a recurring theme here",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002b_0135,ES2002b,1051.96,these,"I find a lot of TVs [these] days, something really nice about them",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002b_0167,ES2002b,1227.44,these,"it down to say, let's target [these] people- Okay ... and give them",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002b_0286,ES2002b,1954.45,this,"things into, like, if we want [this] feature, let's throw it into there.",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002c_0003,ES2002c,35.68,that,"to 35. Mm-hmm. Um, we decided [that] it was gonna be non-rechargeable battery",no capture,spoken,,medium,,False,no capture: referent not on screen anyway
+ES2002c_0025,ES2002c,186.78,here,"right, so let's have a look [here.] Okay, so this was the method",captured,no_referent,,high,ES2002c_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002c_0073,ES2002c,409.82,this,"be in our favor. Um, so [this,] this is the summary of everything.",captured,screen_whole,ES2002c_s04,high,ES2002c_s04,True,
+ES2002c_0084,ES2002c,476.08,this,"what I, what I'm suggesting in [this] slide here is that we, we",captured,screen_whole,ES2002c_s05,high,ES2002c_s05,True,
+ES2002c_0137,ES2002c,920.27,this,"Yeah. Okay, let me just get [this-] Yeah ... going first. Ah, there",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002c_0152,ES2002c,1067.65,these,"an LCD display. Um, I think [these] are quite standard things. They're standard,",captured,screen_whole,ES2002c_s14,high,ES2002c_s14,True,
+ES2002c_0214,ES2002c,1691.20,that,"can visualize it. Yeah, something like [that.] Um, you got two groups there.",captured,unclear,,low,ES2002c_s18,False,label unclear
+ES2002c_0221,ES2002c,1724.52,this,"nice if we just add, um, [this] bit around here, uh, the sort",captured,whiteboard,,high,ES2002c_s18,False,"points at something in the room, not the screen"
+ES2002c_0249,ES2002c,1987.50,here,"that's what energy is referring to [here.] Chip on print, is that... That's",no capture,unclear,,low,,False,label unclear
+ES2002c_0270,ES2002c,2082.20,there,bit of a glow. Yeah. Mm-hmm. [There] you go. Doesn't make it freaky.,no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002c_0301,ES2002c,2251.82,there,"time. It's kind of- Um, is [there] anything anybody's unsure about? Just for",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002c_0321,ES2002c,2395.90,this,"to be left. It's your... Ah. [This] is a real hassle, the... Oops.",no capture,no_referent,,high,,False,no capture: referent not on screen anyway
+ES2002d_0024,ES2002d,181.52,here,"of dimensions are you thinking about [here?] Well, we want the, the buttons",no capture,spoken,,high,,False,no capture: referent not on screen anyway
+ES2002d_0043,ES2002d,293.66,these,"skip straight to a channel using [these] buttons. Okay. Um, we were gonna",no capture,unclear,,low,,False,label unclear
+ES2002d_0047,ES2002d,355.94,these,"sharpness. Sharpness. Um, a lot of [these] things will have to be, um,",no capture,unclear,,medium,,False,label unclear
+ES2002d_0056,ES2002d,410.75,this,"the, the Excel sheet and price [this] thing and see if we need",no capture,spoken,,high,,False,no capture: referent was on screen but not captured
+ES2002d_0060,ES2002d,435.25,here,"chip ... what about the electronics [here?] We need an advance chip, I",no capture,screen_item,,medium,,False,no capture: referent was on screen but not captured
+ES2002d_0083,ES2002d,632.93,there,"The 12 buttons that you see [there.] 12 buttons. It's, um, one piece",captured,physical_object,,high,ES2002d_s01,False,"points at something in the room, not the screen"
+ES2002d_0096,ES2002d,718.11,that,about with embossing the logo? Isn't [that] going to cost us some money?,captured,spoken,,high,ES2002d_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002d_0102,ES2002d,738.19,there,"so. Yeah. Right. Okay. Well, well, [there] we go. So I'm just gonna",captured,no_referent,,high,ES2002d_s01,False,not pointing at anything visible (spoken / no referent)
+ES2002d_0176,ES2002d,1289.11,this,"information, I thought, okay, in theory, [this] kind of a process would be",captured,spoken,,medium,ES2002d_s04,False,not pointing at anything visible (spoken / no referent)
+ES2002d_0183,ES2002d,1409.23,these,"say what you think about, about [these] four points and... Uh, not those",captured,unclear,,medium,ES2002d_s05,False,label unclear
+ES2002d_0190,ES2002d,1445.33,this,"Uh, as a note, we'll do [this] alphabetically. Um, do you wanna start,",captured,spoken,,high,ES2002d_s05,False,not pointing at anything visible (spoken / no referent)
+ES2002d_0227,ES2002d,1771.68,that,"Um, did you wanna comment? Reckon [that] was a bit hard because we",no capture,spoken,,high,,False,no capture: referent not on screen anyway
